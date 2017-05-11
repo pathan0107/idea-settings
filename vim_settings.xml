@@ -239,11 +239,11 @@
         <mark key="^" line="30" column="73" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/domain/AuditEventType.java" timestamp="1494508858945">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="18" column="66" />
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/domain/AuditEventType.java" timestamp="1494508937298">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -367,6 +367,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" timestamp="1494509748501">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/resources/application-uat.yml" timestamp="1491316846093">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="36" />
@@ -378,6 +384,12 @@
         <mark key="]" line="10" column="13" />
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/web/rest/AuditResource.java" timestamp="1494509467294">
+        <mark key="[" line="99" column="34" />
+        <mark key="]" line="99" column="34" />
+        <mark key="^" line="96" column="28" />
+        <mark key="." line="99" column="34" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/entity/PhoneNumberType.java" timestamp="1494000139332">
         <mark key="[" line="6" column="10" />
@@ -750,6 +762,11 @@
         <mark key="." line="43" column="31" />
         <mark key="^" line="39" column="33" />
       </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.service.js" timestamp="1494509537718">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/Application.java" timestamp="1492685265156">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
@@ -1032,6 +1049,11 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.js" timestamp="1494509580028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceLookupProcessor.java" timestamp="1486111764978">
         <mark key="[" line="28" column="100" />
         <mark key="]" line="28" column="100" />
@@ -1190,11 +1212,11 @@
       <jump line="6" column="2726" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/3.4.2/c91ccf342466857251cf6795b0cecc42509206f2/liquibase-core-3.4.2.jar!/liquibase/sdk/watch/css/bootstrap-theme.min.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>description</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>btn</text>
@@ -1203,7 +1225,7 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuLWluZm8iPtCd0LDRgdGC0YDQvtC50LrQuDwvYnV0dG9uPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1228,28 +1250,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbXVyYXQgb24gNS8xMS8xNy4KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSgnYXVkaXRzJywgewogICAgICAgICAgICBwYXJlbnQ6ICdhZG1pbicsCiAgICAgICAgICAgIHVybDogJy9hdWRpdHMnLAogICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICBhdXRob3JpdGllczogWydST0xFX0FETUlOJ10sCiAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICfQkNGD0LTQuNGCJwogICAgICAgICAgICB9LAogICAgICAgICAgICB2aWV3czogewogICAgICAgICAgICAgICAgJ2NvbnRlbnRAJzogewogICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlVXJsOiAnYXBwL2FkbWluL2F1ZGl0cy9hdWRpdHMuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcjogJ0F1ZGl0c0NvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJBczogJ3ZtJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dldCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MztST0xFX01PREVSQVRPUgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MztST0xFX01PREVSQVRPUgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuLWluZm8iPtCd0LDRgdGC0YDQvtC50LrQuDwvYnV0dG9uPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNsYXNzaWMuTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSgnYXVkaXRzJywgewogICAgICAgICAgICBwYXJlbnQ6ICdhZG1pbicsCiAgICAgICAgICAgIHVybDogJy9hdWRpdHMnLAogICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICBhdXRob3JpdGllczogWydST0xFX0FETUlOJ10sCiAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICfQkNGD0LTQuNGCJwogICAgICAgICAgICB9LAogICAgICAgICAgICB2aWV3czogewogICAgICAgICAgICAgICAgJ2NvbnRlbnRAJzogewogICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlVXJsOiAnYXBwL2FkbWluL2F1ZGl0cy9hdWRpdHMuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcjogJ0F1ZGl0c0NvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJBczogJ3ZtJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
+        <text encoding="base64">MztST0xFX01PREVSQVRPUgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNsYXNzaWMuTG9nZ2VyOwo=</text>
+        <text encoding="base64">MztST0xFX01PREVSQVRPUgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
