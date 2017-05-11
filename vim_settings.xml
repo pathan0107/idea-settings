@@ -48,7 +48,7 @@
         <mark key="." line="28" column="122" />
         <mark key="^" line="28" column="122" />
       </file>
-      <file name="/a.dummy" timestamp="1494510927331">
+      <file name="/a.dummy" timestamp="1494514520755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/templates/esia-auth.html" timestamp="1493279826023">
@@ -417,6 +417,11 @@
         <mark key="]" line="26" column="7" />
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/audit_filter.csv" timestamp="1494514432538">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/templates/esia-autorize.html" timestamp="1493302317847">
         <mark key="[" line="8" column="45" />
@@ -1231,10 +1236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ImRlZmF1bHQiLCA=</text>
+        <text>;system</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImRlZmF1bHQiLCA=</text>
+        <text>;system</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</text>
