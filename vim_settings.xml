@@ -161,11 +161,12 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" timestamp="1494511606861">
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" timestamp="1494513482364">
         <mark key="'" line="7" column="108" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
@@ -272,11 +273,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.html" timestamp="1494511965298">
-        <mark key="[" line="12" column="75" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="12" column="74" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.html" timestamp="1494513113200">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/gitLab/ex/src/main/resources/config/application-prod.yml" timestamp="1488359073910">
         <mark key="[" line="1" column="17" />
@@ -1229,11 +1230,11 @@
       <jump line="4" column="43" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ImRlZmF1bHQiLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>AuditEventType</text>
+        <text encoding="base64">ImRlZmF1bHQiLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</text>
@@ -1242,7 +1243,7 @@
         <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsKICAgIGFuZ3VsYXIKICAgICAgICAubW9kdWxlKCdzZWxmU2VydmljZVBvcnRhbEFwcCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1267,28 +1268,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXVkaXRzU2VydmljZS5nZXQoImRlZmF1bHQiLCBvblN1Y2Nlc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5hZGRBbGwoYXVkaXRFdmVudFR5cGVzLCBBdWRpdEV2ZW50VHlwZS52YWx1ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjxzcGFuPnt7YXVkaXQudGltZXN0YW1wfCBkYXRlOidtZWRpdW0nfX08L3NwYW4+PC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg0PtCk0LjQu9GM0YLRgCDQv9C+INC00LDRgtC1PC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIG5nLWNsaWNrPSJwcmVkaWNhdGUgPSAndHlwZSc7IHJldmVyc2U9IXJldmVyc2UiPjxzcGFuPtCh0L7RgdGC0L7Rj9C90LjQtTwvc3Bhbj48L3RoPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImlucHV0LWdyb3VwIj4KICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIG5nLWNsaWNrPSJwcmVkaWNhdGUgPSAncHJpbmNpcGFsJzsgcmV2ZXJzZT0hcmV2ZXJzZSI+PHNwYW4+0J/QvtC70YzQt9C+0LLQsNGC0LXQu9GMPC9zcGFuPjwvdGg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+0YE8L3NwYW4+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZGF0ZSIgY2xhc3M9ImlucHV0LXNtIGZvcm0tY29udHJvbCIgbmFtZT0ic3RhcnQiIG5nLW1vZGVsPSJ2bS5mcm9tRGF0ZSIgbmctY2hhbmdlPSJ2bS5vbkNoYW5nZURhdGUoKSIgcmVxdWlyZWQvPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj7Qv9C+PC9zcGFuPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImRhdGUiIGNsYXNzPSJpbnB1dC1zbSBmb3JtLWNvbnRyb2wiIG5hbWU9ImVuZCIgbmctbW9kZWw9InZtLnRvRGF0ZSIgbmctY2hhbmdlPSJ2bS5vbkNoYW5nZURhdGUoKSIgcmVxdWlyZWQvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2bS5saW5rcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLmF1ZGl0RXZlbnRUeXBlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5hZGRBbGwoYXVkaXRFdmVudFR5cGVzLCBBdWRpdEV2ZW50VHlwZS52YWx1ZXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PtCk0LjQu9GM0YLRgCDQv9C+INC00LDRgtC1PC9oND4K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
