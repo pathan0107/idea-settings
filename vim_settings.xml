@@ -239,6 +239,12 @@
         <mark key="^" line="30" column="73" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/domain/AuditEventType.java" timestamp="1494508858945">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="18" column="66" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="40" column="31" />
