@@ -922,6 +922,9 @@
         <mark key="." line="107" column="85" />
         <mark key="^" line="107" column="85" />
       </file>
+      <file name="/Dummy.txt" timestamp="1494501836532">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/config/WebConfigurer.java" timestamp="1490975180079">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
