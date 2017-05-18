@@ -322,8 +322,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/3.4.2/c91ccf342466857251cf6795b0cecc42509206f2/liquibase-core-3.4.2.jar!/liquibase/sdk/watch/css/bootstrap-theme.min.css" timestamp="1494506658746">
-        <mark key="'" line="6" column="2726" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/AppController.java" timestamp="1495123739524">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/Application.java" timestamp="1492082632433">
         <mark key="[" line="13" column="1" />
@@ -506,6 +509,12 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/Entity.java" timestamp="1495123222225">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/heroimpl/SuperMan.java" timestamp="1491148179899">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="8" column="19" />
@@ -548,6 +557,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495123274471">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/Cache.java" timestamp="1492936485995">
         <mark key="[" line="7" column="49" />
@@ -809,6 +824,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/App.java" timestamp="1495123702067">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/gitLab/rostov/RLDD_KRD/docker-run.sh" timestamp="1487350362717">
         <mark key="[" line="2" column="118" />
         <mark key="]" line="2" column="257" />
@@ -844,9 +865,6 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/gradle.properties" timestamp="1494066039602">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" timestamp="1494510501358">
         <mark key="'" line="9" column="89" />
@@ -1242,11 +1260,11 @@
       <jump line="4" column="43" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">0JTQvtCx0LDQstC40Lsg0L3QsNGB0YLRgNC+0LnQutC4INCV0KHQmNCQINC00LvRjyDQv9GA0L7QtNCwCg==</text>
+      <register name="&quot;" type="4">
+        <text>Component</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</text>
@@ -1255,7 +1273,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImNyIj48aSBjbGFzcz0iY3ItaWNvbiBnbHlwaGljb24gZ2x5cGhpY29uLW9rIj48L2k+PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">0JTQvtCx0LDQstC40Lsg0L3QsNGB0YLRgNC+0LnQutC4INCV0KHQmNCQINC00LvRjyDQv9GA0L7QtNCwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1280,28 +1298,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">CiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWdyYWRsZS1wbHVnaW46MS41LjIuUkVMRUFTRSIpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPjxzcGFuPtCS0LrQu9GO0YfQuNGC0Ywg0L7RgtGH0LXRgjwvc3Bhbj48L3RoPgo=</text>
+        <text encoding="base64">0JTQvtCx0LDQstC40Lsg0L3QsNGB0YLRgNC+0LnQutC4INCV0KHQmNCQINC00LvRjyDQv9GA0L7QtNCwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgPHNwYW4gbmctc2hvdz0iYXVkaXQuZGF0YS5tZXNzYWdlIj57e2F1ZGl0LmRhdGEubWVzc2FnZX19PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gbmctc2hvdz0iYXVkaXQuZGF0YS5yZW1vdGVBZGRyZXNzIj48c3Bhbj7Qo9C00LDQu9C10L3QvdGL0Lkg0LDQtNGA0LXRgTwvc3Bhbj4ge3thdWRpdC5kYXRhLnJlbW90ZUFkZHJlc3N9fTwvc3Bhbj4KICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICA8dWliLXBhZ2luYXRpb24gY2xhc3M9InBhZ2luYXRpb24tc20iIHRvdGFsLWl0ZW1zPSJ2bS50b3RhbEl0ZW1zIiBuZy1tb2RlbD0idm0ucGFnZSIgbmctY2hhbmdlPSJ2bS5sb2FkUGFnZSh2bS5wYWdlKSI+PC91aWItcGFnaW5hdGlvbj4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXVkaXRzU2VydmljZS5nZXQoImRlZmF1bHQiLCBvblN1Y2Nlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjxzcGFuPtCS0LrQu9GO0YfQuNGC0Ywg0L7RgtGH0LXRgjwvc3Bhbj48L3RoPgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
