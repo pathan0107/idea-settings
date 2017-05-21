@@ -928,6 +928,12 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" timestamp="1495364091823">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/entity/Coordinates.java" timestamp="1492096729644">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="18" />
@@ -1164,8 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="37" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
-      <jump line="32" column="35" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
       <jump line="33" column="56" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
       <jump line="37" column="56" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
       <jump line="19" column="37" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
@@ -1264,13 +1268,15 @@
       <jump line="9" column="89" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
       <jump line="26" column="13" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.service.js" />
       <jump line="4" column="43" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" />
+      <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Entity</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Entity</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</text>
@@ -1279,7 +1285,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImNyIj48aSBjbGFzcz0iY3ItaWNvbiBnbHlwaGljb24gZ2x5cGhpY29uLW9rIj48L2k+PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1304,28 +1310,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PEVudGl0eT4oZW50aXR5LCBIdHRwU3RhdHVzLk9LKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHR3b0V4Y2VwdGlvbnNNZXRob2QyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpOwogICAgICAgIH1jYXRjaCAoTnVsbFBvaW50ZXJFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV4LmdldE1lc3NhZ2UoKSsgIiBjYXRjaCIpOzsKICAgICAgICB9CiAgICAgICAgZmluYWxseSB7CiAgICAgICAgICAgIEV4Y2VwdGlvbiBleDIgPSBuZXcgRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHJldHVybiBleDIuZ2V0TWVzc2FnZSgpICsgImZpbmFsbHkiOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHR3b0V4Y2VwdGlvbnNNZXRob2QyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpOwogICAgICAgIH1jYXRjaCAoTnVsbFBvaW50ZXJFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV4LmdldE1lc3NhZ2UoKSsgIiBjYXRjaCIpOzsKICAgICAgICB9CiAgICAgICAgZmluYWxseSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXhjZXB0aW9uIHR3b0V4Y2VwdGlvbnNNZXRob2QoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uKCk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBFeGNlcHRpb24gZXggPSB0d29FeGNlcHRpb25zTWV0aG9kKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV4LmdldENsYXNzKCkpOwoKICAgICAgICBTdHJpbmcgcyA9IHR3b0V4Y2VwdGlvbnNNZXRob2QyKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWdyYWRsZS1wbHVnaW46MS41LjIuUkVMRUFTRSIpCiAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>package sfg;
+
+/**
+ * Created by murat on 5/21/17.
+ */
+public class TestClass {
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">0JTQvtCx0LDQstC40Lsg0L3QsNGB0YLRgNC+0LnQutC4INCV0KHQmNCQINC00LvRjyDQv9GA0L7QtNCwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PEVudGl0eT4oZW50aXR5LCBIdHRwU3RhdHVzLk9LKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
