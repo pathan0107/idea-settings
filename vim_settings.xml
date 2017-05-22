@@ -138,11 +138,6 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/application-uat.yml" timestamp="1493997231242">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="142" column="63" />
-      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/config/DatabaseConfiguration.java" timestamp="1494002926555">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="28" />
@@ -333,6 +328,9 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/RedirectServilet.java" timestamp="1495441046171">
+        <mark key="[" line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/Application.java" timestamp="1492082632433">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="0" />
@@ -483,6 +481,11 @@
         <mark key="]" line="5" column="48" />
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/RedirectServlet.java" timestamp="1495441225331">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/DropTempCollectionsProcessor.java" timestamp="1485966089179">
         <mark key="[" line="20" column="0" />
@@ -824,17 +827,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" timestamp="1495439808079">
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" timestamp="1495441337634">
         <mark key="'" line="16" column="44" />
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/config/DatabaseConfiguration.java" timestamp="1494448022873">
-        <mark key="'" line="13" column="51" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="28" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/App.java" timestamp="1495123702067">
         <mark key="[" line="6" column="22" />
@@ -877,11 +875,6 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" timestamp="1494510501358">
-        <mark key="'" line="9" column="89" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="55" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
@@ -1163,11 +1156,6 @@
         <mark key="." line="28" column="100" />
         <mark key="^" line="28" column="89" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.service.js" timestamp="1494510619820">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/repository/AptekaRepository.java" timestamp="1492174268384">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="70" />
@@ -1285,19 +1273,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>req.getRequestDispatcher(req.getServletPath()).</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>req.getRequestDispatcher(req.getServletPath()).</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIucHJpbnRsbihnZXRTZXJ2bGV0Q29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIucHJpbnRsbihnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTZXJ2bGV0Q29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIucHJpbnRsbihyZXEuZ2V0UmVxdWVzdERpc3BhdGNoZXIoIi9nb3R5b3UiKS4pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1322,28 +1310,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuZ2UK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciB3cml0ZXIgPSByZXNwLmdldFdyaXRlcigpOwogICAgICAgIHdyaXRlci5wcmludGxuKCJmdWxsUGF0aDogIiArIHJlc3AuZW5jb2RlUmVkaXJlY3RVUkwoZ2V0U2VydmxldENvbnRleHQoKS5nZXRSZWFsUGF0aChyZXEuZ2V0U2VydmxldFBhdGgoKSkpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigic2VydmxldCByZWxhdGl2ZSBwYXRoOiAiICsgcmVxLmdldFNlcnZsZXRQYXRoKCkpOwogICAgICAgIHdyaXRlci5wcmludGxuKCJzZXJ2bGV0Q29uZmlnOiAiICsgZ2V0U2VydmxldENvbmZpZygpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigic2VydmxldENvbnRleHQ6ICIgKyBnZXRTZXJ2bGV0Q29udGV4dCgpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigiY29uZmlnIHNlcnZsZXQgY29udGV4dDogIiArIGdldFNlcnZsZXRDb25maWcoKS5nZXRTZXJ2bGV0Q29udGV4dCgpKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRTZXJ2bGV0Q29udGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuZ2UK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBXcml0ZXIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciB3cml0ZXIgPSByZXNwLmdldFdyaXRlcigpOwogICAgICAgIHdyaXRlci5wcmludGxuKCJmdWxsUGF0aDogIiArIHJlc3AuZW5jb2RlUmVkaXJlY3RVUkwoZ2V0U2VydmxldENvbnRleHQoKS5nZXRSZWFsUGF0aChyZXEuZ2V0U2VydmxldFBhdGgoKSkpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigic2VydmxldCByZWxhdGl2ZSBwYXRoOiAiICsgcmVxLmdldFNlcnZsZXRQYXRoKCkpOwogICAgICAgIHdyaXRlci5wcmludGxuKCJzZXJ2bGV0Q29uZmlnOiAiICsgZ2V0U2VydmxldENvbmZpZygpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigic2VydmxldENvbnRleHQ6ICIgKyBnZXRTZXJ2bGV0Q29udGV4dCgpKTsKICAgICAgICB3cml0ZXIucHJpbnRsbigiY29uZmlnIHNlcnZsZXQgY29udGV4dDogIiArIGdldFNlcnZsZXRDb25maWcoKS5nZXRTZXJ2bGV0Q29udGV4dCgpKTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuZ2V0U2VydmxldFBhdGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmdldHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBXcml0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldCBzZXJ2bGV0ID0gbmV3IFRlc3RTZXJ2bGV0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXEuZ2V0U2VydmxldFBhdGgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmVuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmdldHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
