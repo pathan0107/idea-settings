@@ -192,6 +192,12 @@
         <mark key="^" line="68" column="14" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/formAction.jsp" timestamp="1495540936173">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/BoardGenerator.java" timestamp="1492371190480">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="15" />
@@ -405,11 +411,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" timestamp="1495540227720">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" timestamp="1495541584832">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/CacheStrategy.java" timestamp="1492854655771">
         <mark key="[" line="18" column="45" />
@@ -835,12 +840,11 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" timestamp="1495466524264">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="35" column="60" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="35" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" timestamp="1495541097450">
+        <mark key="'" line="17" column="44" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/App.java" timestamp="1495123702067">
         <mark key="[" line="6" column="22" />
@@ -929,11 +933,11 @@
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/web.xml" timestamp="1495452757556">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/web.xml" timestamp="1495541668939">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/templates/esia-authorize.html" timestamp="1493385257148">
         <mark key="[" line="9" column="18" />
@@ -1196,10 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="56" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
-      <jump line="19" column="37" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
-      <jump line="18" column="60" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" />
-      <jump line="115" column="51" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/rest/WidgetResource.java" />
       <jump line="7" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="12" column="18" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="35" column="14" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1296,22 +1296,26 @@
       <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
       <jump line="14" column="44" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
+      <jump line="18" column="2" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
+      <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlc3BvbnNlOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGpzcDpnZXRQcm9wZXJ0eSBuYW1lPSJ1c2VyQmVhbiIgcHJvcGVydHk9Im5hbWUiIC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1336,28 +1340,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHBhZ2VDb250ZXh0LnNldEF0dHJpYnV0ZSgiYm9vbCIsIHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZSgiYm9vbFwiKX0iPgogICAgICA8cD5UcnVlPC9wPgogIDwvYzppZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dCBwYWdlQ29udGV4dDsKICAgICAgICBwYWdlQ29udGV4dC4K</text>
+        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dCBwYWdlQ29udGV4dDsKICAgICAgICBwYWdlQ29udGV4dC5zZXRBdHRyaWJ1dGUoImF0dHIiLCAidmFsIiwgUGFnZUNvbnRleHQuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8JQogICAgICBwYWdlLgogICU+Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij5TYXZlPC9idXR0b24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PGpzcDp1c2VCZWFuIG5hbWU9InVzZXJCZWFuIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dAo=</text>
+        <text encoding="base64">ICA8anNwOnVzZUJlYW4gaWQ9InVzZXJCZWFuIiBjbGFzcz0ic2ZnLlVzZXJCZWFuIi8+CiAgPGpzcDpzZXRQcm9wZXJ0eSBuYW1lPSJ1c2VyQmVhbiIgcHJvcGVydHk9IioiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuanMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JSBwYWdlLiAlPiAK</text>
+        <text encoding="base64">ICA8L2Zvcm0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
