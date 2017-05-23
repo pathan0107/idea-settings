@@ -192,11 +192,11 @@
         <mark key="^" line="68" column="14" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/formAction.jsp" timestamp="1495540936173">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/formAction.jsp" timestamp="1495542733794">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
+        <mark key="^" line="4" column="65" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/BoardGenerator.java" timestamp="1492371190480">
         <mark key="[" line="3" column="7" />
@@ -411,10 +411,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" timestamp="1495541584832">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" timestamp="1495542854181">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="18" column="67" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/CacheStrategy.java" timestamp="1492854655771">
         <mark key="[" line="18" column="45" />
@@ -744,6 +745,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495541943382">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -1302,17 +1309,17 @@
       <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3M9InNmZy5Vc2VyQmVhbiIg</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">Y2xhc3M9InNmZy5Vc2VyQmVhbiIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGpzcDpnZXRQcm9wZXJ0eSBuYW1lPSJ1c2VyQmVhbiIgcHJvcGVydHk9Im5hbWUiIC8+</text>
+        <text encoding="base64">IHNjb3BlPSJzZXNzaW9uIiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
