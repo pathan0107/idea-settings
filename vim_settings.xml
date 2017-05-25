@@ -576,11 +576,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" timestamp="1495724090382">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" timestamp="1495725557913">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="29" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/domain/Apteka.java" timestamp="1492096431370">
         <mark key="[" line="12" column="28" />
@@ -1143,7 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="14" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="31" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="133" column="133" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="136" column="24" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1243,22 +1242,23 @@
       <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
       <jump line="150" column="24" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
       <jump line="481" column="0" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Application::printInfo</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQiBpcyAiICsgYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRJbmZvKFRocmVhZCB0aHJlYWQpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiVGhyZWFkIG5hbWUgaXM6IFxuJXNcbmFuZCBzdGF0ZSBpczogXG4lc1xuIiwKICAgICAgICAgICAgICAgIHRocmVhZC5nZXROYW1lKCksCiAgICAgICAgICAgICAgICB0aHJlYWQuZ2V0U3RhdGUoKS50b1N0cmluZygpCiAgICAgICAgKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQWN0aXZlIHRocmVhZHMgY291bnQ6ICVzXG5cbiIsIFN0cmluZy52YWx1ZU9mKFRocmVhZC5hY3RpdmVDb3VudCgpKSk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBwcmludEluZm8oKSB7CiAgICAgICAgcHJpbnRJbmZvKFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1283,28 +1283,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmICh0Mi5nZXRTdGF0ZSgpLmVxdWFscyhUaHJlYWQuU3RhdGUuUlVOTkFCTEUpKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHQxLmpvaW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Mi5zdGFydCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0Mi5zdGFydCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGIgPSBhLzI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdDIgPSBuZXcgVGhyZWFkKHIyLCAicjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IDEyOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZCByMSBzdGF0ZSBpczogIiArIHQxLmdldFN0YXRlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdDEgPSBuZXcgVGhyZWFkKHIxLCAicjEiKTsKICAgICAgICBUaHJlYWQgdDIgPSBuZXcgVGhyZWFkKHIyLCAicjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdDI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuam9pCg==</text>
+        <text encoding="base64">ICAgICAgICBSdW5uYWJsZSByMjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIyLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICByMiA9ICgpIC0+IHsKICAgICAgICAgICAgYSA9IDEyOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZCByMSBzdGF0ZSBpczogIiArIHQxLmdldFN0YXRlKCkpOwogICAgICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
