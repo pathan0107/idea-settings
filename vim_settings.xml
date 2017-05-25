@@ -746,10 +746,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495700392358">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495701758238">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -1309,7 +1309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkID0gIjEyMyI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3M9InNmZy5Vc2VyQmVhbiIg</text>
@@ -1321,7 +1321,7 @@
         <text encoding="base64">IHNjb3BlPSJzZXNzaW9uIiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkID0gIjEyMyI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1346,28 +1346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZ2VDb250ZXh0LnNldEF0dHJpYnV0ZSgiYm9vbCIsIHRydWUpOwo=</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZSgiYm9vbFwiKX0iPgogICAgICA8cD5UcnVlPC9wPgogIDwvYzppZj4K</text>
+        <text encoding="base64">ICAgIHBhZ2VDb250ZXh0LnNldEF0dHJpYnV0ZSgiYm9vbCIsIHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dCBwYWdlQ29udGV4dDsKICAgICAgICBwYWdlQ29udGV4dC5zZXRBdHRyaWJ1dGUoImF0dHIiLCAidmFsIiwgUGFnZUNvbnRleHQuKTsK</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZSgiYm9vbFwiKX0iPgogICAgICA8cD5UcnVlPC9wPgogIDwvYzppZj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij5TYXZlPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dCBwYWdlQ29udGV4dDsKICAgICAgICBwYWdlQ29udGV4dC5zZXRBdHRyaWJ1dGUoImF0dHIiLCAidmFsIiwgUGFnZUNvbnRleHQuKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGpzcDp1c2VCZWFuIG5hbWU9InVzZXJCZWFuIiAvPgo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij5TYXZlPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8anNwOnVzZUJlYW4gaWQ9InVzZXJCZWFuIiBjbGFzcz0ic2ZnLlVzZXJCZWFuIi8+CiAgPGpzcDpzZXRQcm9wZXJ0eSBuYW1lPSJ1c2VyQmVhbiIgcHJvcGVydHk9IioiIC8+Cg==</text>
+        <text encoding="base64">PGpzcDp1c2VCZWFuIG5hbWU9InVzZXJCZWFuIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
