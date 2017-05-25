@@ -523,6 +523,9 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" timestamp="1495713047417">
+        <mark key="'" line="481" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -1129,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="12" column="18" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="35" column="14" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="31" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="133" column="133" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1229,6 +1230,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
       <jump line="18" column="2" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
       <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
+      <jump line="150" column="24" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
+      <jump line="481" column="0" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
