@@ -84,13 +84,6 @@
         <mark key="^" line="13" column="61" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/templates/esia-auth.html" timestamp="1493369251238">
-        <mark key="'" line="16" column="273" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="29" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/index.html" timestamp="1493129796081">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="10" column="24" />
@@ -149,13 +142,6 @@
         <mark key="]" line="29" column="35" />
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/config/ThymeleafConfiguration.java" timestamp="1493383064030">
-        <mark key="'" line="6" column="35" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/build.gradle" timestamp="1492094324005">
         <mark key="[" line="44" column="0" />
@@ -299,13 +285,6 @@
         <mark key="^" line="17" column="101" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/user-management/user-management-dialog.html" timestamp="1493383724168">
-        <mark key="'" line="18" column="60" />
-        <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="64" />
-        <mark key="^" line="18" column="64" />
-        <mark key="." line="18" column="64" />
-      </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/Board.java" timestamp="1492371049829">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="27" />
@@ -435,13 +414,6 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/rest/WidgetResource.java" timestamp="1493897088366">
-        <mark key="'" line="121" column="51" />
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="29" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="39" column="33" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.service.js" timestamp="1494509756107">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="22" column="22" />
@@ -476,13 +448,6 @@
         <mark key="]" line="14" column="45" />
         <mark key="." line="14" column="45" />
         <mark key="^" line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/services/auth/auth.oauth2.service.js" timestamp="1493311475006">
-        <mark key="'" line="34" column="23" />
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="34" column="29" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/config/widget-config-uat.js" timestamp="1490610124777">
         <mark key="[" line="5" column="20" />
@@ -561,13 +526,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="60" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/service/UserService.java" timestamp="1493382280252">
-        <mark key="'" line="35" column="28" />
-        <mark key="[" line="107" column="58" />
-        <mark key="]" line="107" column="85" />
-        <mark key="." line="107" column="85" />
-        <mark key="^" line="107" column="85" />
       </file>
       <file name="/Dummy.txt" timestamp="1494535646471">
         <mark key="[" line="0" column="0" />
@@ -696,20 +654,6 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.state.js" timestamp="1494505819307">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" timestamp="1494535501299">
-        <mark key="'" line="7" column="108" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-      </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -746,10 +690,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495701758238">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495703232048">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -796,13 +740,7 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" timestamp="1494510678698">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.7.RELEASE/137e0820eaa164c5413c79700bb289f9c83d4d81/spring-context-4.3.7.RELEASE-sources.jar!/org/springframework/stereotype/Controller.java" timestamp="1495703271391" />
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/resources/application-uat.yml" timestamp="1491316846093">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="36" />
@@ -826,13 +764,6 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/build.gradle" timestamp="1494066047178">
-        <mark key="'" line="23" column="15" />
-        <mark key="[" line="152" column="39" />
-        <mark key="]" line="152" column="38" />
-        <mark key="." line="152" column="38" />
-        <mark key="^" line="152" column="38" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/app/img/Phone_girl.svg" timestamp="1489753082177">
         <mark key="[" line="0" column="73" />
@@ -1167,13 +1098,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/application-prod.yml" timestamp="1493997235611">
-        <mark key="'" line="121" column="41" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="148" column="64" />
-        <mark key="^" line="129" column="7" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="$USER_HOME$/gitLab/test-space/core/build.gradle" timestamp="1492369456719">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="13" />
@@ -1309,7 +1233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkID0gIjEyMyI7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3M9InNmZy5Vc2VyQmVhbiIg</text>
@@ -1321,7 +1245,7 @@
         <text encoding="base64">IHNjb3BlPSJzZXNzaW9uIiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkID0gIjEyMyI7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1346,28 +1270,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkID0gIjEyMyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZ2VDb250ZXh0LnNldEF0dHJpYnV0ZSgiYm9vbCIsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZSgiYm9vbFwiKX0iPgogICAgICA8cD5UcnVlPC9wPgogIDwvYzppZj4K</text>
+        <text encoding="base64">ICAgIEBQb3N0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlQ29udGV4dCBwYWdlQ29udGV4dDsKICAgICAgICBwYWdlQ29udGV4dC5zZXRBdHRyaWJ1dGUoImF0dHIiLCAidmFsIiwgUGFnZUNvbnRleHQuKTsK</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZShcImJvb2xcIil9Ij4KICAgICAgPHA+VHJ1ZTwvcD4KICA8L2M6aWY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij5TYXZlPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2VDb250ZXh0LnNldEF0dHJpYnV0ZSgiYm9vbCIsIHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGpzcDp1c2VCZWFuIG5hbWU9InVzZXJCZWFuIiAvPgo=</text>
+        <text encoding="base64">ICA8YzppZiB0ZXN0PSIke3BhZ2VDb250ZXh0LmdldEF0dHJpYnV0ZSgiYm9vbFwiKX0iPgogICAgICA8cD5UcnVlPC9wPgogIDwvYzppZj4K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
