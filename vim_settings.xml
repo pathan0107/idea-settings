@@ -982,6 +982,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/PrimitiveIncrementTrick.java" timestamp="1495783650804">
+        <mark key="[" line="14" column="102" />
+        <mark key="]" line="15" column="127" />
+        <mark key="^" line="15" column="127" />
+        <mark key="." line="15" column="127" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/widget/snippets/article.html" timestamp="1489395437786">
         <mark key="[" line="8" column="144" />
         <mark key="]" line="8" column="144" />
@@ -1332,7 +1338,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
