@@ -964,6 +964,9 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" timestamp="1495784919505">
+        <mark key="'" line="277" column="12" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.html" timestamp="1494535408004">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="47" />
@@ -1144,11 +1147,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495784436951">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495784933150">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceLookupProcessor.java" timestamp="1486111764978">
         <mark key="[" line="28" column="100" />
@@ -1176,7 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="133" column="133" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="136" column="24" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="137" column="27" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1276,13 +1277,14 @@
       <jump line="150" column="24" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
       <jump line="481" column="0" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" />
+      <jump line="277" column="12" filename="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXFcPg==</text>
@@ -1291,7 +1293,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1316,28 +1318,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMjAwKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiVGhyZWFkIHQxIHN0YXRlIGlzOiAlcyIsIHQxLmdldFN0YXRlKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJUaHJlYWQgdDIgc3RhdGUgaXM6ICVzIiwgdDIuZ2V0U3RhdGUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAgIElkIGlkID0gbmV3IElkKCk7CiAgICAgICAgaWQuZ2V0SWQoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDE7CgogICAgICAgIGkgPSBpKysgKyBpKys7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJWYWx1ZSBvZiBpIHZhcmlhYmxlIGlzOiAlZCIsIGkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMjAwKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiVGhyZWFkIHQxIHN0YXRlIGlzOiAlcyIsIHQxLmdldFN0YXRlKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJUaHJlYWQgdDIgc3RhdGUgaXM6ICVzIiwgdDIuZ2V0U3RhdGUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFyZ3MgPSBbIiArIGFyZ3MgKyAiXSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
