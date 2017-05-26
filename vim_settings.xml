@@ -1178,10 +1178,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495784933150">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495797796004">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceLookupProcessor.java" timestamp="1486111764978">
         <mark key="[" line="28" column="100" />
@@ -1317,7 +1317,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoZ2V0U2VydmxldENvbnRleHQoKSA9PSBnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldENvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UgYSA9IG5ldyBBdG9taWNSZWZlcmVuY2UoKTsKICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>System.out.println</text>
@@ -1329,7 +1329,7 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWNsaXBzZScKYXBwbHkgcGx1Z2luOiAnaWRlYScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoZ2V0U2VydmxldENvbnRleHQoKSA9PSBnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldENvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UgYSA9IG5ldyBBdG9taWNSZWZlcmVuY2UoKTsKICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1354,28 +1354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAoZ2V0U2VydmxldENvbnRleHQoKSA9PSBnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldENvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFdlYlNlcnZsZXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvamF2YXguc2VydmxldC5qc3AvamF2YXguc2VydmxldC5qc3AtYXBpCiAgICBjb21waWxlIGdyb3VwOiAnamF2YXguc2VydmxldC5qc3AnLCBuYW1lOiAnamF2YXguc2VydmxldC5qc3AtYXBpJywgdmVyc2lvbjogJzIuMy4xJwogICAgLy8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9qc3RsL2pzdGwKICAgIGNvbXBpbGUgZ3JvdXA6ICdqc3RsJywgbmFtZTogJ2pzdGwnLCB2ZXJzaW9uOiAnMS4yJwo=</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuZ2V0U2Vzc2lvbigpLnNldAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
+        <text encoding="base64">QFdlYlNlcnZsZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdCB0dSA9IG5ldyBUaW1lVW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvamF2YXguc2VydmxldC5qc3AvamF2YXguc2VydmxldC5qc3AtYXBpCiAgICBjb21waWxlIGdyb3VwOiAnamF2YXguc2VydmxldC5qc3AnLCBuYW1lOiAnamF2YXguc2VydmxldC5qc3AtYXBpJywgdmVyc2lvbjogJzIuMy4xJwogICAgLy8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9qc3RsL2pzdGwKICAgIGNvbXBpbGUgZ3JvdXA6ICdqc3RsJywgbmFtZTogJ2pzdGwnLCB2ZXJzaW9uOiAnMS4yJwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
