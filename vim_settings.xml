@@ -562,7 +562,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495712590320">
+      <file name="/Dummy.txt" timestamp="1495811694568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -639,11 +639,12 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" timestamp="1495811018078">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" timestamp="1495888882808">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="12" column="102" />
+        <mark key="]" line="12" column="102" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="12" column="102" />
       </file>
       <file name="/fragment.java" timestamp="1495723932355">
         <mark key="[" line="0" column="0" />
@@ -1224,7 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="27" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="150" column="34" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="1" column="4" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="43" column="13" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1324,13 +1324,14 @@
       <jump line="277" column="12" filename="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" />
       <jump line="18" column="40" filename="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/webapp/WEB-INF/test.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/webapp/WEB-INF/formAction.jsp" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>, @RequestBody(required = false) String body</text>
       </register>
       <register name="-" type="4">
-        <text>RestController</text>
+        <text>, @RequestBody(required = false) String body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyQmVhblw+</text>
@@ -1339,7 +1340,7 @@
         <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8qICAgIEBSZXF1ZXN0TWFwcGluZygiL2Vycm9yIikKICAgIHB1YmxpYyBAUmVzcG9uc2VCb2R5IFN0cmluZyB3dGYoKSB7CiAgICAgICAgcmV0dXJuICJXVEYgaXMgZ29pbmcgb24/PyI7CiAgICB9Ki8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1364,28 +1365,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudApAU2VydmljZQpAQ29udHJvbGxlcgpAUmVzdENvbnRyb2xsZXIKQFNjb3BlKENvbmZpZ3VyYWJsZUJlYW5GYWN0b3J5LlNDT1BFX1BST1RPVFlQRSkKQFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWxvZ2JhY2snKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UgYSA9IG5ldyBBdG9taWNSZWZlcmVuY2UoKTsKICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoZ2V0U2VydmxldENvbnRleHQoKSA9PSBnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldENvbnRleHQoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QENvbXBvbmVudApAU2VydmljZQpAQ29udHJvbGxlcgpAUmVzdENvbnRyb2xsZXIKQFNjb3BlKENvbmZpZ3VyYWJsZUJlYW5GYWN0b3J5LlNDT1BFX1BST1RPVFlQRSkKQFJlcG9zaXRvcnkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWxvZ2JhY2snKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UgYSA9IG5ldyBBdG9taWNSZWZlcmVuY2UoKTsKICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhLndlYWtDb21wYXJlQW5kU2V0KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAoZ2V0U2VydmxldENvbnRleHQoKSA9PSBnZXRTZXJ2bGV0Q29uZmlnKCkuZ2V0U2VydmxldENvbnRleHQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
