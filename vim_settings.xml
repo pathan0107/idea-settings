@@ -129,6 +129,12 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/LambdaInterface.java" timestamp="1496071082286">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="13" />
@@ -140,10 +146,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Foxy.java" timestamp="1496058720356">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Foxy.java" timestamp="1496071034267">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/config/DatabaseConfiguration.java" timestamp="1494002926555">
         <mark key="[" line="24" column="0" />
@@ -414,6 +420,12 @@
         <mark key="]" line="30" column="66" />
         <mark key="." line="30" column="66" />
         <mark key="^" line="30" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/FunctionalInterface.java" timestamp="1496071166439">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/SettingsReader.java" timestamp="1492854078090">
         <mark key="[" line="7" column="0" />
@@ -693,6 +705,12 @@
         <mark key="]" line="12" column="59" />
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/EffectiveFinal.java" timestamp="1496071234382">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Id.java" timestamp="1495726692896">
         <mark key="[" line="4" column="18" />
@@ -1357,10 +1375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKG4gLyAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
@@ -1369,7 +1387,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXNQb2x5bmRyb21lKCLQmtCw0LfQsNC6IikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1BvbHluZHJvbWUoItC60LDQt9Cw0LoiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKG4gLyAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1394,28 +1412,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKChuIC8yKSAqIDIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0KSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIHMxID0gInN0cmluZzIiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuCg==</text>
+        <text encoding="base64">ICAgICAgICBzMSA9ICJzdHJpbmcyIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIG0yKCl7fQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgczEgPSAic3RyaW5nIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG0yKCkge30KCg==</text>
+        <text encoding="base64">ICAgICAgICBzMSA9ICJzdHJpbmcyIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKG4gLyAyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
