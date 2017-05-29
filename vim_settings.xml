@@ -1029,11 +1029,10 @@
         <mark key="^" line="15" column="127" />
         <mark key="." line="15" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/StringPool.java" timestamp="1496063865093">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/StringPool.java" timestamp="1496065520824">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/widget/snippets/article.html" timestamp="1489395437786">
         <mark key="[" line="8" column="144" />
@@ -1339,11 +1338,11 @@
       <jump line="1759" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jobseeker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgU3RyaW5nUG9vbCgpewogICAgICAgIHJldHVybiAiczEiOwogICAgfQogICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>jobseeker</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
@@ -1352,7 +1351,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczYpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgU3RyaW5nUG9vbCgpewogICAgICAgIHJldHVybiAiczEiOwogICAgfQogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1377,28 +1376,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzNi5zdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczMuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gczIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25jdXJyZW50SGFzaE1hcAo=</text>
+        <text encoding="base64">ICAgICAgICBTCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gczIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVRpbWVGb3JtYXR0ZXIub2ZMb2NhbGl6ZWREYXRlVGltZShGb3JtYXRTdHlsZS4pLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
