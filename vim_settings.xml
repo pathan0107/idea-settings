@@ -131,11 +131,15 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Foxy.java" timestamp="1496057909068">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Java8Time.java" timestamp="1496059172499">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Foxy.java" timestamp="1496058720356">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/config/DatabaseConfiguration.java" timestamp="1494002926555">
         <mark key="[" line="24" column="0" />
@@ -1344,11 +1348,11 @@
       <jump line="14" column="4" filename="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVRpbWVGb3JtYXR0ZXIub2ZMb2NhbGl6ZWREYXRlVGltZShGb3JtYXRTdHlsZS4pLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>LONG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyQmVhblw+</text>
@@ -1357,7 +1361,7 @@
         <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVRpbWVGb3JtYXR0ZXIub2ZMb2NhbGl6ZWREYXRlVGltZShGb3JtYXRTdHlsZS4pLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1382,28 +1386,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3h5LnVzZUZveCgoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibnVtYmVyIFgiKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gInN0cmluZyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyLnRvVXBwZXJDYXNlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHdvRGVmKCk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm94LnN1cGVyLnR3b0RlZigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGb3guc3VwZXIudHdvRGVmKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3h5LnVzZUZveCgoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibnVtYmVyIFgiKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm94LnN1cGVyLnR3b0RlZigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gInN0cmluZyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlZVN0YXRpYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyLnRvVXBwZXJDYXNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
