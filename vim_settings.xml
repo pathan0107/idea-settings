@@ -1153,10 +1153,11 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Fox.java" timestamp="1496053390245">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Fox.java" timestamp="1496056424332">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="71" />
+        <mark key="." line="25" column="71" />
+        <mark key="^" line="25" column="71" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/config/WebConfigurer.java" timestamp="1490975180079">
         <mark key="[" line="2" column="0" />
@@ -1338,11 +1339,11 @@
       <jump line="14" column="4" filename="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBHZW5lcmF0ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>return null;</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyQmVhblw+</text>
