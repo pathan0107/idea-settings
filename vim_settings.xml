@@ -1129,11 +1129,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/ForEach.java" timestamp="1496046226309">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="37" />
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/ForEach.java" timestamp="1496046595286">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/SuperHero.java" timestamp="1491147975321">
         <mark key="[" line="6" column="22" />
@@ -1333,11 +1333,11 @@
       <jump line="14" column="4" filename="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>return null;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyQmVhblw+</text>
