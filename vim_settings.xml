@@ -249,6 +249,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf2.java" timestamp="1496067107294">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/rostov/meta-soap/README" timestamp="1486379924990">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="7" column="19" />
@@ -521,6 +526,12 @@
         <mark key="." line="835" column="364" />
         <mark key="^" line="835" column="193" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/AbstractInterfaces.java" timestamp="1496066503348">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/web/rest/dto/AuditEventTypeDto.java" timestamp="1494512403635">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="11" column="38" />
@@ -647,7 +658,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="12" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1496057912423">
+      <file name="/fragment.java" timestamp="1496066471651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -794,6 +805,11 @@
         <mark key="]" line="11" column="13" />
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/InterfacesImpl.java" timestamp="1496067105049">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/resources/application-uat.yml" timestamp="1491316846093">
         <mark key="[" line="1" column="30" />
@@ -1158,6 +1174,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf1.java" timestamp="1496065966798">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/config/WebConfigurer.java" timestamp="1490975180079">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1339,10 +1361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgU3RyaW5nUG9vbCgpewogICAgICAgIHJldHVybiAiczEiOwogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIG0yKCl7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
@@ -1351,7 +1373,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgU3RyaW5nUG9vbCgpewogICAgICAgIHJldHVybiAiczEiOwogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIG0yKCl7fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1376,28 +1398,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzNi5zdQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG0yKCkge30KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczMuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczYpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtMigpIHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczcpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG0yKCl7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tMSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTCg==</text>
+        <text encoding="base64">ICAgIHMgICBJbnRlcmYyLnN1cGVyLm0xKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gczIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMxID09IHMyICIgKyAoczEgPT0gcyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG0xKCkgewogICAgICAgIEludGVyZjIuc3VwZXIubTEoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
