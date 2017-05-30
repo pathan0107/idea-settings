@@ -1058,10 +1058,11 @@
         <mark key="^" line="15" column="127" />
         <mark key="." line="15" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/StringPool.java" timestamp="1496065520824">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/StringPool.java" timestamp="1496136600736">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/widget/snippets/article.html" timestamp="1489395437786">
         <mark key="[" line="8" column="144" />
@@ -1373,17 +1374,17 @@
       <jump line="12" column="8" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/Polyndrome.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lciBjb25zdW1lciA9IG8gLT4ge307CiAgICAgICAgY29uc3VtZXIgPSBjb25zdW1lci5hbmRUaGVuKG8gLT4ge30pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gInNvbWUgdmFyaWFibGUiOwoKICAgICAgICBydW4oKCkgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyKTsgLy8gY29tcGlsYXRpb24gZmFpbHVyZS4gVmFyaWFibGUgY2FuJ3QgYmUgcmVhY2hlZCBpbiBhbm9ueW1vdXMgZnVuY3Rpb24gaWYgaXQncyBub3QgZmluYWwgb3IgZWZmZWN0aXZlbHkgZmluYWwKCi8vICAgICAgaWYgeW91IHJlYXNzaWduIHZhbHVlIHRvIHZhcmlhYmxlIGl0J3MgTk9UIGVmZmVjdGl2ZWx5IGZpbmFsIGFueW1vcmUKICAgICAgICAgICAgc3RyID0gIm5ldyBhc3NpZ25tZW50IjsKICAgICAgICB9KTsgCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvdXQoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDb25zdW1lciBjb25zdW1lciA9IG8gLT4ge307CiAgICAgICAgY29uc3VtZXIgPSBjb25zdW1lci5hbmRUaGVuKG8gLT4ge30pOwo=</text>
