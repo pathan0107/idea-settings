@@ -187,6 +187,9 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" timestamp="1496146692924">
+        <mark key="'" line="549" column="11" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/users_authorities.csv" timestamp="1494504764121">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -245,6 +248,12 @@
         <mark key="]" line="8" column="4" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/VolatileTraining.java" timestamp="1496150539746">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="50" column="27" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/components/login/login.controller.js" timestamp="1493386524534">
         <mark key="[" line="25" column="9" />
@@ -689,7 +698,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="12" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1496066471651">
+      <file name="/fragment.java" timestamp="1496149368155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -1289,7 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="849" column="60" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="975" column="47" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="19" column="54" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="4" column="4" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1389,22 +1397,23 @@
       <jump line="1673" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="1759" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="12" column="8" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/Polyndrome.java" />
+      <jump line="549" column="11" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U3ByaW5nTXZjVHJhaW5pbmdBcHBsaWNhdGlvbi5jbGFzcywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgc3RyZWFtLmZvckVhY2godmFsIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWwpOwogICAgICAgICAgICAgICAgdmFsdWVzLnJlbW92ZSh2YWwpOwogICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3ByaW5nTXZjVHJhaW5pbmdBcHBsaWNhdGlvbi5jbGFzcywg</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdDMuam9pbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSAoSW50ZWdlcikxICsgKEludGVnZXIpMiA9IDQzOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgc3RyZWFtLmZvckVhY2godmFsIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWwpOwogICAgICAgICAgICAgICAgdmFsdWVzLnJlbW92ZSh2YWwpOwogICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1429,28 +1438,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lciBjb25zdW1lciA9IG8gLT4ge307CiAgICAgICAgY29uc3VtZXIgPSBjb25zdW1lci5hbmRUaGVuKG8gLT4ge30pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW0gPSBzdHJlYW0uZGlzdGluY3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lciBjb25zdW1lciA9IG5ldyBDb25zdW1lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFjY2VwdChPYmplY3QgbykgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG8pOwogICAgICAgICAgICB9CiAgICAgICAgfTsKICAgICAgICBjb25zdW1lci5hbmRUaGVuKG8gLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7CiAgICAgICAgfSkuYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoVm9sYXRpbGVUcmFpbmluZy5jbGFzcykgewogICAgICAgICAgICAgICAgICAgIGlmIChpIDwgMTAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBpZiB5b3UgcmVhc3NpZ24gdmFsdWUgdG8gdmFyaWFibGUgaXQncyBOT1QgZWZmZWN0aXZlbHkgZmluYWwgYW55bW9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoVm9sYXRpbGVUcmFpbmluZy5jbGFzcyl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyID0gIm5ldyBhc3NpZ25tZW50IjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtICE9IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW08SW50ZWdlcj4gc3RyZWFtID0gdmFsdWVzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuc29ydGVkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBpZiB5b3UgcmVhc3NpZ24gdmFsdWUgdG8gdmFyaWFibGUgaXQncyBOT1QgZWZmZWN0aXZlbHkgZmluYWwgYW55bW9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlcy5jb250YWlucyh2YWwpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
