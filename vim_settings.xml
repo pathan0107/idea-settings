@@ -99,6 +99,12 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/settings.gradle" timestamp="1496671232283">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/Jenkinsfile" timestamp="1491309680006">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -150,6 +156,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496671318439">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/config/DatabaseConfiguration.java" timestamp="1494002926555">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="28" />
@@ -167,6 +179,11 @@
         <mark key="]" line="12" column="74" />
         <mark key="." line="21" column="75" />
         <mark key="^" line="12" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/SystemProperties.java" timestamp="1496670408115">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/build.gradle" timestamp="1492094324005">
         <mark key="[" line="44" column="0" />
@@ -705,7 +722,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="12" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1496649907570">
+      <file name="/fragment.java" timestamp="1496671352811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -1418,20 +1435,20 @@
       <jump line="70" column="22" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>concurrency</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>concurrency</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gdXRmOFN0ciA9IEhFTExPX1dPUkxELmdldEJ5dGVzKCJ1dGYtMzIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXRmOFN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1456,28 +1473,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cnkuZ2V0S2V5KCkuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zb3J0ZWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlci5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlciA9IHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoInVzZXIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjbGF6eiA9IHRoaXMuZ2V0Q2xhc3MoKTsKICAgICAgICBjbGF6ei4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0ZW52KCkuZ2V0KCJ1c2VyIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlci5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -1578,6 +1595,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
