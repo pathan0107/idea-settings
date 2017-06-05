@@ -169,6 +169,12 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/StringMemorySize.java" timestamp="1496653803037">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="12" column="74" />
+        <mark key="." line="21" column="75" />
+        <mark key="^" line="12" column="74" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/build.gradle" timestamp="1492094324005">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -1417,19 +1423,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>utf8Str</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>utf8Str</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW4gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gdXRmOFN0ciA9IEhFTExPX1dPUkxELmdldEJ5dGVzKCJ1dGYtMzIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXRmOFN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1454,28 +1460,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lbW9yeUdDKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci5NQVhfVkFMVUUK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYiA9IG5ldyBieXRlWzFfMDAwXzAwMF07Cg==</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lbW9yeUdDKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpID0gezF9OwogICAgICAgIE9iamVjdCBvID0gbmV3IE9iamVjdCgpewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgZmluYWxpemUoKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICAgICAgICAgIHN1cGVyLmZpbmFsaXplKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci5NQVhfVkFMVUUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvLmYK</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gYiA9IG5ldyBieXRlWzFfMDAwXzAwMF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpLmZpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpID0gezF9OwogICAgICAgIE9iamVjdCBvID0gbmV3IE9iamVjdCgpewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgZmluYWxpemUoKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICAgICAgICAgIHN1cGVyLmZpbmFsaXplKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -1488,7 +1494,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
