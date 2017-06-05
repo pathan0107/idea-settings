@@ -99,13 +99,6 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/Polyndrome.java" timestamp="1496068567340">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/Jenkinsfile" timestamp="1491309680006">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -312,6 +305,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/ClassLoader.java" timestamp="1496663592421">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/SelfServicePortalApp.java" timestamp="1491395861228">
         <mark key="[" line="25" column="113" />
         <mark key="]" line="25" column="113" />
@@ -374,13 +372,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/webapp/WEB-INF/test.jsp" timestamp="1495789356326">
-        <mark key="'" line="18" column="40" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="62" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/RecipientMergeProcessor.java" timestamp="1486046564308">
         <mark key="[" line="30" column="81" />
@@ -953,6 +944,11 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/EvenOrOdd.java" timestamp="1496663675457">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -1422,11 +1418,11 @@
       <jump line="70" column="22" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>utf8Str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>utf8Str</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
@@ -1435,7 +1431,7 @@
         <text encoding="base64">ICAgICAgICBieXRlW10gdXRmOFN0ciA9IEhFTExPX1dPUkxELmdldEJ5dGVzKCJ1dGYtMzIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXRmOFN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,28 +1456,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IG4vMjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlci5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjbGF6eiA9IHRoaXMuZ2V0Q2xhc3MoKTsKICAgICAgICBjbGF6ei4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lbW9yeUdDKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci5NQVhfVkFMVUUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYiA9IG5ldyBieXRlWzFfMDAwXzAwMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpID0gezF9OwogICAgICAgIE9iamVjdCBvID0gbmV3IE9iamVjdCgpewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgZmluYWxpemUoKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICAgICAgICAgIHN1cGVyLmZpbmFsaXplKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
