@@ -21,12 +21,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496751142965">
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496753417866">
         <mark key="'" line="25" column="34" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1473,7 +1472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1485,7 +1484,7 @@
         <text encoding="base64">VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1510,29 +1509,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogICAgICAgIHRyeSB7CiAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5oMi5Ecml2ZXIiKTsKICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCBpbml0aWFsaXplIGRiIGNvbm5lY3Rpb24iLCBlKTsKICAgICAgICB9Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
+        <text encoding="base64">LyogICAgICAgIHRyeSB7CiAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5oMi5Ecml2ZXIiKTsKICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCBpbml0aWFsaXplIGRiIGNvbm5lY3Rpb24iLCBlKTsKICAgICAgICB9Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByb3BlcnRpZXMgZ2V0QXBwUHJvcGVydGllcygpIHsKICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLmxvYWQoSmRiY0FwcC5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByb3BlcnRpZXMgZ2V0QXBwUHJvcGVydGllcygpIHsKICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwogICAgICAgIHBybwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLmxvYWQoSmRiY0FwcC5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>operties properties = new Properties();
-        pro</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwogICAgICAgIHBybwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
