@@ -61,11 +61,11 @@
         <mark key="." line="19" column="61" />
         <mark key="^" line="19" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/sptingjpa/SpringJpa.java" timestamp="1496762119053">
-        <mark key="[" line="12" column="85" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/sptingjpa/SpringJpa.java" timestamp="1496762352384">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/docker/nginx/nginx.conf" timestamp="1491320610234">
         <mark key="[" line="43" column="44" />
@@ -1506,10 +1506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SpringBootApplication</text>
+        <text>, args</text>
       </register>
       <register name="-" type="4">
-        <text>SpringBootApplication</text>
+        <text>, args</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
