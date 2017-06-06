@@ -21,11 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496755344696">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496756741399">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1485,17 +1486,17 @@
       <jump line="89" column="33" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJpdmVyTWFuYWdlci4K</text>
+      <register name="&quot;" type="4">
+        <text>bread</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>bread</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dTeW5jXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LmFkZEJhdGNoKCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKDEsIGJyZWFkLCA1KTsiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRHJpdmVyTWFuYWdlci4K</text>
