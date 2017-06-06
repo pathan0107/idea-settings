@@ -420,11 +420,10 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Zip.java" timestamp="1496745035462">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="67" />
-        <mark key="^" line="14" column="67" />
-        <mark key="." line="14" column="67" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Zip.java" timestamp="1496746035430">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/TryFinally.java" timestamp="1496649752529">
         <mark key="[" line="9" column="0" />
@@ -1470,10 +1469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemYuZW50cmlTZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemYuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;UTF-32&quot;</text>
+        <text>new File(System.getProperty(&quot;user.home&quot;) + &quot;/test.zip&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
@@ -1482,7 +1481,7 @@
         <text encoding="base64">VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemYuZW50cmlTZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemYuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1507,28 +1506,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlbnRyeS5nZXRTaXplKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFuZGFyZENoYXJzZXRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemYuZW50cmlTZXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGFuZGFyZENoYXJzZXRzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBleGl0SnZtKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBleGl0SnZtKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQSIpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
