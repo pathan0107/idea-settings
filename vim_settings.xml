@@ -269,7 +269,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" timestamp="1496740153230">
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" timestamp="1496743148292">
+        <mark key="'" line="65" column="11" />
         <mark key="[" line="57" column="91" />
         <mark key="]" line="58" column="35" />
         <mark key="^" line="58" column="35" />
@@ -832,6 +833,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/TryResource.java" timestamp="1496743321774">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="40" column="31" />
@@ -1338,7 +1345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="37" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="483" column="28" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="3" column="4" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="301" column="40" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1438,13 +1444,14 @@
       <jump line="1441" column="14" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
       <jump line="4676" column="15" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
       <jump line="70" column="22" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" />
+      <jump line="65" column="11" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Closeable</text>
       </register>
       <register name="-" type="4">
-        <text>!shouldStop</text>
+        <text>Closeable</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
@@ -1453,7 +1460,7 @@
         <text encoding="base64">VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1478,28 +1485,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRG9pbmcgbXkgam9iIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRG9pbmcgbXkgam9iIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
