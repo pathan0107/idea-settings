@@ -21,12 +21,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496756741399">
-        <mark key="'" line="26" column="34" />
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="36" />
-        <mark key="." line="39" column="36" />
-        <mark key="^" line="39" column="36" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496757870355">
+        <mark key="'" line="23" column="34" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -410,6 +409,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/BitOperations.java" timestamp="1496758397336">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/Application.java" timestamp="1492082632433">
         <mark key="[" line="13" column="1" />
@@ -1324,6 +1329,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/BitwiseOperators.java" timestamp="1496759263510">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/docker-context/server.xml" timestamp="1487339469578">
         <mark key="[" line="150" column="60" />
         <mark key="]" line="150" column="60" />
@@ -1487,10 +1498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bread</text>
+        <text>99</text>
       </register>
       <register name="-" type="4">
-        <text>bread</text>
+        <text>99</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dTeW5jXD4=</text>
@@ -1499,7 +1510,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LmFkZEJhdGNoKCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKDEsIGJyZWFkLCA1KTsiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJpdmVyTWFuYWdlci4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZygxKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1524,28 +1535,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci5iaXRDb3VudCgxKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogICAgICAgIHRyeSB7CiAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5oMi5Ecml2ZXIiKTsKICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCBpbml0aWFsaXplIGRiIGNvbm5lY3Rpb24iLCBlKTsKICAgICAgICB9Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHJpdmVyTWFuYWdlci4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">LyogICAgICAgIHRyeSB7CiAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5oMi5Ecml2ZXIiKTsKICAgICAgICB9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCBpbml0aWFsaXplIGRiIGNvbm5lY3Rpb24iLCBlKTsKICAgICAgICB9Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByb3BlcnRpZXMgZ2V0QXBwUHJvcGVydGllcygpIHsKICAgICAgICBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBuZXcgUHJvcGVydGllcygpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLmxvYWQoSmRiY0FwcC5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
