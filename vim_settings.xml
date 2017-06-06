@@ -21,6 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496746765539">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
         <mark key="]" line="32" column="103" />
@@ -44,6 +50,9 @@
         <mark key="]" line="5" column="35" />
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1496746649271">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
@@ -202,13 +211,16 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" timestamp="1496146692924">
-        <mark key="'" line="549" column="11" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/users_authorities.csv" timestamp="1494504764121">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1496746796923">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/FsCache.java" timestamp="1492953751159">
         <mark key="[" line="6" column="20" />
@@ -386,9 +398,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" timestamp="1495713047417">
-        <mark key="'" line="481" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/AppController.java" timestamp="1495123739524">
         <mark key="[" line="8" column="1" />
@@ -739,7 +748,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="12" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1496674323662">
+      <file name="/fragment.java" timestamp="1496746664961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -950,9 +959,6 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" timestamp="1496325353964">
-        <mark key="'" line="4676" column="15" />
-      </file>
       <file name="$USER_HOME$/gitLab/rostov/RLDD_KRD/docker-run.sh" timestamp="1487350362717">
         <mark key="[" line="2" column="118" />
         <mark key="]" line="2" column="257" />
@@ -1041,9 +1047,6 @@
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1496060930613">
-        <mark key="'" line="1759" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/web.xml" timestamp="1495541668939">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="31" />
@@ -1080,9 +1083,6 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" timestamp="1496325382035">
-        <mark key="'" line="70" column="22" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/aop/journal/JournalAspect.java" timestamp="1493040047812">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="7" column="6" />
@@ -1112,9 +1112,6 @@
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" timestamp="1495784919505">
-        <mark key="'" line="277" column="12" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.html" timestamp="1494535408004">
         <mark key="[" line="6" column="47" />
