@@ -156,7 +156,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496677033245">
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496732781797">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -1435,7 +1435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGEgPSBuZXcgQXRvbWljSW50ZWdlcigxKTsKICAgICAgICBhLmluY3JlbWVudEFuZEdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1447,7 +1447,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGEgPSBuZXcgQXRvbWljSW50ZWdlcigxKTsKICAgICAgICBhLmluY3JlbWVudEFuZEdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNSZWZlcmVuY2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1472,28 +1472,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGEgPSBuZXcgQXRvbWljSW50ZWdlcigxKTsKICAgICAgICBhLmluY3JlbWVudEFuZEdldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMTAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMTAwKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsrOwogICAgICAgICAgICBtZW1vcnlHQyA9IG5ldyBNZW1vcnlHQyhtZW1vcnlHQyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrOwogICAgICAgICAgICBtZW1vcnlHQyA9IG5ldyBNZW1vcnlHQyhtZW1vcnlHQyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
