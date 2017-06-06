@@ -369,6 +369,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/TryFinally.java" timestamp="1496744348424">
+        <mark key="[" line="23" column="75" />
+        <mark key="]" line="23" column="81" />
+        <mark key="^" line="23" column="81" />
+        <mark key="." line="23" column="81" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/content/images/Phone_girl.svg" timestamp="1486574073629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="931" />
@@ -413,6 +419,12 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Zip.java" timestamp="1496745035462">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+        <mark key="." line="14" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/TryFinally.java" timestamp="1496649752529">
         <mark key="[" line="9" column="0" />
@@ -639,7 +651,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495811694568">
+      <file name="/Dummy.txt" timestamp="1496744407573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -916,6 +928,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/memorytraining/concurrency/TryFinally.java" timestamp="1496744122687">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/app/img/Phone_girl.svg" timestamp="1489753082177">
         <mark key="[" line="0" column="73" />
         <mark key="]" line="0" column="78" />
@@ -960,6 +977,11 @@
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/memorytraining/StringMemorySize.java" timestamp="1496744494146">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/InMemoryCache.java" timestamp="1493018830497">
         <mark key="[" line="17" column="81" />
@@ -1447,11 +1469,11 @@
       <jump line="65" column="11" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Closeable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgemYuZW50cmlTZXMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Closeable</text>
+        <text>&quot;UTF-32&quot;</text>
       </register>
       <register name="/" type="4">
         <text>remove(</text>
@@ -1460,7 +1482,7 @@
         <text encoding="base64">VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgemYuZW50cmlTZXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1485,28 +1507,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGFuZGFyZENoYXJzZXRzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRG9pbmcgbXkgam9iIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBleGl0SnZtKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvaW5nIG15IGpvYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
