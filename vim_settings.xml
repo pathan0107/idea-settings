@@ -21,11 +21,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496846558064">
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496849273997">
         <mark key="'" line="54" column="20" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1506,7 +1506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0LnByZXZpb3VzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC5nZXRJbnQoNSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>new String(Files.readAllBytes(goodsJsonFile.toPath()))</text>
@@ -1518,7 +1518,7 @@
         <text encoding="base64">ICAgICAgICBKU09OQXJyYXkgZ29vZHNBcnJheSA9IChKU09OQXJyYXkpIGpzb25QYXJzZXIucGFyc2Uoc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0LnByZXZpb3VzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC5nZXRJbnQoNSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1551,33 +1551,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbmN1cnJlbnRTa2lwTGlzdFNldDsKICAgIEF0b21pY1JlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0LnByZXZpb3VzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbmN1cnJlbnRIYXNoTWFwCg==</text>
+        <text encoding="base64">ICAgIENvbmN1cnJlbnRTa2lwTGlzdFNldDsKICAgIEF0b21pY1JlZmVyZW5jZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnb29kc0pzb25GaWxlLmNsb3NlCg==</text>
+        <text encoding="base64">ICAgIENvbmN1cnJlbnRIYXNoTWFwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29kc0pzb25GaWxlLmNsb3NlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBMT0dHCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBMT0dHCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>/*        FileReader fr = new FileReader(goodsJsonFile);
         BufferedReader br = new BufferedReader(fr);
         StringBuilder sb = new StringBuilder();
         br.lines().forEach(sb::append);*/
 
 //        JSONArray goodsArray = (JSONArray) jsonParser.parse(sb.toString());</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy5yZWxpbmVzKGdvb2RzSnNvbkZpbGUudG9QYXRoKCkpLmZvckVhY2goKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
