@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496836869219">
-        <mark key="'" line="51" column="20" />
-        <mark key="[" line="92" column="68" />
-        <mark key="]" line="93" column="7" />
-        <mark key="." line="93" column="7" />
-        <mark key="^" line="93" column="7" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496838206516">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="100" column="63" />
+        <mark key="]" line="100" column="74" />
+        <mark key="." line="100" column="74" />
+        <mark key="^" line="100" column="74" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -226,11 +226,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1496761895398">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1496836978697">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/FsCache.java" timestamp="1492953751159">
         <mark key="[" line="6" column="20" />
@@ -681,11 +680,11 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" timestamp="1496755279072">
         <mark key="'" line="89" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/resources/Goods.json" timestamp="1496834982748">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/resources/Goods.json" timestamp="1496837836118">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1496744407573">
         <mark key="[" line="0" column="0" />
@@ -776,7 +775,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="12" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1496761972419">
+      <file name="/fragment.java" timestamp="1496837871394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1516,25 +1515,20 @@
       <jump line="40" column="20" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ29vZHNSYXcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-  {
-    &quot;id&quot;: 1,
-    &quot;name&quot;: &quot;bread&quot;,
-    &quot;amount&quot;: 5
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCByZWFkIGdvb2RzIGpzb24gZmlsZSIsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ29vZHNSYXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1567,30 +1561,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>catch () {
-            LOGGER.log(Level.SEVERE);
-        }</text>
+        <text encoding="base64">IGRvIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGpzb25DaHVuayk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnb29kc1Jhdy5nZXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uSnNvblBhcnNlciBqc29uSnNvblBhcnNlciA9IG5ldyBKc29uSnNvblBhcnNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uSnNvblBhcnNlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyW10ganNvbkNodW5rID0gbmV3IGNoYXJbMTBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRHb29kc1RvQmF0Y2goMSwgImJyZWFkIiwgNSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
