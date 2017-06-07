@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496835234434">
-        <mark key="'" line="44" column="20" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="46" />
-        <mark key="^" line="74" column="46" />
-        <mark key="." line="74" column="46" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496836869219">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="92" column="68" />
+        <mark key="]" line="93" column="7" />
+        <mark key="." line="93" column="7" />
+        <mark key="^" line="93" column="7" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1516,11 +1516,11 @@
       <jump line="40" column="20" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ29vZHNSYXcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -1534,7 +1534,7 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ29vZHNSYXcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1566,29 +1566,31 @@
           <key char="112" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRWYWx1ZXNTdG10ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKD8sID8sID8pOyIpOwo=</text>
+      <register name="2" type="4">
+        <text>catch () {
+            LOGGER.log(Level.SEVERE);
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRWYWx1ZXNTdG10ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKD8sID8sID8pOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZW1lbnQuYWRkQmF0Y2goIklOU0VSVCBJTlRPIGdvb2RzIFZBTFVFUyAoMiwgJ21pbGsnLCA1KTsiKTsKICAgICAgICBzdGF0ZW1lbnQuYWRkQmF0Y2goIklOU0VSVCBJTlRPIGdvb2RzIFZBTFVFUyAoMywgJ2J1dHRlcicsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg0LCAnbWVhdCcsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg1LCAnY2hpY2tlbicsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg2LCAnc3VnYXInLCA1KTsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnb29kc1Jhdy5nZXQoMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIGFkZEJhdGNoKCl7fQo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uSnNvblBhcnNlciBqc29uSnNvblBhcnNlciA9IG5ldyBKc29uSnNvblBhcnNlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICBqc29uSnNvblBhcnNlci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyW10ganNvbkNodW5rID0gbmV3IGNoYXJbMTBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
