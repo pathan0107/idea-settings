@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496838206516">
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496841192793">
         <mark key="'" line="54" column="20" />
-        <mark key="[" line="100" column="63" />
-        <mark key="]" line="100" column="74" />
-        <mark key="." line="100" column="74" />
-        <mark key="^" line="100" column="74" />
+        <mark key="[" line="87" column="60" />
+        <mark key="]" line="87" column="74" />
+        <mark key="." line="87" column="74" />
+        <mark key="^" line="87" column="74" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1516,19 +1516,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>new String(Files.readAllBytes(goodsJsonFile.toPath()))</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>new String(Files.readAllBytes(goodsJsonFile.toPath()))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJDb3VsZG4ndCByZWFkIGdvb2RzIGpzb24gZmlsZSIsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkgZ29vZHNBcnJheSA9IChKU09OQXJyYXkpIGpzb25QYXJzZXIucGFyc2Uoc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1561,28 +1561,33 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGRvIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text>/*        FileReader fr = new FileReader(goodsJsonFile);
+        BufferedReader br = new BufferedReader(fr);
+        StringBuilder sb = new StringBuilder();
+        br.lines().forEach(sb::append);*/
+
+//        JSONArray goodsArray = (JSONArray) jsonParser.parse(sb.toString());</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGpzb25DaHVuayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5yZWxpbmVzKGdvb2RzSnNvbkZpbGUudG9QYXRoKCkpLmZvckVhY2goKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29kc0pzb25GaWxlLnJlYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBici5saW5lcygpLmZvckVhY2goc2I6OmFwcGVuZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihmcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZChqc29uQ2h1bmspOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRHb29kc1RvQmF0Y2goMSwgImJyZWFkIiwgNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSA9IGZyLnJlYWQoanNvbkNodW5rKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
