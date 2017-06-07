@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496833922628">
-        <mark key="'" line="41" column="20" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="24" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="24" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496835234434">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="74" column="46" />
+        <mark key="^" line="74" column="46" />
+        <mark key="." line="74" column="46" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -680,6 +680,12 @@
       </file>
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" timestamp="1496755279072">
         <mark key="'" line="89" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/resources/Goods.json" timestamp="1496834982748">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1496744407573">
         <mark key="[" line="0" column="0" />
@@ -1511,59 +1517,78 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>statement</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>statement</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZW1lbnQuYWRkQmF0Y2goIklOU0VSVCBJTlRPIGdvb2RzIFZBTFVFUyAoMSwgJ2JyZWFkJywgNSk7Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>,
+  {
+    &quot;id&quot;: 1,
+    &quot;name&quot;: &quot;bread&quot;,
+    &quot;amount&quot;: 5
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICBKU09OCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
           <key char="94" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBpbnNlcnRWYWx1ZXNTdG10ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKD8sID8sID8pOyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnNlcnRWYWx1ZXNTdG10ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJJTlNFUlQgSU5UTyBnb29kcyBWQUxVRVMgKD8sID8sID8pOyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZW1lbnQuYWRkQmF0Y2goIklOU0VSVCBJTlRPIGdvb2RzIFZBTFVFUyAoMiwgJ21pbGsnLCA1KTsiKTsKICAgICAgICBzdGF0ZW1lbnQuYWRkQmF0Y2goIklOU0VSVCBJTlRPIGdvb2RzIFZBTFVFUyAoMywgJ2J1dHRlcicsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg0LCAnbWVhdCcsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg1LCAnY2hpY2tlbicsIDUpOyIpOwogICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICg2LCAnc3VnYXInLCA1KTsiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHIgPSBuZXcgU3RyaW5nWzVdOwogICAgICAgIGZvciAoU3RyaW5nIHMgOiBzdHIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQgcHM9IGNvbm5lY3Rpb24ucHJlcGFyZUNhbGwoIiIpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2b2lkIGFkZEJhdGNoKCl7fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcy4K</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCA9IGNvbm5lY3Rpb24ucHJlcGFyZVN0YXRlbWVudCgiIiwgUmVzdWx0U2V0LikK</text>
+        <text encoding="base64">Ly8gICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
