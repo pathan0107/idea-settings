@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496761763229">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="52" column="72" />
-        <mark key="." line="52" column="72" />
-        <mark key="^" line="52" column="72" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" timestamp="1496819337190">
+        <mark key="'" line="51" column="55" />
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="53" column="35" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/OperatorLookupProcessor.java" timestamp="1486054451020">
         <mark key="[" line="32" column="103" />
@@ -1403,7 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="49" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="152" column="57" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="406" column="53" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="486" column="53" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1503,22 +1502,23 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
       <jump line="13" column="30" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
       <jump line="21" column="8" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
+      <jump line="51" column="55" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, args</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>, args</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxjbG9zZWFibGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0YXRlbWVudC5hZGRCYXRjaCgiSU5TRVJUIElOVE8gZ29vZHMgVkFMVUVTICgxLCBicmVhZCwgNSk7Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29ubmVjdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIubG9nKExldmVsLldBUk5JTkcsICJDb25uZWN0aW9uIGNsb3NpbmcgcHJvYmxlbSIsIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1537,37 +1537,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2xvc2VhYmxlICE9IG51bGwpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGNsb3NlYWJsZS5jbG9zZSgpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5XQVJOSU5HLCAiQ29ubmVjdGlvbiBjbG9zaW5nIHByb2JsZW0iLCBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmgyZGF0YWJhc2UvaDIK</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZVJlc291cmNlKGNvbm5lY3Rpb24pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGNvbm5lY3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpOwogICAgICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5XQVJOSU5HLCAiQ29ubmVjdGlvbiBjbG9zaW5nIHByb2JsZW0iLCBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAocmVzdWx0U2V0Lm5leHQoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdvb2RzIG5hbWU6ICIgKyByZXN1bHRTZXQuZ2V0U3RyaW5nKCJuYW1lIikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmgyZGF0YWJhc2UvaDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIubG9nKExldmVsLlNFVkVSRSwgIkNvdWxkbid0IGNvbm5lY3QgdG8gZGF0YWJhc2UiLCBlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxjbG9zZWFibGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbG9zZWFibGVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1575,7 +1575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>r\.send</entry>
         <entry encoding="base64">aXNcIA==</entry>
         <entry>java</entry>
         <entry encoding="base64">XDxEYXRhU291cmNlQnVpbGRlclw+</entry>
@@ -1595,6 +1594,7 @@
         <entry>db</entry>
         <entry encoding="base64">XDxzdGF0ZW1lbnRcPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjbG9zZWFibGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
