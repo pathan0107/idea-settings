@@ -644,11 +644,11 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Average.java" timestamp="1496910221282">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="46" column="19" />
-        <mark key="^" line="44" column="14" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Average.java" timestamp="1496910240659">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/heroimpl/SuperMan.java" timestamp="1491148179899">
         <mark key="[" line="7" column="3" />
@@ -1512,10 +1512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">ID0gMGY7</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">ID0gMGY7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
