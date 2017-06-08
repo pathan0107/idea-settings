@@ -644,6 +644,12 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Average.java" timestamp="1496910221282">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="44" column="14" />
+      </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/heroimpl/SuperMan.java" timestamp="1491148179899">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="8" column="19" />
@@ -1505,20 +1511,20 @@
       <jump line="40" column="20" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC5nZXRJbnQoNSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>new String(Files.readAllBytes(goodsJsonFile.toPath()))</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkgZ29vZHNBcnJheSA9IChKU09OQXJyYXkpIGpzb25QYXJzZXIucGFyc2Uoc2IudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhc3RlcjFBdik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFNldC5nZXRJbnQoNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVnYUNsYXN0ZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1551,33 +1557,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0LnByZXZpb3VzKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7CiAgICAgICAgZm9yIChpbnQgZGF0YUl0ZW0gOiBjbGFzdGVyMSkgewogICAgICAgICAgICBtZWdhQ2xhc3RlcltpXSA9IGRhdGFJdGVtOwogICAgICAgICAgICBpKys7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbmN1cnJlbnRTa2lwTGlzdFNldDsKICAgIEF0b21pY1JlZmVyZW5jZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbmN1cnJlbnRIYXNoTWFwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnb29kc0pzb25GaWxlLmNsb3NlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVnYUNsYXN0ZXJbaV0gPSBjbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBMT0dHCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/*        FileReader fr = new FileReader(goodsJsonFile);
-        BufferedReader br = new BufferedReader(fr);
-        StringBuilder sb = new StringBuilder();
-        br.lines().forEach(sb::append);*/
-
-//        JSONArray goodsArray = (JSONArray) jsonParser.parse(sb.toString());</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjbAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
