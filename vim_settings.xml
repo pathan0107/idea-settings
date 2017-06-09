@@ -289,6 +289,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" timestamp="1496743148292">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="57" column="91" />
+        <mark key="]" line="58" column="35" />
+        <mark key="^" line="58" column="35" />
+        <mark key="." line="58" column="35" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/components/login/login.controller.js" timestamp="1493386524534">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="26" column="7" />
@@ -625,6 +632,13 @@
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" timestamp="1497005711603">
+        <mark key="'" line="61" column="77" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/pso/src/main/webapp/widget/service-categories.html" timestamp="1486571783787">
         <mark key="[" line="835" column="364" />
         <mark key="]" line="835" column="364" />
@@ -776,6 +790,13 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" timestamp="1496324689881">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="12" column="102" />
+        <mark key="]" line="12" column="102" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="12" column="102" />
+      </file>
       <file name="/fragment.java" timestamp="1496837871394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -898,6 +919,12 @@
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/build.gradle" timestamp="1497005749990">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -1047,6 +1074,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" timestamp="1497005832972">
+        <mark key="'" line="433" column="31" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
@@ -1420,13 +1450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="857" column="52" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="983" column="46" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="981" column="32" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="402" column="21" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="135" column="30" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="968" column="54" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="971" column="68" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="991" column="50" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
@@ -1520,6 +1543,13 @@
       <jump line="48" column="33" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
       <jump line="14" column="37" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
       <jump line="40" column="20" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
+      <jump line="38" column="9" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
+      <jump line="30" column="8" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
+      <jump line="55" column="78" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
+      <jump line="61" column="77" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
+      <jump line="148" column="18" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
+      <jump line="332" column="9" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
+      <jump line="433" column="31" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1529,7 +1559,7 @@
         <text encoding="base64">ID0gMGY7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
+        <text encoding="base64">XDxub3JtYWxpemVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhc3RlcjFBdik7Cg==</text>
@@ -1596,20 +1626,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-search>
+      <last-search encoding="base64">XDxub3JtYWxpemVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub3JtYWxpemVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aXNcIA==</entry>
-        <entry>java</entry>
-        <entry encoding="base64">XDxEYXRhU291cmNlQnVpbGRlclw+</entry>
-        <entry encoding="base64">XDxBdWRpdFNldHRpbmdzQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>btn</entry>
         <entry encoding="base64">XDxBcnRpY2xlXD4=</entry>
@@ -1626,6 +1652,10 @@
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjbG9zZWFibGVzXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZW1lbnRcPg==</entry>
+        <entry>rootback</entry>
+        <entry>root_back</entry>
+        <entry>root_back\c</entry>
+        <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
