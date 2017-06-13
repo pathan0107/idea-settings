@@ -1086,12 +1086,12 @@
       <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" timestamp="1497005832972">
         <mark key="'" line="433" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" timestamp="1497363943539">
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" timestamp="1497366494010">
         <mark key="'" line="6" column="37" />
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="36" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
@@ -1580,11 +1580,11 @@
       <jump line="6" column="37" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Thread.currentThread()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Thread.currentThread()</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -1593,7 +1593,7 @@
         <text encoding="base64">ICAgICAgICBjaGFyIGMgPSAnXHUwMDVEJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1626,28 +1626,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkud2FpdCgpOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYWRMb2NrLmxvY2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkIChkZWFkTG9jay5sb2NrKSB7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgbG9jaygpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICB0aGlzLndhaXQoKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2NrKFRocmVhZCB0KSB7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkud2FpdCgpOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWFkTG9jay5sb2NrKHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZWFkTG9jayBkZWFkTG9jayA9IG5ldyBEZWFkTG9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkIChkZWFkTG9jay5sb2NrKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC0+IHsKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2NrKFRocmVhZCB0KSB7CiAgICB9CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
