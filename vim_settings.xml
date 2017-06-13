@@ -51,9 +51,6 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1496746649271">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="61" />
@@ -102,11 +99,10 @@
         <mark key="^" line="13" column="61" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/ProcessorsAvailable.java" timestamp="1497009037758">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="7" column="70" />
-        <mark key="^" line="7" column="70" />
-        <mark key="." line="7" column="70" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/ProcessorsAvailable.java" timestamp="1497340409411">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/index.html" timestamp="1493129796081">
         <mark key="[" line="9" column="6" />
@@ -772,6 +768,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/UnicodeSymbolsFun.java" timestamp="1497340401831">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ClaimsBaseMapReduceProcessor.java" timestamp="1486043405587">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1356,6 +1358,12 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="127" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497341991928">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Fox.java" timestamp="1496057017445">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1456,9 +1464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="855" column="39" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="545" column="59" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
-      <jump line="546" column="252" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="565" column="58" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="804" column="40" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="0" column="0" filename="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/application-prod.yml" />
@@ -1556,22 +1561,25 @@
       <jump line="55" column="39" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="56" column="41" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="57" column="67" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
+      <jump line="10" column="12" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
+      <jump line="11" column="16" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>Path</text>
+        <text encoding="base64">XDx0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhc3RlcjFBdik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIHN0YXRpYyAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1604,37 +1612,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYyA9ICdbJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxsYWJsZSBjMTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVnYUNsYXN0ZXIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7CiAgICAgICAgZm9yIChpbnQgZGF0YUl0ZW0gOiBjbGFzdGVyMSkgewogICAgICAgICAgICBtZWdhQ2xhc3RlcltpXSA9IGRhdGFJdGVtOwogICAgICAgICAgICBpKys7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBzdGF0aWMgY2xhc3MgTXlUaHJlYWQgZXh0ZW5kcyBUaHJlYWQgewogICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPD0gNTsgaSsrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGkgKyAiICIpOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJbnRlcnJ1cHRlZCBpbiBteVRocmVhZCIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdCA9IG5ldyBNeVRocmVhZCgpOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IDU7IGkrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGkgKyAiICIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdC5zbGVlcCgxMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJbnRlcnJ1cHRlZCBpbiBtYWluIik7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlzID0gbmV3IEZpbGVJbnB1dFN0cmVhbSgib3V0c3RyZWFtIik7CiAgICAgICAgICAgIElucHV0U3RyZWFtUmVhZGVyIGlzciA9IG5ldyBJbnB1dFN0cmVhbVJlYWRlcihmaXMpOwogICAgICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihpc3IpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBzdHIgPSBici5yZWFkTGluZSgpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHIpOwogICAgICAgICAgICAgICAgfSB3aGlsZSAoc3RyICE9IG51bGwpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGZpbmFsbHkgewogICAgICAgICAgICAgICAgZmlzLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBpc3IuY2xvc2UoKTsKICAgICAgICAgICAgICAgIGJyLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVnYUNsYXN0ZXJbaV0gPSBjbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3RyID0gYnIucmVhZExpbmUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICJcdTAwMGEiOwogICAgICAgIGNoYXIgYyA9ICJcdTAwMGEiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBpZiAoZmFsc2UgPT0gdHJ1ZSkgeyAvL3RoZXNlIGNoYXJhY3RlcnMgYXJlIG1hZ2ljOiBcdTAwMGFcdTAwN2RcdTAwN2IKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmYWxzZSBpcyB0cnVlISIpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>Path</last-search>
+      <last-search encoding="base64">XDx0XD4=</last-search>
       <last-offset />
-      <last-pattern>Path</last-pattern>
+      <last-pattern encoding="base64">XDx0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1642,7 +1650,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcnRpY2xlXD4=</entry>
         <entry encoding="base64">XDxBbGVydFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDx2b2lkXD4=</entry>
@@ -1662,6 +1669,7 @@
         <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
         <entry>Paths</entry>
         <entry>Path</entry>
+        <entry encoding="base64">XDx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
