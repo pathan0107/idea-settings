@@ -1363,12 +1363,11 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497345491402">
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497350166446">
         <mark key="'" line="6" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Fox.java" timestamp="1496057017445">
         <mark key="[" line="21" column="0" />
@@ -1573,7 +1572,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLiBhcmdzKSB7CiAgICAgICAgaW50IGEgPSB+MjAyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyIGMgPSAnXHUwMDVEJzsK</text>
       </register>
       <register name="-" type="4">
         <text>IO</text>
@@ -1582,10 +1581,10 @@
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhc3RlcjFBdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyIGMgPSAnXHUwMDVEJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLiBhcmdzKSB7CiAgICAgICAgaW50IGEgPSB+MjAyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyIGMgPSAnXHUwMDVEJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1618,28 +1617,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyIGYgPSAiXHUwMDVEIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImEiKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgIH1jYXRjaCAoSU9FeGNlcHRpb24gZSkgewoKICAgICAgICB9CiAgICAgICAgVGVzdCB0ID0gbmV3IFRlc3QoKTsKICAgICAgICB0LmhhCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZy4uLiBhcmdzKSB7CiAgICAgICAgaW50IGEgPSB+MjAyOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImEiKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgIH1jYXRjaCAoSU9FeGNlcHRpb24gZSkgewoKICAgICAgICB9CiAgICAgICAgVGVzdCB0ID0gbmV3IFRlc3QoKTsKICAgICAgICB0LmhhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMgPSAiIjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlIGEgPSAyNTU7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMgPSAiIjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgbGFiZWw6CiAgICAgICAgewogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8PSA1OyBpKyspIHsKICAgICAgICAgICAgICAgIGlmIChpID09IDQpIGJyZWFrIGxhYmVsOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlIGEgPSAyNTU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
