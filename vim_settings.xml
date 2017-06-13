@@ -1363,7 +1363,8 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="127" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497344867968">
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497345491402">
+        <mark key="'" line="6" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="4" />
@@ -1469,7 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="565" column="58" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="804" column="40" filename="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" />
       <jump line="0" column="0" filename="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/application-prod.yml" />
       <jump line="124" column="0" filename="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/application-uat.yml" />
@@ -1569,6 +1569,7 @@
       <jump line="10" column="12" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
       <jump line="7" column="15" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
       <jump line="11" column="16" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1578,7 +1579,7 @@
         <text>IO</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0XD4=</text>
+        <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhc3RlcjFBdik7Cg==</text>
@@ -1645,17 +1646,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0XD4=</last-search>
+      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBbGVydFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDx2b2lkXD4=</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
@@ -1675,6 +1675,7 @@
         <entry>Paths</entry>
         <entry>Path</entry>
         <entry encoding="base64">XDx0XD4=</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
