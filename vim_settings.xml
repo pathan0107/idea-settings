@@ -140,6 +140,12 @@
         <mark key="." line="89" column="23" />
         <mark key="^" line="89" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/EventLogger.java" timestamp="1497537646031">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/App.java" timestamp="1495377411368">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -172,6 +178,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Event.java" timestamp="1497537617990">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496738482707">
         <mark key="[" line="2" column="0" />
@@ -852,11 +864,11 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/ConsoleEventLogger.java" timestamp="1497534667005">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/ConsoleEventLogger.java" timestamp="1497537670170">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/EffectiveFinal.java" timestamp="1496129804091">
         <mark key="[" line="10" column="0" />
@@ -1310,11 +1322,11 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497536366166">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497536432310">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceMergeProcessor.java" timestamp="1485954940996">
         <mark key="[" line="31" column="0" />
@@ -1610,10 +1622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;App&quot;)</text>
+        <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;App&quot;)</text>
+        <text>msg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
