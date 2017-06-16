@@ -575,6 +575,11 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="18" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/resources/client.properties" timestamp="1497609422528">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/DepartmentMergeProcessor.java" timestamp="1485965734690">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -644,6 +649,12 @@
         <mark key="]" line="23" column="40" />
         <mark key="." line="23" column="40" />
         <mark key="^" line="23" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/config/Properties.java" timestamp="1497612740010">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/DropTempCollectionsProcessor.java" timestamp="1485966089179">
         <mark key="[" line="20" column="0" />
@@ -1332,17 +1343,17 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497602659673">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497612468190">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/eventloggers/FileEventLogger.java" timestamp="1497604511198">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="17" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/eventloggers/FileEventLogger.java" timestamp="1497612514803">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceMergeProcessor.java" timestamp="1485954940996">
         <mark key="[" line="31" column="0" />
@@ -1513,11 +1524,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/resources/app.properties" timestamp="1497539234852">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/resources/app.properties" timestamp="1497609421457">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceLookupProcessor.java" timestamp="1486111764978">
         <mark key="[" line="28" column="100" />
@@ -1653,10 +1664,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>:logFile</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>:logFile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -1665,7 +1676,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENhY2hlRXZlbnRMb2dnZXIobmV3IENvbnNvbGVFdmVudExvZ2dlcigpLCAxMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlRXZlbnRMb2dnZXIoKSB0aHJvd3MgRmlsZUV2ZW50TG9nZ2VyRXhjZXB0aW9uIHsKICAgICAgICBpbml0KCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIgcHJvcGVydGllczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1698,28 +1709,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRMb2dnZXIgPSBjcmVhdGVGaWxlTG9nZ2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Y2xpZW50TmFtZSA9ICJKb2huIFNpbHZlciIKY2xpZW50SWQgPSAiMSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGVudiA9IFN5c3RlbS5nZXRlbnYoKTsK</text>
+        <text encoding="base64">ICAgIEBQcm9wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW52LmdldCgic3ByaW5nLnByb2ZpbGVzLmFjdGl2ZSIpID09IG51bGwpIHsKICAgICAgICAgICAgZW52LnB1dCgic3B0aW5nLnByb2ZpbGVzLmFjdGl2ZSIsICJkZXYiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">QFBhcmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0Lgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlRXZlbnRMb2dnZXIoKSB0aHJvd3MgRmlsZUV2ZW50TG9nZ2VyRXhjZXB0aW9uIHsKICAgICAgICBpbml0KCk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRMb2dnZXIgPSBjcmVhdGVGaWxlTG9nZ2VyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDUwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGVudiA9IFN5c3RlbS5nZXRlbnYoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
