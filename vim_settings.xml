@@ -434,7 +434,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Launcher.java" timestamp="1497604188997">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Launcher.java" timestamp="1497615112761">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -1343,11 +1343,10 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497612468190">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497615213677">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/eventloggers/FileEventLogger.java" timestamp="1497612514803">
         <mark key="[" line="14" column="25" />
@@ -1663,11 +1662,11 @@
       <jump line="22" column="32" filename="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:logFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>:logFile</text>
+        <text>&quot;com.example.spring.core&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -1676,7 +1675,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENhY2hlRXZlbnRMb2dnZXIobmV3IENvbnNvbGVFdmVudExvZ2dlcigpLCAxMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIgcHJvcGVydGllczsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1709,28 +1708,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xpZW50TmFtZSA9ICJKb2huIFNpbHZlciIKY2xpZW50SWQgPSAiMSIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIgcHJvcGVydGllczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQcm9wCg==</text>
+        <text encoding="base64">ICAgIEBBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFBhcmEK</text>
+        <text encoding="base64">Y2xpZW50TmFtZSA9ICJKb2huIFNpbHZlciIKY2xpZW50SWQgPSAiMSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlRXZlbnRMb2dnZXIoKSB0aHJvd3MgRmlsZUV2ZW50TG9nZ2VyRXhjZXB0aW9uIHsKICAgICAgICBpbml0KCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIEBQcm9wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRMb2dnZXIgPSBjcmVhdGVGaWxlTG9nZ2VyKCk7Cg==</text>
+        <text encoding="base64">QFBhcmEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGaWxlRXZlbnRMb2dnZXIoKSB0aHJvd3MgRmlsZUV2ZW50TG9nZ2VyRXhjZXB0aW9uIHsKICAgICAgICBpbml0KCk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGVudiA9IFN5c3RlbS5nZXRlbnYoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRMb2dnZXIgPSBjcmVhdGVGaWxlTG9nZ2VyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
