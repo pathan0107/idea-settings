@@ -232,9 +232,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" timestamp="1496146692924">
-        <mark key="'" line="549" column="11" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/users_authorities.csv" timestamp="1494504764121">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -437,9 +434,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" timestamp="1495713047417">
-        <mark key="'" line="481" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/AppController.java" timestamp="1495123739524">
         <mark key="[" line="8" column="1" />
@@ -737,9 +731,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="60" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" timestamp="1496755279072">
-        <mark key="'" line="89" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/resources/Goods.json" timestamp="1496837836118">
         <mark key="[" line="26" column="1" />
@@ -1054,6 +1045,12 @@
         <mark key="^" line="99" column="74" />
         <mark key="." line="99" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/config/LoggerConfig.java" timestamp="1497599878115">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/entity/PhoneNumberType.java" timestamp="1494000139332">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="18" />
@@ -1082,9 +1079,6 @@
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" timestamp="1496325353964">
-        <mark key="'" line="4676" column="15" />
       </file>
       <file name="$USER_HOME$/gitLab/rostov/RLDD_KRD/docker-run.sh" timestamp="1487350362717">
         <mark key="[" line="2" column="118" />
@@ -1132,9 +1126,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" timestamp="1497005832972">
-        <mark key="'" line="433" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" timestamp="1497430503232">
         <mark key="'" line="6" column="37" />
         <mark key="[" line="13" column="0" />
@@ -1176,6 +1167,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/config/LoggerFactory.java" timestamp="1497599904150">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/gitLab/kbr-clean-persons/src/main/groovy/MergePersons.groovy" timestamp="1485687116562">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="53" />
@@ -1187,9 +1184,6 @@
         <mark key="]" line="63" column="19" />
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1496060930613">
-        <mark key="'" line="1759" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/web.xml" timestamp="1495541668939">
         <mark key="[" line="15" column="28" />
@@ -1227,9 +1221,6 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" timestamp="1496325382035">
-        <mark key="'" line="70" column="22" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/aop/journal/JournalAspect.java" timestamp="1493040047812">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="7" column="6" />
@@ -1259,9 +1250,6 @@
         <mark key="]" line="5" column="43" />
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" timestamp="1495784919505">
-        <mark key="'" line="277" column="12" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.html" timestamp="1494535408004">
         <mark key="[" line="6" column="47" />
@@ -1341,11 +1329,11 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497539348236">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497599899541">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ServiceMergeProcessor.java" timestamp="1485954940996">
         <mark key="[" line="31" column="0" />
@@ -1424,6 +1412,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/eventloggers/CacheEventLogger.java" timestamp="1497599864211">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapps/test.jsp" timestamp="1495450876083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="6" />
@@ -1498,9 +1491,6 @@
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java" timestamp="1497362944239">
-        <mark key="'" line="300" column="5" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/core/build.gradle" timestamp="1492369456719">
         <mark key="[" line="4" column="9" />
@@ -1653,10 +1643,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Event</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Event</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -1665,7 +1655,7 @@
         <text encoding="base64">ICAgIEBTY29wZShDb25maWd1cmFibGVCZWFuRmFjdG9yeS5TQ09QRV9QUk9UT1RZUEUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBAU2NvcGUoQ29uZmlndXJhYmxlQmVhbkZhY3RvcnkuU0NPUEVfUFJPVE9UWVBFKQogICAgcHVibGljIERhdGUgY3JlYXRlT3RoZXJEYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgRGF0ZSgpOwogICAgfQo=</text>
+        <text encoding="base64">QFNlcnZpY2UoImNhY2hlRXZlbnRMb2dnZXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1698,28 +1688,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wQ2FjaGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMgZmlsZVV0aWxzID0gbmV3IEZpbGVVdGlscygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRNc2coIlNvbWUgZXZlbnQgd2l0aCBjbGllbnQgMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IG1zZy5yZXBsYWNlQWxsKGNsaWVudC5nZXRJZCgpLCBjbGllbnQuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBAU2NvcGUoQ29uZmlndXJhYmxlQmVhbkZhY3RvcnkuU0NPUEVfUFJPVE9UWVBFKQogICAgcHVibGljIERhdGUgY3JlYXRlT3RoZXJEYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgRGF0ZSgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
