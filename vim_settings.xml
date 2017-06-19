@@ -1112,7 +1112,9 @@
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" timestamp="1497893237883" />
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" timestamp="1497895169231">
+        <mark key="[" line="16" column="46" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="64" />
