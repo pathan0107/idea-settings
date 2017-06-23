@@ -1249,11 +1249,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" timestamp="1498224971695">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="68" />
-        <mark key="^" line="30" column="68" />
-        <mark key="." line="30" column="68" />
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" timestamp="1498227838800">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="35" column="65" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/entity/Address.java" timestamp="1492096519749">
         <mark key="[" line="9" column="43" />
@@ -1575,9 +1576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="119" filename="$USER_HOME$/gitLab/self-service-portal/build.gradle" />
-      <jump line="23" column="15" filename="$USER_HOME$/gitLab/self-service-portal/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitLab/self-service-portal/gradle.properties" />
       <jump line="13" column="51" filename="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/config/DatabaseConfiguration.java" />
       <jump line="5" column="47" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" />
       <jump line="26" column="13" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.state.js" />
@@ -1675,22 +1673,25 @@
       <jump line="7" column="30" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" />
       <jump line="6" column="37" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" />
       <jump line="22" column="32" filename="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Event.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
+      <jump line="33" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
+      <jump line="28" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">0J7Qv9C40YHQsNC90LjQtSA=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">0J7Qv9C40YHQsNC90LjQtSA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text encoding="base64">XDxTdHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNYXgoMTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdGlvbjsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1723,37 +1724,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9taWNyb3NlcnZpY2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aGliZXJuYXRlLW9nbTwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9oaWJlcm5hdGUtb2dtPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQudG9TdHJpbmcoKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7fQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdW5pdEFiYnJldiA9ICJcdTAzYmNzIjsgLy8gR3JlZWsgbGV0dGVyIG11LCAicyIK</text>
+      <register name="4" type="4">
+        <text>паспорта сделки&quot;)
+    @NotNull
+    @Max(300)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+      <register name="5" type="4">
+        <text>паспорта сделки&quot;)
+    @NotNull
+    @Max(300)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIgcHJvcGVydGllczsK</text>
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9taWNyb3NlcnZpY2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aGliZXJuYXRlLW9nbTwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9oaWJlcm5hdGUtb2dtPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQudG9TdHJpbmcoKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search encoding="base64">XDxTdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTdHJpbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>-1</last-dir>
@@ -1761,7 +1766,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdWRpdEV2ZW50VHlwZXNTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDx2b2lkXD4=</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxVc2VyQmVhblw+</entry>
@@ -1781,6 +1785,7 @@
         <entry>Path</entry>
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
