@@ -1024,6 +1024,10 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/resources/deal_passport_closure_reason.json" timestamp="1498210541159">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="16" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/InterfacesImpl.java" timestamp="1496067105049">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1087,6 +1091,12 @@
         <mark key="]" line="2" column="257" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="236" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/resources/deal_passport_section_metadata.json" timestamp="1498210609383">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/DepartmentLookupProcessor.java" timestamp="1486111777703">
         <mark key="[" line="28" column="106" />
@@ -1657,17 +1667,17 @@
       <jump line="22" column="32" filename="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9taWNyb3NlcnZpY2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aGliZXJuYXRlLW9nbTwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9oaWJlcm5hdGUtb2dtPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Основания закрытия паспорта сделки</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Основания закрытия паспорта сделки</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZWFuKCJjYWNoZUxvZ2dlciIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAidGl0bGUiIDogItCe0YHQvdC+0LLQsNC90LjRjyDQt9Cw0LrRgNGL0YLQuNGPINC/0LDRgdC/0L7RgNGC0LAg0YHQtNC10LvQutC4IiwKICAidGl0bGVGaWVsZCIgOiAiY29kZSIsCiAgImtleUZpZWxkIiA6ICJjb2RlIiwKICAiZmllbGRzIiA6IFsgewogICAgImZpZWxkIiA6ICJjb2RlIiwKICAgICJ0aXRsZSIgOiAi0JrQvtC0INC+0YHQvdC+0LLQsNC90LjRjyDQt9Cw0LrRgNGL0YLQuNGPINC/0LDRgdC/0L7RgNGC0LAg0YHQtNC10LvQutC4IiwKICAgICJzaG9ydFRpdGxlIiA6ICLQmtC+0LQiLAogICAgInR5cGUiIDogIlN0cmluZyIsCiAgICAiaW5kZXhlZCIgOiB0cnVlCiAgfSwgewogICAgImZpZWxkIiA6ICJkZXNjcmlwdGlvbiIsCiAgICAidGl0bGUiIDogItCe0L/QuNGB0LDQvdC40LUg0L7RgdC90L7QstCw0L3QuNGPINC30LDQutGA0YvRgtC40Y8g0L/QsNGB0L/QvtGA0YLQsCDRgdC00LXQu9C60LgiLAogICAgInNob3J0VGl0bGUiIDogItCe0L/QuNGB0LDQvdC40LUiLAogICAgInR5cGUiIDogIlN0cmluZyIKICB9IF0sCiAgImltcG9ydGFudEZpZWxkcyIgOiBbICJjb2RlIiwgImRlc2NyaXB0aW9uIiBd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9taWNyb3NlcnZpY2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aGliZXJuYXRlLW9nbTwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9oaWJlcm5hdGUtb2dtPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
