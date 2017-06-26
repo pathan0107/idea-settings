@@ -222,6 +222,9 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/pom.xml" timestamp="1498482442294">
+        <mark key="[" line="8" column="35" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/ObjectMemorySizeCounter.java" timestamp="1492947506854">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="6" column="34" />
@@ -1153,7 +1156,6 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportclosure/repository/DealPassportClosureReasonRepository.java" timestamp="1498202931937" />
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
