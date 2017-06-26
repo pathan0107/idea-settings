@@ -63,6 +63,12 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CloseReasonInfoModel.java" timestamp="1498485854622">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/Cell.java" timestamp="1492371005906">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="7" column="15" />
@@ -74,10 +80,6 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportclosure/dto/DealPassportClosureReasonDto.java" timestamp="1498224799408">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="75" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/gulp/config.js" timestamp="1491313028123">
         <mark key="[" line="2" column="33" />
@@ -149,6 +151,12 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DealPassportModel.java" timestamp="1498486111827">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/App.java" timestamp="1495377411368">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -166,6 +174,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentProvideModel.java" timestamp="1498486121545">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="13" />
@@ -182,10 +196,22 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CountryModel.java" timestamp="1498486101853">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496738482707">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/EmployeeModel.java" timestamp="1498486158843">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/config/DatabaseConfiguration.java" timestamp="1494002926555">
         <mark key="[" line="24" column="0" />
@@ -429,6 +455,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AttachmentModel.java" timestamp="1498485836866">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Launcher.java" timestamp="1497615112761">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -510,6 +542,12 @@
         <mark key="." line="35" column="70" />
         <mark key="^" line="35" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" timestamp="1498486176991">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/PrimitiveIncrementTrick.java" timestamp="1495783094857">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="7" />
@@ -557,6 +595,12 @@
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" timestamp="1498486085597">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" timestamp="1495542854181">
         <mark key="[" line="18" column="62" />
@@ -608,6 +652,12 @@
         <mark key="]" line="7" column="3" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentStatusModel.java" timestamp="1498486148439">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/docker/DockerFile" timestamp="1492176099008">
         <mark key="[" line="0" column="0" />
@@ -681,6 +731,12 @@
         <mark key="." line="8" column="49" />
         <mark key="^" line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentReceiveModel.java" timestamp="1498486130659">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/web/rest/dto/AuditEventTypeDto.java" timestamp="1494512403635">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="11" column="38" />
@@ -734,6 +790,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="5" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/NonResidentModel.java" timestamp="1498486169053">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/ex/src/main/java/Application.java" timestamp="1488358175272">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -746,7 +808,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498485318730">
+      <file name="/Dummy.txt" timestamp="1498485791252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -910,16 +972,17 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" timestamp="1498486187810">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/dto/DealPassportSectionDto.java" timestamp="1498145100500">
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/CacheStrategy.java" timestamp="1492936856360">
         <mark key="[" line="33" column="5" />
@@ -1033,10 +1096,6 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/resources/deal_passport_closure_reason.json" timestamp="1498210541159">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="16" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/InterfacesImpl.java" timestamp="1496067105049">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1107,17 +1166,17 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractTypeModel.java" timestamp="1498486091916">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/DepartmentLookupProcessor.java" timestamp="1486111777703">
         <mark key="[" line="28" column="106" />
         <mark key="]" line="28" column="106" />
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" timestamp="1498483675721">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="68" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
         <mark key="[" line="24" column="28" />
@@ -1159,6 +1218,11 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CurrencyModel.java" timestamp="1498485809506">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -1171,17 +1235,17 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/pom.xml" timestamp="1498483553996">
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="266" column="20" />
-        <mark key="^" line="255" column="7" />
-        <mark key="." line="255" column="7" />
-      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget/robots.txt" timestamp="1490964019448">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" timestamp="1498485821790">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/WidgetResource.java" timestamp="1490952054935">
         <mark key="[" line="19" column="8" />
@@ -1199,10 +1263,6 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/pom.xml" timestamp="1498483401869">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/config/LoggerFactory.java" timestamp="1497619782300">
         <mark key="[" line="19" column="14" />
@@ -1263,13 +1323,6 @@
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" timestamp="1498227838800">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-        <mark key="^" line="35" column="65" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/entity/Address.java" timestamp="1492096519749">
         <mark key="[" line="9" column="43" />
@@ -1549,6 +1602,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" timestamp="1498485845031">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495797796004">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1583,6 +1642,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" timestamp="1498486193921">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/package.json" timestamp="1490276104860">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="21" />
@@ -1591,64 +1656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="89" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
-      <jump line="26" column="13" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.service.js" />
-      <jump line="4" column="43" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" />
-      <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" />
-      <jump line="14" column="44" filename="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestServlet.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
-      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
-      <jump line="18" column="2" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
-      <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/WEB-INF/test.jsp" />
-      <jump line="150" column="24" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
-      <jump line="481" column="0" filename="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/config/JHipsterProperties.java" />
-      <jump line="14" column="8" filename="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" />
-      <jump line="277" column="12" filename="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/concurrent/TimeUnit.class" />
-      <jump line="18" column="40" filename="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/webapp/WEB-INF/test.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/webapp/WEB-INF/formAction.jsp" />
-      <jump line="14" column="4" filename="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/RestExample.java" />
-      <jump line="1026" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1116" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1192" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1654" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1673" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="1759" column="16" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-      <jump line="12" column="8" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/Polyndrome.java" />
-      <jump line="549" column="11" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" />
-      <jump line="4010" column="64" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1190" column="36" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1248" column="14" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1314" column="14" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1324" column="13" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1334" column="13" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1515" column="14" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="1441" column="14" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="4676" column="15" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Arrays.java" />
-      <jump line="70" column="22" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/AbstractList.java" />
-      <jump line="65" column="11" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/tryfinally/TryFinally.java" />
-      <jump line="31" column="34" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="531" column="22" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" />
-      <jump line="89" column="33" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/DriverManager.java" />
-      <jump line="37" column="38" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="46" column="25" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="0" column="21" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="11" column="14" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="12" column="59" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="16" column="47" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="13" column="30" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="21" column="8" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="51" column="55" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="48" column="33" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="14" column="37" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="40" column="20" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/java/com/example/jdbc/JdbcApp.java" />
-      <jump line="38" column="9" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="30" column="8" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="61" column="77" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="148" column="18" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
-      <jump line="332" column="9" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
       <jump line="433" column="31" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
       <jump line="5" column="21" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="21" column="64" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
@@ -1691,22 +1698,80 @@
       <jump line="59" column="8" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
       <jump line="83" column="16" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="27" column="5" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AddressModel.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AttachmentModel.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AttachmentModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AttachmentModel.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AuthorizedBankModel.java" />
+      <jump line="25" column="17" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CloseReasonInfoModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CloseReasonInfoModel.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CloseReasonInfoModel.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractModel.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractTypeModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/ContractTypeModel.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CountryModel.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CountryModel.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DealPassportModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DealPassportModel.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentProvideModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentProvideModel.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentReceiveModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentReceiveModel.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentStatusModel.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentStatusModel.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/DocumentStatusModel.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/EmployeeModel.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/EmployeeModel.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/NonResidentModel.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/OrganizationModel.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RegistrationDataModel.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+cnUudnRiLmRibzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3dhZ2dlci1kb2N1bWVudGF0aW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3N3YWdnZXItZG9jdW1lbnRhdGlvbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>ru.vtb.dbo.exchangecontrol.model</text>
       </register>
       <register name="/" type="4">
-        <text>graph</text>
+        <text encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Z3JhcGhpdGUtbWV0cmljcy52ZXJzaW9uPjAuMC4wLjE8L2dyYXBoaXRlLW1ldHJpY3MudmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+cnUudnRiLmRibzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3dhZ2dlci1kb2N1bWVudGF0aW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3N3YWdnZXItZG9jdW1lbnRhdGlvbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1739,49 +1804,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnJ1LnZ0Yi5kYm8uZXhjaGFuZ2Vjb250cm9sLm1vZGVsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdGlvbjsKCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCf0Y/RgtCw0Y8g0YfQsNGB0YLRjCDQvdC+0LzQtdGAINCf0KEiLCBleGFtcGxlID0gIjEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCn0LXRgtCy0LXRgNGC0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMSIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>паспорта сделки&quot;)
-    @NotNull
-    @Max(300)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCi0YDQtdGC0YzRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>паспорта сделки&quot;)
-    @NotNull
-    @Max(300)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCS0YLQvtGA0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>graph</last-search>
+      <last-search encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</last-search>
       <last-offset />
-      <last-pattern>graph</last-pattern>
+      <last-pattern encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remove(</entry>
         <entry encoding="base64">XDxsb2dTeW5jXD4=</entry>
         <entry>db</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
@@ -1801,6 +1861,7 @@
         <entry>swag</entry>
         <entry>hibern</entry>
         <entry>graph</entry>
+        <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
