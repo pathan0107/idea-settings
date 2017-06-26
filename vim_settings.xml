@@ -931,6 +931,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" timestamp="1498488910380">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/EffectiveFinal.java" timestamp="1496129804091">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1177,6 +1183,13 @@
         <mark key="]" line="28" column="106" />
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" timestamp="1498488370419">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
         <mark key="[" line="24" column="28" />
@@ -1426,6 +1439,12 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/pom.xml" timestamp="1498488902811">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497619750124">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
@@ -1656,8 +1675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="31" filename="/usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Path.java" />
-      <jump line="5" column="21" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="21" column="64" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="29" column="25" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="32" column="38" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
@@ -1756,22 +1773,24 @@
       <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
+      <jump line="306" column="42" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
+      <jump line="335" column="0" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFBhcmVudA==</text>
       </register>
       <register name="-" type="4">
-        <text>ru.vtb.dbo.exchangecontrol.model</text>
+        <text encoding="base64">IFBhcmVudA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JhcGhpdGUtbWV0cmljcy52ZXJzaW9uPjAuMC4wLjE8L2dyYXBoaXRlLW1ldHJpY3MudmVyc2lvbj4K</text>
+      <register name="0" type="4">
+        <text>Ignite Stream Search POC Parent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmV4Y2hhbmdlLWNvbnRyb2wtYXBpPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1804,28 +1823,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCf0Y/RgtCw0Y8g0YfQsNGB0YLRjCDQvdC+0LzQtdGAINCf0KEiLCBleGFtcGxlID0gIjEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCn0LXRgtCy0LXRgNGC0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMSIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCf0Y/RgtCw0Y8g0YfQsNGB0YLRjCDQvdC+0LzQtdGAINCf0KEiLCBleGFtcGxlID0gIjEiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCi0YDQtdGC0YzRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCn0LXRgtCy0LXRgNGC0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCS0YLQvtGA0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCi0YDQtdGC0YzRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -1838,7 +1857,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
