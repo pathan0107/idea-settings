@@ -222,8 +222,10 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/pom.xml" timestamp="1498482442294">
-        <mark key="[" line="8" column="35" />
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/pom.xml" timestamp="1498484754252">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/ObjectMemorySizeCounter.java" timestamp="1492947506854">
         <mark key="[" line="5" column="42" />
@@ -744,7 +746,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498231555419">
+      <file name="/Dummy.txt" timestamp="1498485318730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -1111,9 +1113,10 @@
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" timestamp="1497965048417">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" timestamp="1498483675721">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="68" />
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
@@ -1168,6 +1171,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/pom.xml" timestamp="1498483553996">
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="266" column="20" />
+        <mark key="^" line="255" column="7" />
+        <mark key="." line="255" column="7" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget/robots.txt" timestamp="1490964019448">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="11" />
@@ -1190,6 +1199,10 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/pom.xml" timestamp="1498483401869">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/config/LoggerFactory.java" timestamp="1497619782300">
         <mark key="[" line="19" column="14" />
@@ -1578,16 +1591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="51" filename="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/config/DatabaseConfiguration.java" />
-      <jump line="5" column="47" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" />
-      <jump line="26" column="13" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.state.js" />
-      <jump line="6" column="2726" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.liquibase/liquibase-core/3.4.2/c91ccf342466857251cf6795b0cecc42509206f2/liquibase-core-3.4.2.jar!/liquibase/sdk/watch/css/bootstrap-theme.min.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
-      <jump line="74" column="16" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
-      <jump line="7" column="108" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-settings.controller.js" />
-      <jump line="81" column="16" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
-      <jump line="7" column="102" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
       <jump line="9" column="89" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.controller.js" />
       <jump line="26" column="13" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/article.service.js" />
       <jump line="4" column="43" filename="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.service.js" />
@@ -1678,22 +1681,32 @@
       <jump line="37" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
       <jump line="33" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
       <jump line="28" column="4" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/DealPassportSectionDto.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="68" column="53" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="4" column="25" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="77" column="17" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="22" column="48" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="30" column="9" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="19" column="13" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="59" column="8" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="83" column="16" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+cnUudnRiLmRibzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3dhZ2dlci1kb2N1bWVudGF0aW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3N3YWdnZXItZG9jdW1lbnRhdGlvbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ru.vtb.dbo.exchangecontrol.model</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdHJpbmdcPg==</text>
+        <text>graph</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNYXgoMTApCg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3JhcGhpdGUtbWV0cmljcy52ZXJzaW9uPjAuMC4wLjE8L2dyYXBoaXRlLW1ldHJpY3MudmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdGlvbjsKCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+cnUudnRiLmRibzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3dhZ2dlci1kb2N1bWVudGF0aW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3N3YWdnZXItZG9jdW1lbnRhdGlvbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1726,53 +1739,48 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>паспорта сделки&quot;)
-    @NotNull
-    @Max(300)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnJ1LnZ0Yi5kYm8uZXhjaGFuZ2Vjb250cm9sLm1vZGVsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>паспорта сделки&quot;)
-    @NotNull
-    @Max(300)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdGlvbjsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0YDQsNGC0LrQvtC1INC+0L/QuNGB0LDQvdC40LUg0LPRgNCw0YTRiyDQv9Cw0YHQv9C+0YDRgtCwINGB0LTQtdC70LrQuCIpCiAgICBATm90TnVsbAogICAgQE1heCgzMDApCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9taWNyb3NlcnZpY2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aGliZXJuYXRlLW9nbTwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnZ0Yi1kYm8ucHJvamVjdHMuZXBhbS5jb20vcmVwb3NpdG9yeS9oaWJlcm5hdGUtb2dtPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
+      <register name="8" type="4">
+        <text>паспорта сделки&quot;)
+    @NotNull
+    @Max(300)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQudG9TdHJpbmcoKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7fQo=</text>
+      <register name="9" type="4">
+        <text>паспорта сделки&quot;)
+    @NotNull
+    @Max(300)</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdHJpbmdcPg==</last-search>
+      <last-search>graph</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdHJpbmdcPg==</last-pattern>
+      <last-pattern>graph</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2b2lkXD4=</entry>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
-        <entry encoding="base64">XDxVc2VyQmVhblw+</entry>
-        <entry encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</entry>
-        <entry>remove</entry>
         <entry>remove(</entry>
         <entry encoding="base64">XDxsb2dTeW5jXD4=</entry>
         <entry>db</entry>
@@ -1788,6 +1796,11 @@
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry>model</entry>
+        <entry>swagg</entry>
+        <entry>swag</entry>
+        <entry>hibern</entry>
+        <entry>graph</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
