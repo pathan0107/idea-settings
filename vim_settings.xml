@@ -1385,6 +1385,9 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" timestamp="1498552894607">
+        <mark key="'" line="152" column="51" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/domain/Apteka.java" timestamp="1492171132535">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="23" column="24" />
@@ -1687,19 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="64" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="29" column="25" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="32" column="38" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="33" column="37" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="34" column="27" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="35" column="27" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="36" column="66" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="41" column="50" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="42" column="42" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="43" column="29" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="44" column="79" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="45" column="19" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
-      <jump line="46" column="58" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="48" column="91" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="53" column="44" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
       <jump line="54" column="41" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/CurrentJarFullPath.java" />
@@ -1787,6 +1777,19 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
       <jump line="306" column="42" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
       <jump line="335" column="0" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
+      <jump line="142" column="8" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="145" column="47" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="146" column="54" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="148" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="151" column="39" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="154" column="22" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="46" column="32" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="44" column="51" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="43" column="31" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="36" column="26" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="25" column="41" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="5" column="35" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
+      <jump line="152" column="51" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1796,7 +1799,7 @@
         <text encoding="base64">QXBwQ29uZmlnIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</text>
+        <text>entity</text>
       </register>
       <register name="0" type="4">
         <text>Ignite Stream Search POC Parent</text>
@@ -1863,9 +1866,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</last-search>
+      <last-search>entity</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</last-pattern>
+      <last-pattern>entity</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1873,7 +1876,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dTeW5jXD4=</entry>
         <entry>db</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjbG9zZWFibGVzXD4=</entry>
@@ -1893,6 +1895,7 @@
         <entry>hibern</entry>
         <entry>graph</entry>
         <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
+        <entry>entity</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
