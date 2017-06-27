@@ -93,11 +93,21 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/eventloggers/ConsoleEventLogger.java" timestamp="1497602917540">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/esia-auth.html" timestamp="1493236818652">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="36" />
         <mark key="^" line="13" column="61" />
         <mark key="." line="16" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/ProcessorsAvailable.java" timestamp="1497340409411">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/index.html" timestamp="1493129796081">
         <mark key="[" line="9" column="6" />
@@ -147,6 +157,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/App.java" timestamp="1495377411368">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/MergeDepartmentCollsMapReduceFunctionsProvider.java" timestamp="1485960253969">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="45" />
@@ -171,11 +186,26 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Java8Time.java" timestamp="1496062168775">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Foxy.java" timestamp="1496071034267">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CountryModel.java" timestamp="1498486101853">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/MemoryGC.java" timestamp="1496738482707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/EmployeeModel.java" timestamp="1498486158843">
         <mark key="'" line="22" column="0" />
@@ -201,6 +231,11 @@
         <mark key="." line="21" column="75" />
         <mark key="^" line="12" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/memorytraining/SystemProperties.java" timestamp="1496670408115">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/build.gradle" timestamp="1492094324005">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -213,11 +248,26 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/pom.xml" timestamp="1498484754252">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/ObjectMemorySizeCounter.java" timestamp="1492947506854">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/users_authorities.csv" timestamp="1494504764121">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1496836978697">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -279,11 +329,21 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/VolatileTraining.java" timestamp="1496649257230">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/components/login/login.controller.js" timestamp="1493386524534">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="26" column="7" />
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/config/liquibase/audit_filter.csv" timestamp="1494514432538">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/SpringMvcTrainingApplication.java" timestamp="1496762277436">
         <mark key="[" line="10" column="68" />
@@ -291,11 +351,21 @@
         <mark key="." line="10" column="95" />
         <mark key="^" line="10" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/cache/Cache.java" timestamp="1496844822061">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/UserAction.java" timestamp="1492371243139">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf2.java" timestamp="1496067107294">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/rostov/meta-soap/README" timestamp="1486379924990">
         <mark key="[" line="5" column="42" />
@@ -320,6 +390,11 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/ClassLoader.java" timestamp="1496663592421">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/SelfServicePortalApp.java" timestamp="1491395861228">
         <mark key="[" line="25" column="113" />
@@ -375,11 +450,21 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/ThreadJoinExample.java" timestamp="1496928830563">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/AttachmentModel.java" timestamp="1498485836866">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Launcher.java" timestamp="1497615112761">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/AppController.java" timestamp="1495123739524">
         <mark key="[" line="8" column="1" />
@@ -422,6 +507,16 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Zip.java" timestamp="1496746035430">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/TryFinally.java" timestamp="1496649752529">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/article/tag/tag.service.js" timestamp="1487591886996">
         <mark key="[" line="10" column="0" />
@@ -519,6 +614,11 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="18" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/resources/client.properties" timestamp="1497609422528">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/DepartmentMergeProcessor.java" timestamp="1485965734690">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -536,6 +636,16 @@
         <mark key="]" line="5" column="16" />
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/ssp/src/main/java/ru/atc/ssp/SelfServicePortalApp.java" timestamp="1495715575547">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.service.js" timestamp="1494509756107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/CacheLevelSettings.java" timestamp="1492855080447">
         <mark key="[" line="6" column="26" />
@@ -669,6 +779,16 @@
         <mark key="." line="17" column="81" />
         <mark key="^" line="17" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/Client.java" timestamp="1497600135432">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/Application.java" timestamp="1498549104767">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/config/widget-config-prod.js" timestamp="1490729212842">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="60" />
@@ -693,7 +813,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498490260438">
+      <file name="/Dummy.txt" timestamp="1498550774105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -704,6 +824,11 @@
         <mark key="]" line="14" column="19" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/IntegerWrapping.java" timestamp="1496141541404">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/Cache.java" timestamp="1492936485995">
         <mark key="[" line="7" column="49" />
@@ -728,6 +853,11 @@
         <mark key="]" line="2" column="63" />
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audit-event-types.js" timestamp="1494509580028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Application.java" timestamp="1495782689147">
         <mark key="[" line="37" column="19" />
@@ -789,6 +919,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="63" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/webapp/web.xml" timestamp="1495452454585">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/test/java/ru/vcherkesske/apteka/ApplicationTest.java" timestamp="1492683603088">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="59" />
@@ -806,6 +941,11 @@
         <mark key="]" line="8" column="46" />
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/effectivefinal/EffectiveFinal.java" timestamp="1496129804091">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Id.java" timestamp="1495726692896">
         <mark key="[" line="4" column="18" />
@@ -891,6 +1031,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/UserBean.java" timestamp="1495788806864">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/TryResource.java" timestamp="1496743321774">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="48" />
@@ -957,6 +1102,16 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/src/main/java/ru/vtb/dbo/exchangecontrol/InitialDataLoader.java" timestamp="1497957540027">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/InterfacesImpl.java" timestamp="1496067105049">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/resources/application-uat.yml" timestamp="1491316846093">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="36" />
@@ -986,6 +1141,11 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/memorytraining/concurrency/TryFinally.java" timestamp="1496744122687">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/app/img/Phone_girl.svg" timestamp="1489753082177">
         <mark key="[" line="0" column="73" />
@@ -1048,6 +1208,11 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/memorytraining/StringMemorySize.java" timestamp="1496744494146">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/InMemoryCache.java" timestamp="1493018830497">
         <mark key="[" line="17" column="81" />
         <mark key="]" line="19" column="21" />
@@ -1060,11 +1225,21 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/EvenOrOdd.java" timestamp="1496663675457">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/dto/DealPassportSection.java" timestamp="1498145095922">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="34" />
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/CurrencyModel.java" timestamp="1498485809506">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/testDocker.sh" timestamp="1490690842226">
         <mark key="[" line="12" column="18" />
@@ -1095,6 +1270,12 @@
         <mark key="]" line="21" column="18" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/domain/IgniteSequenceGenerator.java" timestamp="1498550131565" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/Foo.java" timestamp="1497342941517">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/SettingsProvider.java" timestamp="1492952435087">
         <mark key="[" line="8" column="9" />
@@ -1294,6 +1475,11 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/build.gradle" timestamp="1495808135246">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/main/java/ru/vcherkesske/apteka/domain/Ostatki.java" timestamp="1492173036526">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="25" />
@@ -1378,6 +1564,16 @@
         <mark key="." line="28" column="104" />
         <mark key="^" line="28" column="127" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/Test.java" timestamp="1497359908353">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/Fox.java" timestamp="1496057017445">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf1.java" timestamp="1496065966798">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="8" column="38" />
@@ -1407,6 +1603,11 @@
         <mark key="]" line="10" column="19" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/BitwiseOperators.java" timestamp="1496825635220">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/docker-context/server.xml" timestamp="1487339469578">
         <mark key="[" line="150" column="60" />
@@ -1438,6 +1639,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/com/example/concurrencytraining/ThreadJoinExample.java" timestamp="1495797796004">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/resources/app.properties" timestamp="1497619831090">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
@@ -1461,6 +1667,11 @@
         <mark key="]" line="12" column="21" />
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/servletTraining/src/main/java/com/example/servlettraining/UserBean.java" timestamp="1495789312295">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" timestamp="1498486193921">
         <mark key="'" line="28" column="0" />
@@ -1578,8 +1789,8 @@
       <jump line="335" column="0" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QXBwQ29uZmlnIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUV1cmVrYUNsaWVudAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QXBwQ29uZmlnIA==</text>
@@ -1591,7 +1802,7 @@
         <text>Ignite Stream Search POC Parent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmV4Y2hhbmdlLWNvbnRyb2wtYXBpPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">QEVuYWJsZUV1cmVrYUNsaWVudAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1624,28 +1835,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
+        <text encoding="base64">QEVuYWJsZVN3YWdnZXJEb2N1bWVudGF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmV4Y2hhbmdlLWNvbnRyb2wtYXBpPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCf0Y/RgtCw0Y8g0YfQsNGB0YLRjCDQvdC+0LzQtdGAINCf0KEiLCBleGFtcGxlID0gIjEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCn0LXRgtCy0LXRgNGC0LDRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMSIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCi0YDQtdGC0YzRjyDRh9Cw0YHRgtGMINC90L7QvNC10YAg0J/QoSIsIGV4YW1wbGUgPSAiMTIzNCIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCf0Y/RgtCw0Y8g0YfQsNGB0YLRjCDQvdC+0LzQtdGAINCf0KEiLCBleGFtcGxlID0gIjEiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
