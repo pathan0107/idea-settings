@@ -518,7 +518,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/src/main/java/ru/vtb/dbo/exchangecontrol/repository/ConfirmingDocumentCertificateRepository.java" timestamp="1498561352731">
+      <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/src/main/java/ru/vtb/dbo/exchangecontrol/repository/ConfirmingDocumentCertificateRepository.java" timestamp="1498561978886">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -818,7 +818,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498558568301">
+      <file name="/Dummy.txt" timestamp="1498561983857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -1798,7 +1798,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZpbgo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmNyZWF0ZVF1ZXJ5KCIiKS5nZXRSZXN1bHRMaXN0KCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QXBwQ29uZmlnIA==</text>
@@ -1810,7 +1810,7 @@
         <text>Ignite Stream Search POC Parent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZpbgo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmNyZWF0ZVF1ZXJ5KCIiKS5nZXRSZXN1bHRMaXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1843,28 +1843,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUV1cmVrYUNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZVN3YWdnZXJEb2N1bWVudGF0aW9uCg==</text>
+        <text encoding="base64">QEVuYWJsZUV1cmVrYUNsaWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmV4Y2hhbmdlLWNvbnRyb2wtYXBpPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">QEVuYWJsZVN3YWdnZXJEb2N1bWVudGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmV4Y2hhbmdlLWNvbnRyb2wtYXBpPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINC+0YLQutCw0LfQsCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QvNC80LXQvdGC0LDRgNC40LkiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCe0L/QuNGB0LDQvdC40LUg0L/RgNC40YfQuNC90Ysg0L7RgtC60LDQt9CwIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCU0LDRgtCwINCf0KEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItCa0L7QtCDQv9GA0LjRh9C40L3RiyDQvtGC0LrQsNC30LAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
