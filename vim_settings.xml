@@ -186,7 +186,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498634572745">
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498635914180">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -375,6 +375,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" timestamp="1498636083957">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf2.java" timestamp="1496067107294">
         <mark key="[" line="7" column="0" />
@@ -1423,10 +1430,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/ignite_config.xml" timestamp="1498632288597">
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/ignite_config.xml" timestamp="1498635743515">
         <mark key="[" line="46" column="46" />
-        <mark key="]" line="46" column="46" />
-        <mark key="." line="46" column="46" />
+        <mark key="]" line="46" column="52" />
+        <mark key="." line="46" column="52" />
+        <mark key="^" line="46" column="52" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-config-prod.js" timestamp="1490091144178">
         <mark key="[" line="17" column="0" />
@@ -1778,9 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/model/RejectionModel.java" />
       <jump line="306" column="42" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
       <jump line="335" column="0" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
@@ -1878,16 +1883,19 @@
       <jump line="129" column="17" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
       <jump line="21" column="39" filename="$USER_HOME$/Documents/vtb/microservice-exchange-control/pom.xml" />
+      <jump line="4" column="28" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
+      <jump line="11" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>ogm-jpa-tutorial</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>ogm-jpa-tutorial</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>&quot;ignitePersistenceUnit&quot;</text>
@@ -1954,9 +1962,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1964,7 +1972,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry>model</entry>
@@ -1984,6 +1991,7 @@
         <entry>ver</entry>
         <entry>ma</entry>
         <entry>spring</entry>
+        <entry encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
