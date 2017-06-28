@@ -186,11 +186,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498635914180">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498637674523">
+        <mark key="[" line="21" column="118" />
+        <mark key="]" line="21" column="118" />
+        <mark key="." line="21" column="118" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
@@ -376,12 +376,12 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" timestamp="1498636083957">
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" timestamp="1498637751859">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="85" />
+        <mark key="." line="16" column="85" />
+        <mark key="^" line="11" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf2.java" timestamp="1496067107294">
         <mark key="[" line="7" column="0" />
@@ -1330,6 +1330,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/ogm/hibernate-ogm-ignite/5.2.0-SNAPSHOT/hibernate-ogm-ignite-5.2.0-20170614.142555-9.jar!/org/hibernate/ogm/datastore/ignite/IgniteProperties.class" timestamp="1498637634027">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="118" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-impl/pom.xml" timestamp="1498577074215">
         <mark key="'" line="150" column="19" />
         <mark key="[" line="150" column="0" />
@@ -1889,19 +1893,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ogm-jpa-tutorial</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>ogm-jpa-tutorial</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;ignitePersistenceUnit&quot;</text>
+        <text>hibernate.ogm.ignite.allows_transaction_emulation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1934,28 +1938,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFUTUltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVHJhbnNhY3Rpb25NYW5hZ2VySW1wbGUiLz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFVVEltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVXNlclRyYW5zYWN0aW9uSW1wbGUiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudGl0eU1hbmFnZXI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyogICAgICAgICAgICBMb2NhbENvbnRhaW5lckVudGl0eU1hbmFnZXJGYWN0b3J5QmVhbiBlbnRpdHlNYW5hZ2VyID0gbmV3IExvY2FsQ29udGFpbmVyRW50aXR5TWFuYWdlckZhY3RvcnlCZWFuKCk7CiAgICAgICAgICAgIGVudGl0eU1hbmFnZXIuc2V0UGFja2FnZXNUb1NjYW4oInJ1LnZ0Yi5kYm8uZXhjaGFuZ2Vjb250cm9sLmRvbWFpbi5lbnRpdHkiLCAicnUudnRiLmRiby5leGNoYW5nZWNvbnRyb2wuZGljdGlvbmFyeSIpOwogICAgICAgICAgICBlbnRpdHlNYW5hZ2VyLnNldFBlcnNpc3RlbmNlVW5pdE5hbWUoImlnbml0ZVBlcnNpc3RlbmNlVW5pdCIpOwogICAgICAgICAgICBlbnRpdHlNYW5hZ2VyLnNldFBlcnNpc3RlbmNlUHJvdmlkZXJDbGFzcyhvcmcuaGliZXJuYXRlLmpwYS5IaWJlcm5hdGVQZXJzaXN0ZW5jZVByb3ZpZGVyLmNsYXNzKTsKICAgICAgICAgICAgZW50aXR5TWFuYWdlci5zZXRKcGFQcm9wZXJ0eU1hcChwcm9wZXJ0aWVzKTsKICAgICAgICAgICAgZW50aXR5TWFuYWdlci5zZXRQZXJzaXN0ZW5jZVByb3ZpZGVyQ2xhc3MoSGliZXJuYXRlT2dtUGVyc2lzdGVuY2UuY2xhc3MpOyovCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvdmlkZXI+b3JnLmhpYmVybmF0ZS5vZ20uanBhLkhpYmVybmF0ZU9nbVBlcnNpc3RlbmNlPC9wcm92aWRlcj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLQogIExpY2Vuc2VkIHRvIHRoZSBBcGFjaGUgU29mdHdhcmUgRm91bmRhdGlvbiAoQVNGKSB1bmRlciBvbmUgb3IgbW9yZQogIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogIHRoaXMgd29yayBmb3IgYWRkaXRpb25hbCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgY29weXJpZ2h0IG93bmVyc2hpcC4KICBUaGUgQVNGIGxpY2Vuc2VzIHRoaXMgZmlsZSB0byBZb3UgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMAogICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAgdGhlIExpY2Vuc2UuICBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLAogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICBsaW1pdGF0aW9ucyB1bmRlciB0aGUgTGljZW5zZS4KLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudGl0eU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
