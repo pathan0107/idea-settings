@@ -186,11 +186,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498637674523">
-        <mark key="[" line="21" column="118" />
-        <mark key="]" line="21" column="118" />
-        <mark key="." line="21" column="118" />
-        <mark key="^" line="23" column="32" />
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerProvider.java" timestamp="1498638574342">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
@@ -376,11 +376,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" timestamp="1498637751859">
+      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" timestamp="1498638534731">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="85" />
-        <mark key="]" line="16" column="85" />
-        <mark key="." line="16" column="85" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/java8features/src/main/java/com/example/java8features/deafaultmethods/Interf2.java" timestamp="1496067107294">
@@ -1892,8 +1892,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3BlcnRpZXMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIHByb3BlcnRpZXMucHV0KCJqYXZheC5wZXJzaXN0ZW5jZS50cmFuc2FjdGlvblR5cGUiLCAiUkVTT1VSQ0VfTE9DQUwiKTsKICAgICAgICAgICAgcHJvcGVydGllcy5wdXQoImhpYmVybmF0ZS5vZ20uZGF0YXN0b3JlLnByb3ZpZGVyIiwgIklHTklURSIpOwogICAgICAgICAgICBwcm9wZXJ0aWVzLnB1dChJZ25pdGVQcm9wZXJ0aWVzLklHTklURV9BTExPV1NfVFJBTlNBQ1RJT05fRU1VTEFUSU9OLCAidHJ1ZSIpOwogICAgICAgICAgICBVUkwgY29uZmlnID0gRW50aXR5TWFuYWdlclByb3ZpZGVyLmNsYXNzLmdldFJlc291cmNlKCIvaWduaXRlX2NvbmZpZy54bWwiKTsKICAgICAgICAgICAgcHJvcGVydGllcy5wdXQoImhpYmVybmF0ZS5vZ20uaWduaXRlLmNvbmZpZ3VyYXRpb25fcmVzb3VyY2VfbmFtZSIsIGNvbmZpZy50b1N0cmluZygpKTsqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1905,7 +1905,7 @@
         <text>hibernate.ogm.ignite.allows_transaction_emulation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3BlcnRpZXMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIHByb3BlcnRpZXMucHV0KCJqYXZheC5wZXJzaXN0ZW5jZS50cmFuc2FjdGlvblR5cGUiLCAiUkVTT1VSQ0VfTE9DQUwiKTsKICAgICAgICAgICAgcHJvcGVydGllcy5wdXQoImhpYmVybmF0ZS5vZ20uZGF0YXN0b3JlLnByb3ZpZGVyIiwgIklHTklURSIpOwogICAgICAgICAgICBwcm9wZXJ0aWVzLnB1dChJZ25pdGVQcm9wZXJ0aWVzLklHTklURV9BTExPV1NfVFJBTlNBQ1RJT05fRU1VTEFUSU9OLCAidHJ1ZSIpOwogICAgICAgICAgICBVUkwgY29uZmlnID0gRW50aXR5TWFuYWdlclByb3ZpZGVyLmNsYXNzLmdldFJlc291cmNlKCIvaWduaXRlX2NvbmZpZy54bWwiKTsKICAgICAgICAgICAgcHJvcGVydGllcy5wdXQoImhpYmVybmF0ZS5vZ20uaWduaXRlLmNvbmZpZ3VyYXRpb25fcmVzb3VyY2VfbmFtZSIsIGNvbmZpZy50b1N0cmluZygpKTsqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1938,28 +1938,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFUTUltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVHJhbnNhY3Rpb25NYW5hZ2VySW1wbGUiLz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFVVEltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVXNlclRyYW5zYWN0aW9uSW1wbGUiLz4K</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUub2dtLmlnbml0ZS5jb25maWd1cmF0aW9uX2NsYXNzX25hbWUiCiAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0iY29tLmJsdS5pbWRnLmV4YW1wbGVPZ20uQ29uZmlndXJhdGlvbk1ha2VyIi8+LS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLm9nbS5kYXRhc3RvcmUucHJvdmlkZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5vZ20uZGF0YXN0b3JlLmlnbml0ZS5pbXBsLklnbml0ZURhdGFzdG9yZVByb3ZpZGVyIi8+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvdmlkZXI+b3JnLmhpYmVybmF0ZS5vZ20uanBhLkhpYmVybmF0ZU9nbVBlcnNpc3RlbmNlPC9wcm92aWRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFUTUltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVHJhbnNhY3Rpb25NYW5hZ2VySW1wbGUiLz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbS5hcmp1bmEuYXRzLmp0YS5qdGFVVEltcGxlbWVudGF0aW9uIiB2YWx1ZT0iY29tLmFyanVuYS5hdHMuaW50ZXJuYWwuanRhLnRyYW5zYWN0aW9uLmFyanVuYWNvcmUuVXNlclRyYW5zYWN0aW9uSW1wbGUiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvdmlkZXI+b3JnLmhpYmVybmF0ZS5vZ20uanBhLkhpYmVybmF0ZU9nbVBlcnNpc3RlbmNlPC9wcm92aWRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVudGl0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
