@@ -293,6 +293,12 @@
         <mark key="^" line="120" column="37" />
         <mark key="." line="120" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/build.gradle" timestamp="1498732601637">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/domain/Ostatki.java" timestamp="1492096277762">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="17" column="45" />
@@ -817,7 +823,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498729974251">
+      <file name="/Dummy.txt" timestamp="1498733918384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -1590,6 +1596,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" timestamp="1498733636832">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/SuperHero.java" timestamp="1491147975321">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="7" column="22" />
@@ -1737,9 +1748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="42" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
-      <jump line="335" column="0" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/exchange-control-impl/pom.xml" />
-      <jump line="142" column="8" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="145" column="47" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="146" column="54" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="148" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
@@ -1837,22 +1845,25 @@
       <jump line="11" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/resources/META-INF/persistence.xml" />
       <jump line="31" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/domain/entity/ConfirmingDocumentCertificate.java" />
+      <jump line="81" column="27" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
+      <jump line="22" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
+      <jump line="23" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SpringApplication</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki5pbWwKKi5pcHIK</text>
       </register>
       <register name="-" type="4">
-        <text>SpringApplication</text>
+        <text>.0</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text encoding="base64">XDxpcHJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5ib290L3NwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGEKICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYScsIHZlcnNpb246ICcxLjUuMy5SRUxFQVNFJwo=</text>
+        <text encoding="base64">Ki5pbWwKKi5pcHIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1885,37 +1896,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmdvb2dsZWNvZGUuanNvbi1zaW1wbGUvanNvbi1zaW1wbGUKICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uZ29vZ2xlY29kZS5qc29uLXNpbXBsZScsIG5hbWU6ICdqc29uLXNpbXBsZScsIHZlcnNpb246ICcxLjEuMScK</text>
+        <text encoding="base64">IyBVc2VyLXNwZWNpZmljIHN0dWZmOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ki5pd3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ki5pd3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFeHRlcm5hbE9yZ2FuaXphdGlvbiBleHRlcm5hbE9yZ2FuaXphdGlvbiA9IAo=</text>
+        <text encoding="base64">IyBNb25nbyBFeHBsb3JlciBwbHVnaW46Ci5pZGVhLyoqL21vbmdvU2V0dGluZ3MueG1sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleE9yZ0lkID0gY29uZmlybWluZ0RvY3VtZW50Q2VydGlmaWNhdGVzLmdldChpKS5nZXRJZCgpOwo=</text>
+        <text encoding="base64">IyBHcmFkbGU6Ci5pZGVhLyoqL2dyYWRsZS54bWwKLmlkZWEvKiovbGlicmFyaWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KDAsIGVudGl0aWVzQ291bnQpOwo=</text>
+        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAouaWRlYS8qKi90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS8qKi9kYXRhU291cmNlcy8KLmlkZWEvKiovZGF0YVNvdXJjZXMuaWRzCi5pZGVhLyoqL2RhdGFTb3VyY2VzLnhtbAouaWRlYS8qKi9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvKiovc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhLyoqL2R5bmFtaWMueG1sCi5pZGVhLyoqL3VpRGVzaWduZXIueG1sCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hRdWVyeS5zZXREb2N1bWVudFN0YXR1cyhEb2N1bWVudFN0YXR1cy5ORVcpOwo=</text>
+        <text encoding="base64">IWdyYWRsZS93cmFwcGVyL2dyYWRsZS13cmFwcGVyLmphcgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>src</last-search>
+      <last-search encoding="base64">XDxpcHJcPg==</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern encoding="base64">XDxpcHJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1923,8 +1934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry>swagg</entry>
         <entry>swag</entry>
         <entry>hibern</entry>
         <entry>graph</entry>
@@ -1943,6 +1952,8 @@
         <entry encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</entry>
         <entry>int</entry>
         <entry>src</entry>
+        <entry encoding="base64">XDxpbWxcPg==</entry>
+        <entry encoding="base64">XDxpcHJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
