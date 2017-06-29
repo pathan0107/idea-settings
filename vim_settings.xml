@@ -57,9 +57,6 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1498640063261">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="61" />
@@ -835,7 +832,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498735126587">
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/domain/PharmacyTest.java" timestamp="1498738907452">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498738909882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -916,6 +919,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/apteka/backend/domain/PharmacyTest.java" timestamp="1498738771948">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ClaimsBaseMapReduceProcessor.java" timestamp="1486043405587">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -990,9 +999,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/RandomSearchQuery.java" timestamp="1498660337244">
-        <mark key="[" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Id.java" timestamp="1495726692896">
         <mark key="[" line="4" column="18" />
@@ -1322,11 +1328,10 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/apteka/backend/domain/RandomEntityGenerator.java" timestamp="1498738312149">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="23" column="42" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/apteka/backend/domain/RandomEntityGenerator.java" timestamp="1498738680417">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/Foo.java" timestamp="1497342941517">
         <mark key="[" line="10" column="0" />
@@ -1435,8 +1440,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/apteka/backend/domain/AptekaTest.java" timestamp="1498737829412">
-        <mark key="[" line="5" column="25" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/apteka/backend/domain/AptekaTest.java" timestamp="1498738753982">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/EntityManagerFactory.java" timestamp="1498631898131">
         <mark key="[" line="14" column="26" />
@@ -1873,10 +1881,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcHJcPg==</text>
@@ -1885,7 +1893,7 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1918,28 +1926,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHZW5lIHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2UoMCwgY291bnQpLm1hCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnByb2plY3Rsb21ib2svbG9tYm9rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZW5lIHJhbmRvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki5pbWwKKi5pcHIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnByb2plY3Rsb21ib2svbG9tYm9rCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2VyLXNwZWNpZmljIHN0dWZmOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki5pd3MK</text>
+        <text encoding="base64">Ki5pbWwKKi5pcHIK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
