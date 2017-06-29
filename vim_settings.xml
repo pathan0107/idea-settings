@@ -402,6 +402,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/springhibernate/src/main/java/com/example/db/springhibernate/SpringHibernate.java" timestamp="1498726976410">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/SelfServicePortalApp.java" timestamp="1491395861228">
         <mark key="[" line="25" column="113" />
         <mark key="]" line="25" column="113" />
@@ -1833,11 +1839,11 @@
       <jump line="31" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/domain/entity/ConfirmingDocumentCertificate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
+      <register name="&quot;" type="4">
+        <text>SpringApplication</text>
       </register>
       <register name="-" type="4">
-        <text>Number</text>
+        <text>SpringApplication</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
