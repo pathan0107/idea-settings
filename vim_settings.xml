@@ -922,7 +922,7 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1498661883596">
+      <file name="/fragment.java" timestamp="1498730165811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1919,7 +1919,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
