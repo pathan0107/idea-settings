@@ -251,10 +251,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1496836978697">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/build.gradle" timestamp="1498726847456">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -367,6 +367,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/build.gradle" timestamp="1498726822800">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/rostov/meta-soap/README" timestamp="1486379924990">
         <mark key="[" line="5" column="42" />
@@ -1114,6 +1119,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/springhibernate/build.gradle" timestamp="1498726849531">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/test/java/ru/vtb/dbo/poc/ignitestreamsearch/utils/StreamSearchTest.java" timestamp="1498666107803">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
@@ -1275,10 +1285,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/ogm/hibernate-ogm-ignite/5.2.0-SNAPSHOT/hibernate-ogm-ignite-5.2.0-20170614.142555-9.jar!/org/hibernate/ogm/datastore/ignite/IgniteProperties.class" timestamp="1498637634027">
-        <mark key="[" line="15" column="70" />
-        <mark key="]" line="15" column="118" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget/robots.txt" timestamp="1490964019448">
         <mark key="[" line="3" column="10" />
@@ -1827,8 +1833,8 @@
       <jump line="31" column="13" filename="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/domain/entity/ConfirmingDocumentCertificate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
       </register>
       <register name="-" type="4">
         <text>Number</text>
@@ -1836,11 +1842,11 @@
       <register name="/" type="4">
         <text>int</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBFeHRlcm5hbE9yZ2FuaXphdGlvbiBleHRlcm5hbE9yZ2FuaXphdGlvbiA9IG5ldyBFeHRlcm5hbE9yZ2FuaXphdGlvbigpOwogICAgICAgIGV4dGVybmFsT3JnYW5pemF0aW9uLnNldElkKCIxMjMxNDIzNSIpOwogICAgICAgIGVtLnBlcnNpc3QoZXh0ZXJuYWxPcmdhbml6YXRpb24pOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZXh0ZXJuYWxPcmdhbml6YXRpb24sIGVtLmZpbmQoRXh0ZXJuYWxPcmdhbml6YXRpb24uY2xhc3MsIGV4dGVybmFsT3JnYW5pemF0aW9uLmdldElkKCkpKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5ib290L3NwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGEKICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYScsIHZlcnNpb246ICcxLjUuMy5SRUxFQVNFJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1873,28 +1879,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeHRlcm5hbE9yZ2FuaXphdGlvbiBleHRlcm5hbE9yZ2FuaXphdGlvbiA9IAo=</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmdvb2dsZWNvZGUuanNvbi1zaW1wbGUvanNvbi1zaW1wbGUKICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uZ29vZ2xlY29kZS5qc29uLXNpbXBsZScsIG5hbWU6ICdqc29uLXNpbXBsZScsIHZlcnNpb246ICcxLjEuMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleE9yZ0lkID0gY29uZmlybWluZ0RvY3VtZW50Q2VydGlmaWNhdGVzLmdldChpKS5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KDAsIGVudGl0aWVzQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hRdWVyeS5zZXREb2N1bWVudFN0YXR1cyhEb2N1bWVudFN0YXR1cy5ORVcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFeHRlcm5hbE9yZ2FuaXphdGlvbiBleHRlcm5hbE9yZ2FuaXphdGlvbiA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51Cg==</text>
+        <text encoding="base64">ICAgICAgICBleE9yZ0lkID0gY29uZmlybWluZ0RvY3VtZW50Q2VydGlmaWNhdGVzLmdldChpKS5nZXRJZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTUFYX0VOVFJJRVMgPSAxNTAwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0SW50KDAsIGVudGl0aWVzQ291bnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBoYXNoTWFwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgdGVzdE1hcChuZXcgSGFzaE1hcDxJbnRlZ2VyLCBTZWNvbmRCZW5jaD4oKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIGxpbmtlZEhhc2hNYXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICB0ZXN0TWFwKG5ldyBMaW5rZWRIYXNoTWFwPEludGVnZXIsIFNlY29uZEJlbmNoPigpKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdHJlZU1hcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHRlc3RNYXAobmV3IFRyZWVNYXA8SW50ZWdlciwgU2Vjb25kQmVuY2g+KCkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhcnJheUxpc3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gaW50TGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE1BWF9FTlRSSUVTOyBpKyspIHsKICAgICAgICAgICAgaW50TGlzdC5hZGQoaSk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdm9pZCB0ZXN0TWFwKGZpbmFsIE1hcDxJbnRlZ2VyLCBTZWNvbmRCZW5jaD4gbWFwKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBNQVhfRU5UUklFUzsgaSsrKSB7CiAgICAgICAgICAgIG1hcC5wdXQoaSwgbmV3IFNlY29uZEJlbmNoKGkpKTsKICAgICAgICB9CiAgICAgICAgYXNzZXJ0VGhhdChtYXAuc2l6ZSgpLCBpcyhNQVhfRU5UUklFUykpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTUFYX0VOVFJJRVM7IGkrKykgewogICAgICAgICAgICBhc3NlcnRUaGF0KG1hcC5nZXQoaSksIGlzKG5vdE51bGxWYWx1ZSgpKSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hRdWVyeS5zZXREb2N1bWVudFN0YXR1cyhEb2N1bWVudFN0YXR1cy5ORVcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -1907,7 +1913,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
