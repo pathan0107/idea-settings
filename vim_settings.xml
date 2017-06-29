@@ -674,6 +674,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/RandomEntityGenerator.java" timestamp="1498747232745">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/docker/DockerFile" timestamp="1492176099008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -804,11 +809,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/ApplicationTest.java" timestamp="1498746285381">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/ApplicationTest.java" timestamp="1498747172212">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="59" />
+        <mark key="^" line="24" column="59" />
+        <mark key="." line="24" column="59" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/config/widget-config-prod.js" timestamp="1490729212842">
         <mark key="[" line="5" column="0" />
@@ -850,11 +855,9 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498746747707">
+      <file name="/Dummy.txt" timestamp="1498747246160">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
         <mark key="[" line="13" column="0" />
@@ -1907,11 +1910,11 @@
       <jump line="23" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly5pZGVhLy5uYW1lCi8uaWRlYS9jb21waWxlci54bWwKLy5pZGVhL2RibmF2aWdhdG9yLnhtbAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcHJcPg==</text>
