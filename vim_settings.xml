@@ -1846,7 +1846,7 @@
         <text>SpringApplication</text>
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBjb21waWxlIGdyb3VwOiAnY29tLmgyZGF0YWJhc2UnLCBuYW1lOiAnaDInLCB2ZXJzaW9uOiAnMS40LjE5NScK</text>
@@ -1913,17 +1913,16 @@
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry>model</entry>
         <entry>swagg</entry>
         <entry>swag</entry>
@@ -1943,6 +1942,7 @@
         <entry>spring</entry>
         <entry encoding="base64">XDxpZ25pdGVQZXJzaXN0ZW5jZVVuaXRcPg==</entry>
         <entry>int</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
