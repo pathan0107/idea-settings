@@ -823,7 +823,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498733918384">
+      <file name="/Dummy.txt" timestamp="1498734374096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
@@ -1596,10 +1596,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" timestamp="1498733636832">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" timestamp="1498734368761">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
       </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/SuperHero.java" timestamp="1491147975321">
         <mark key="[" line="6" column="22" />
