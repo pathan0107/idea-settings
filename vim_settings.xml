@@ -1017,6 +1017,13 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1498813789341">
+        <mark key="'" line="12" column="76" />
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Id.java" timestamp="1495726692896">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -1443,6 +1450,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/gradle.properties" timestamp="1498813667637">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/java/ru/atc/ssp/web/rest/EsiaOAuthResource.java" timestamp="1493382408184">
         <mark key="[" line="70" column="75" />
         <mark key="]" line="70" column="105" />
@@ -1804,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="47" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="146" column="54" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="148" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="151" column="39" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
@@ -1904,22 +1916,23 @@
       <jump line="81" column="27" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
       <jump line="22" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
       <jump line="23" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
+      <jump line="13" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RGIgcGVyc2lzdGVuY2UgaW50ZWdyYXRpb24gdGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpcHJcPg==</text>
+        <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKG5ldyBQaGFybWFjeSgiQXB0ZWthIikpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1jb3JlJywgdmVyc2lvbjogIiR7c3ByaW5nX3ZlcnNpb259Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RGIgcGVyc2lzdGVuY2UgaW50ZWdyYXRpb24gdGVzdAo=</text>
+        <text encoding="base64">ZXh0IHsKICAgIHNwcmluZ1ZlcnNpb24gPSAiNC4zLjkuUkVMRUFTRSIKfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1952,37 +1965,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly5pZGVhLy5uYW1lCi8uaWRlYS9jb21waWxlci54bWwKLy5pZGVhL2RibmF2aWdhdG9yLnhtbAo=</text>
+        <text encoding="base64">cHJvamVjdC5leHQuc3ByaW5nVmVyc2lvbj0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="3" type="4">
+        <text>buildscript {
+    
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">RGIgcGVyc2lzdGVuY2UgaW50ZWdyYXRpb24gdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHBoYXJtYWN5IC0+ICk7Cg==</text>
+        <text encoding="base64">Ly5pZGVhLy5uYW1lCi8uaWRlYS9jb21waWxlci54bWwKLy5pZGVhL2RibmF2aWdhdG9yLnhtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQ29tbWFuZExpbmVSdW5uZXIgZGVtbyhQaGFybWFjeVJlcG9zaXRvcnkgcmVwb3NpdG9yeSkgewogICAgICAgIHJldHVybiBhcmdzIC0+IHsKICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKG5ldyBQaGFybWFjeSgiQXB0ZWthIDEiKSk7CiAgICAgICAgICAgIHJlcG9zaXRvcnkuc2F2ZShuZXcgUGhhcm1hY3koIkFwdGVrYSAyIikpOwogICAgICAgICAgICByZXBvc2l0b3J5LnNhdmUobmV3IFBoYXJtYWN5KCJBcHRla2EgMyIpKTsKCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXBvc2l0b3J5LmZpbmRCeU5hbWUoIkFwdGVrYSAxIikpOwogICAgICAgICAgICByZXBvc2l0b3J5LmZpbmRBbGwoKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwogICAgICAgIH07CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6aDI6bWVtOnBoYXJtYWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBra2trawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHBoYXJtYWN5IC0+ICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGFTb3VyY2UoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgQ29ubmVjdGlvbiBnZXRDb25uZWN0aW9uKCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIGdldENvbm5lY3Rpb24oU3RyaW5nIHVzZXJuYW1lLCBTdHJpbmcgcGFzc3dvcmQpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgPFQ+IFQgdW53cmFwKENsYXNzPFQ+IGlmYWNlKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNXcmFwcGVyRm9yKENsYXNzPD8+IGlmYWNlKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBQcmludFdyaXRlciBnZXRMb2dXcml0ZXIoKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0TG9nV3JpdGVyKFByaW50V3JpdGVyIG91dCkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0TG9naW5UaW1lb3V0KGludCBzZWNvbmRzKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgaW50IGdldExvZ2luVGltZW91dCgpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgTG9nZ2VyIGdldFBhcmVudExvZ2dlcigpIHRocm93cyBTUUxGZWF0dXJlTm90U3VwcG9ydGVkRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQ29tbWFuZExpbmVSdW5uZXIgZGVtbyhQaGFybWFjeVJlcG9zaXRvcnkgcmVwb3NpdG9yeSkgewogICAgICAgIHJldHVybiBhcmdzIC0+IHsKICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKG5ldyBQaGFybWFjeSgiQXB0ZWthIDEiKSk7CiAgICAgICAgICAgIHJlcG9zaXRvcnkuc2F2ZShuZXcgUGhhcm1hY3koIkFwdGVrYSAyIikpOwogICAgICAgICAgICByZXBvc2l0b3J5LnNhdmUobmV3IFBoYXJtYWN5KCJBcHRla2EgMyIpKTsKCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXBvc2l0b3J5LmZpbmRCeU5hbWUoIkFwdGVrYSAxIikpOwogICAgICAgICAgICByZXBvc2l0b3J5LmZpbmRBbGwoKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwogICAgICAgIH07CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpcHJcPg==</last-search>
+      <last-search encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpcHJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -1990,7 +2005,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swag</entry>
         <entry>hibern</entry>
         <entry>graph</entry>
         <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
@@ -2010,6 +2024,7 @@
         <entry>src</entry>
         <entry encoding="base64">XDxpbWxcPg==</entry>
         <entry encoding="base64">XDxpcHJcPg==</entry>
+        <entry encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
