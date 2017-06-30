@@ -575,6 +575,12 @@
         <mark key="." line="35" column="70" />
         <mark key="^" line="35" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1498814589238">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/PrimitiveIncrementTrick.java" timestamp="1495783094857">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="7" />
@@ -994,6 +1000,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/User.java" timestamp="1498815073880">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/gitLab/apteka/backend/src/test/java/ru/vcherkesske/apteka/ApplicationTest.java" timestamp="1492683603088">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="59" />
@@ -1017,12 +1029,12 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1498813789341">
-        <mark key="'" line="12" column="76" />
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="14" column="63" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1498814906016">
+        <mark key="'" line="13" column="76" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="12" column="76" />
+        <mark key="^" line="12" column="76" />
+        <mark key="." line="12" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/concurrencyTraining/src/main/java/Id.java" timestamp="1495726692896">
         <mark key="[" line="4" column="18" />
@@ -1378,6 +1390,12 @@
         <mark key="." line="31" column="53" />
         <mark key="^" line="31" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/model/Role.java" timestamp="1498815058224">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/Settings.java" timestamp="1492953590374">
         <mark key="[" line="62" column="71" />
         <mark key="]" line="63" column="19" />
@@ -1604,6 +1622,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1498815176047">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/widget-config.js" timestamp="1490090899615">
         <mark key="[" line="46" column="42" />
@@ -1920,10 +1944,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>Role</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>Role</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
