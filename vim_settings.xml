@@ -167,11 +167,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Event.java" timestamp="1498828681085">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="44" />
-        <mark key="." line="16" column="44" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Event.java" timestamp="1498829950792">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/MergeDepartmentCollsMapReduceFunctionsProvider.java" timestamp="1485960253969">
         <mark key="[" line="10" column="36" />
@@ -1780,10 +1780,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CLEINT</text>
+        <text>eventRating</text>
       </register>
       <register name="-" type="4">
-        <text>CLEINT</text>
+        <text>eventRating</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
