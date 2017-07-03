@@ -84,11 +84,11 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DiscountService.java" timestamp="1499080595465">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="270" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="18" column="270" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DiscountService.java" timestamp="1499084879477">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/Cell.java" timestamp="1492371005906">
         <mark key="[" line="3" column="23" />
@@ -156,10 +156,11 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/Application.java" timestamp="1499083119252">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/Application.java" timestamp="1499083386578">
+        <mark key="[" line="11" column="141" />
+        <mark key="]" line="11" column="141" />
+        <mark key="." line="11" column="141" />
+        <mark key="^" line="11" column="178" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ClaimsBaseAggregateProcessor.java" timestamp="1486043889397">
         <mark key="[" line="17" column="42" />
@@ -533,11 +534,12 @@
         <mark key="." line="35" column="70" />
         <mark key="^" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1498814589238">
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1499084925637">
+        <mark key="'" line="7" column="76" />
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="82" />
+        <mark key="^" line="11" column="82" />
+        <mark key="." line="11" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/PrimitiveIncrementTrick.java" timestamp="1495783094857">
         <mark key="[" line="11" column="51" />
@@ -896,7 +898,7 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1499082149666">
+      <file name="/fragment.java" timestamp="1499083412325">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -950,6 +952,12 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1499083243572">
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="14" column="91" />
+        <mark key="^" line="14" column="91" />
+        <mark key="." line="14" column="91" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/model/Group.java" timestamp="1498818000307">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="38" />
@@ -992,11 +1000,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/AuditoriumService.java" timestamp="1498829274736">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/AuditoriumService.java" timestamp="1499084894149">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
@@ -1262,6 +1270,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ApplicationTest.java" timestamp="1499085038951">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="31" column="53" />
+        <mark key="." line="31" column="53" />
+        <mark key="^" line="31" column="53" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/SettingsProvider.java" timestamp="1492952435087">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="11" />
@@ -1397,6 +1411,11 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/discounts.xml" timestamp="1499084544114">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/admin/audits/audits.html" timestamp="1494535408004">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="47" />
@@ -1529,17 +1548,16 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499068630414">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="30" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="34" column="30" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499084812831">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/EventService.java" timestamp="1499067741994">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/EventService.java" timestamp="1499084781028">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/widget-config.js" timestamp="1490090899615">
         <mark key="[" line="46" column="42" />
@@ -1685,6 +1703,13 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/daos.xml" timestamp="1499084540972">
+        <mark key="'" line="6" column="57" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/repository/ConfirmingDocumentCertificateRepository.java" timestamp="1498573746859">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="37" column="5" />
@@ -1729,8 +1754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="54" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
-      <jump line="148" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="151" column="39" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="154" column="22" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="46" column="32" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
@@ -1829,22 +1852,24 @@
       <jump line="22" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
       <jump line="23" column="2" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/.gitignore" />
       <jump line="13" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" />
+      <jump line="7" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" />
+      <jump line="6" column="57" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/daos.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBYbWxDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Collections.emptySet();</text>
+        <text encoding="base64">dGhyb3dzIEV4Y2VwdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;MegaAudit&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudFNlcnZpY2UgZXZlbnRTZXJ2aWNlID0gYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oRXZlbnRTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBYbWxDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1877,28 +1902,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXgK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGV2ZW50U2VydmljZSwgbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICBBdWRpdG9yaXVtU2VydmljZSBldmVudFNlcnZpY2UgPSBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbihFdmVudFNlcnZpY2UuY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBQ29udGV4Cg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEV2ZW50IGV2ZW50IDogZXZlbnRzKSB7CiAgICAgICAgICAgIGlmIChldmVudC5nZXRJZCgpID09IGlkKSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBldmVudDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5kYW8uRXZlbnREYW8iLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgIk1lZ2FBdWRpdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlckRhbyIgcmVmPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5kYW8uRXZlbnREYW8iLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGV2ZW50U2VydmljZS5nZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhhdWRpdG9yaXVtUHJvcEZpbGVzRGFvLmdldEJ5TmFtZSgiTWVnYUF1ZGl0IiksICJNZWdhQXVkaXQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -1911,7 +1936,7 @@
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
