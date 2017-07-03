@@ -156,10 +156,10 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/Application.java" timestamp="1499083386578">
-        <mark key="[" line="11" column="141" />
-        <mark key="]" line="11" column="141" />
-        <mark key="." line="11" column="141" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/Application.java" timestamp="1499088805885">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
         <mark key="^" line="11" column="178" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ClaimsBaseAggregateProcessor.java" timestamp="1486043889397">
@@ -330,6 +330,11 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/daos.xml" timestamp="1499088600425">
+        <mark key="'" line="18" column="78" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/springMvcTraining/src/main/java/com/example/springMvcTraining/SpringMvcTrainingApplication.java" timestamp="1496762277436">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="95" />
@@ -438,6 +443,12 @@
         <mark key="^" line="23" column="81" />
         <mark key="." line="23" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ServiceContextTest.java" timestamp="1499088791497">
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="16" column="74" />
+        <mark key="^" line="16" column="91" />
+        <mark key="." line="16" column="74" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/content/images/Phone_girl.svg" timestamp="1486574073629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="931" />
@@ -449,6 +460,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ApplicationContextTest.java" timestamp="1499087740281">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="16" column="63" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="16" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/AppController.java" timestamp="1495123739524">
         <mark key="[" line="8" column="1" />
@@ -516,7 +533,7 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/AuditoriumPropFilesDao.java" timestamp="1499082419956">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/AuditoriumPropFilesDao.java" timestamp="1499086863520">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="57" />
@@ -534,12 +551,12 @@
         <mark key="." line="35" column="70" />
         <mark key="^" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1499084925637">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1499087570287">
         <mark key="'" line="7" column="76" />
-        <mark key="[" line="11" column="70" />
-        <mark key="]" line="11" column="82" />
-        <mark key="^" line="11" column="82" />
-        <mark key="." line="11" column="82" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
+        <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/PrimitiveIncrementTrick.java" timestamp="1495783094857">
         <mark key="[" line="11" column="51" />
@@ -793,6 +810,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/DaoContextTest.java" timestamp="1499088834739">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="38" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/src/main/resources/Goods.json" timestamp="1496837836118">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
@@ -805,7 +828,7 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499082432382">
+      <file name="/Dummy.txt" timestamp="1499088838214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
@@ -831,6 +854,12 @@
         <mark key="]" line="35" column="76" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/resources/springConfig/daomocks.xml" timestamp="1499089406110">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/runDocker.sh" timestamp="1490713104875">
         <mark key="[" line="2" column="57" />
@@ -952,11 +981,10 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1499083243572">
-        <mark key="[" line="14" column="75" />
-        <mark key="]" line="14" column="91" />
-        <mark key="^" line="14" column="91" />
-        <mark key="." line="14" column="91" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1499088420603">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/model/Group.java" timestamp="1498818000307">
         <mark key="[" line="9" column="18" />
@@ -1000,11 +1028,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/AuditoriumService.java" timestamp="1499084894149">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/AuditoriumService.java" timestamp="1499086103126">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
@@ -1084,9 +1112,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/dao/AuditoriumPropFilesDaoTest.java" timestamp="1499082181970">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="37" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/dao/AuditoriumPropFilesDaoTest.java" timestamp="1499086611937">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="59" />
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
@@ -1102,11 +1130,11 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/AuditoriumDao.java" timestamp="1499069904069">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/AuditoriumDao.java" timestamp="1499086239355">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/widget/js/ocwidget.js" timestamp="1493985283553">
         <mark key="[" line="2" column="25" />
@@ -1270,11 +1298,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ApplicationTest.java" timestamp="1499085038951">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
-        <mark key="^" line="31" column="53" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ApplicationTest.java" timestamp="1499087704192">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="47" column="79" />
+        <mark key="^" line="47" column="79" />
+        <mark key="." line="47" column="79" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/SettingsProvider.java" timestamp="1492952435087">
         <mark key="[" line="8" column="9" />
@@ -1452,6 +1480,12 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/resources/daomocks.xml" timestamp="1499088715772">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="75" />
+        <mark key="^" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/resources/widget/snippets/article.html" timestamp="1489395437786">
         <mark key="[" line="8" column="144" />
         <mark key="]" line="8" column="144" />
@@ -1500,11 +1534,11 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/UserDao.java" timestamp="1499068572201">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/UserDao.java" timestamp="1499087426992">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497619750124">
         <mark key="[" line="14" column="32" />
@@ -1548,11 +1582,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499084812831">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499087388835">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="35" column="16" />
+        <mark key="." line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/EventService.java" timestamp="1499084781028">
         <mark key="[" line="13" column="0" />
@@ -1703,12 +1737,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/daos.xml" timestamp="1499084540972">
-        <mark key="'" line="6" column="57" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="6" column="57" />
-        <mark key="." line="6" column="57" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/daos.xml" timestamp="1499088170200">
+        <mark key="'" line="9" column="57" />
+        <mark key="[" line="17" column="73" />
+        <mark key="]" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+        <mark key="^" line="18" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/repository/ConfirmingDocumentCertificateRepository.java" timestamp="1498573746859">
         <mark key="[" line="34" column="0" />
@@ -1754,9 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="39" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
-      <jump line="154" column="22" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
-      <jump line="46" column="32" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="44" column="51" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="43" column="31" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
       <jump line="36" column="26" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
@@ -1854,19 +1885,22 @@
       <jump line="13" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" />
       <jump line="7" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" />
       <jump line="6" column="57" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/daos.xml" />
+      <jump line="18" column="78" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/daos.xml" />
+      <jump line="9" column="15" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/resources/daomocks.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/resources/daomocks.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIEV4Y2VwdGlvbiA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudFNlcnZpY2UgZXZlbnRTZXJ2aWNlID0gYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oRXZlbnRTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhtbG5zOnV0aWw9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbCIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucy9zcHJpbmctYmVhbnMueHNkCiAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3V0aWwKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbC9zcHJpbmctdXRpbC0yLjUueHNkIj4KCiAgICA8YmVhbiBuYW1lPSJldmVudERhbyIgY2xhc3M9ImNvbS5leGFtcGxlLnNwcmluZy50aGVhdGVyLmRhby5FdmVudERhbyIvPgogICAgPGJlYW4gbmFtZT0iYXVkaXRvcml1bURhbyIgY2xhc3M9ImNvbS5leGFtcGxlLnNwcmluZy50aGVhdGVyLmRhby5BdWRpdG9yaXVtUHJvcEZpbGVzRGFvIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnPgogICAgICAgICAgICA8dXRpbDpzZXQgdmFsdWUtdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgICAgICAgICA8dmFsdWU+L2F1ZGl0b3JpdW0ucHJvcGVydGllczwvdmFsdWU+CiAgICAgICAgICAgIDwvdXRpbDpzZXQ+CiAgICAgICAgPC9jb25zdHJ1Y3Rvci1hcmc+CiAgICA8L2JlYW4+CiAgICA8YmVhbiBuYW1lPSJ1c2VyRGFvIiBjbGFzcz0iY29tLmV4YW1wbGUuc3ByaW5nLnRoZWF0ZXIuZGFvLlVzZXJEYW8iLz4KICAgIDxiZWFuIG5hbWU9ImJvb2tpbmdEYW8iIGNsYXNzPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5kYW8uQm9va2luZ0RhbyIvPgoKPC9iZWFucz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1902,25 +1936,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGV2ZW50U2VydmljZSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dXRpbDpwcm9wZXJ0aWVzIHNjb3BlPSIiPgogICAgICAgICAgICA8cHJvcCBrZXk9IiI+CiAgICAgICAgICAgICAgICBhc2RmCiAgICAgICAgICAgIDwvcHJvcD4gCiAgICAgICAgPC91dGlsOnByb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpdG9yaXVtU2VydmljZSBldmVudFNlcnZpY2UgPSBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbihFdmVudFNlcnZpY2UuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5kYW8uRXZlbnREYW8iLz4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnPgogICAgICAgICAgICA8dXRpbDpzZXQgdmFsdWUtdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgICAgICAgICA8dmFsdWU+L2F1ZGl0b3JpdW0ucHJvcGVydGllczwvdmFsdWU+CiAgICAgICAgICAgIDwvdXRpbDpzZXQ+CiAgICAgICAgPC9jb25zdHJ1Y3Rvci1hcmc+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlckRhbyIgcmVmPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5kYW8uRXZlbnREYW8iLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGV2ZW50U2VydmljZS5nZSk7Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhtbG5zOnV0aWw9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbCIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucy9zcHJpbmctYmVhbnMueHNkCiAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3V0aWwKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbC9zcHJpbmctdXRpbC0yLjUueHNkIj4KICAgIAogICAgPGJlYW4gbmFtZT0iIgogICAgICAgIAo8L2JlYW5zPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
