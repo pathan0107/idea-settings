@@ -156,6 +156,11 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/Application.java" timestamp="1499083119252">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/pipeline/ClaimsBaseAggregateProcessor.java" timestamp="1486043889397">
         <mark key="[" line="17" column="42" />
         <mark key="]" line="17" column="78" />
@@ -1826,8 +1831,8 @@
       <jump line="13" column="76" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collections.emptySet();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBYbWxDb250ZXh0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Collections.emptySet();</text>
@@ -1839,7 +1844,7 @@
         <text>&quot;MegaAudit&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEV2ZW50IGV2ZW50IDogZXZlbnRzKSB7CiAgICAgICAgICAgIGlmIChldmVudC5nZXRJZCgpID09IGlkKSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBldmVudDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBYbWxDb250ZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1872,28 +1877,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgIk1lZ2FBdWRpdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBQ29udGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhhdWRpdG9yaXVtUHJvcEZpbGVzRGFvLmdldEJ5TmFtZSgiTWVnYUF1ZGl0IiksICJNZWdhQXVkaXQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEV2ZW50IGV2ZW50IDogZXZlbnRzKSB7CiAgICAgICAgICAgIGlmIChldmVudC5nZXRJZCgpID09IGlkKSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBldmVudDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgIk1lZ2FBdWRpdCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbAo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKGF1ZGl0b3JpdW1Qcm9wRmlsZXNEYW8uZ2V0QnlOYW1lKCJNZWdhQXVkaXQiKSwgbnVsbCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhhdWRpdG9yaXVtUHJvcEZpbGVzRGFvLmdldEJ5TmFtZSgiTWVnYUF1ZGl0IiksICJNZWdhQXVkaXQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
