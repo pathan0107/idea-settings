@@ -84,11 +84,10 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DiscountService.java" timestamp="1499092212092">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DiscountService.java" timestamp="1499092993751">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/core/src/main/java/Cell.java" timestamp="1492371005906">
         <mark key="[" line="3" column="23" />
@@ -552,13 +551,6 @@
         <mark key="." line="35" column="70" />
         <mark key="^" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springconfig/services.xml" timestamp="1499087570287">
-        <mark key="'" line="7" column="76" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="66" />
-        <mark key="." line="17" column="66" />
-        <mark key="^" line="17" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/PrimitiveIncrementTrick.java" timestamp="1495783094857">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="7" />
@@ -928,7 +920,7 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1499090541427">
+      <file name="/fragment.java" timestamp="1499093019111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1313,6 +1305,12 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/service/DiscountServiceTest.java" timestamp="1499093256409">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Ticket.java" timestamp="1498819602115">
         <mark key="[" line="11" column="0" />
@@ -1925,10 +1923,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBtb2NrKFVzZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>birthDayDiscount</text>
+        <text>Mock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
@@ -1937,7 +1935,7 @@
         <text>everyXTickets</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBtb2NrKFVzZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1970,28 +1968,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZSB0eXBlPSIiIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBkaXNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgRGlzY291bnRTZXJ2aWNlIHVzZXJTZXJ2aWNlID0gYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oRGlzY291bnRTZXJ2aWNlLmNsYXNzKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90RXF1YWxzKHVzZXJTZXJ2aWNlLCBudWxsKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvcnQgZGlzY291bnQgPSBkaXNjb3VudFN0cmF0ZWd5LmNhbGN1bGF0ZSh1c2VyLCBldmVudCwgZGF0ZVRpbWUsIG51bWJlck9mVGlja2V0cyk7CiAgICAgICAgICAgIGlmIChyZXN1bHQgPCBkaXNjb3VudCkgCiAgICAgICAgICAgICAgICByZXN1bHQgPSBkaXNjb3VudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5zZXJ2aWNlLkRpc2NvdW50U2VydmljZSI+CiAgICAgICAgCiAgICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogICAgRGlzY291bnRTdHJhdGVneSAtIHNpbmdsZSBjbGFzcyB3aXRoIGxvZ2ljIGZvciBjYWxjdWxhdGluZyBkaXNjb3VudArCoCDCoEJpcnRoZGF5IHN0cmF0ZWd5IC0gZ2l2ZSA1JSBpZiB1c2VyIGhhcyBiaXJ0aGRheSB3aXRoaW4gNSBkYXlzIG9mIGFpciBkYXRlCsKgIMKgRXZlcnkgMTB0aCB0aWNrZXQgLSBnaXZlIDUwJSBmb3IgZXZlcnkgMTB0aCB0aWNrZXQgcHVyY2hhc2VkIGJ5IHVzZXIuIFRoaXMgc3RyYXRlZ3kgY2FuIGFsc28gYmUgYXBwbGllZCBmb3Igbm90LXJlZ2lzdGVyZWQgdXNlcnMgaWYgMTAgb3IgbW9yZSB0aWNrZXRzIGFyZSBib3VnaHQKICAgIEFsbCBkaXNjb3VudCBzdHJhdGVnaWVzIHNob3VsZCBiZSBpbmplY3RlZCBhcyBsaXN0IGludG8gdGhlIERpc2NvdW50U2VydmljZS4gVGhlIGdldERpc2NvdW50IG1ldGhvZCB3aWxsIGV4ZWN1dGUgZWFjaCBzdHJhdGVneSB0byBnZXQgbWF4IGF2YWlsYWJsZSBkaXNjb3VudC4gRGlzY291bnRzIHNob3VsZCBub3QgYWRkIHVwLiBTbywgaWYgb25lIHN0cmF0ZWd5IHJldHVybnMgMjAlIGFuZCBhbm90aGVyIDMwJSwgZmluYWwgZGlzY291bnQgd291bGQgYmUgMzAlLgogICAgRGVmaW5lIERpc2NvdW50U2VydmljZSB3aXRoIGFsbCBzdHJhdGVnaWVzIGFzIHNlcGFyYXRlIGJlYW5zIGluIHNlcGFyYXRlIFhNTCBjb25maWd1cmF0aW9uKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaXJ0aERheVN0cmF0ZWd5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZSB0eXBlPSIiIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
