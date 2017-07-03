@@ -191,8 +191,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/auditorium.properties" timestamp="1499065635258">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/auditorium.properties" timestamp="1499066807858">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
@@ -1783,10 +1786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eventRating</text>
+        <text encoding="base64">IChjb21tYS1zZXBhcmF0ZWQgbGlzdCBvZiBleHBlbnNpdmUgc2VhdHMp</text>
       </register>
       <register name="-" type="4">
-        <text>eventRating</text>
+        <text encoding="base64">IChjb21tYS1zZXBhcmF0ZWQgbGlzdCBvZiBleHBlbnNpdmUgc2VhdHMp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</text>
@@ -1795,7 +1798,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEF1ZGl0b3JpdW0+IGdldEFsbCgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFETUlOLAo=</text>
+        <text encoding="base64">YXVkaXRvcml1bT1hdWRpdG9yaXVtMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1828,28 +1831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEFETUlOLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNhdmUoQXVkaXRvcml1bSBhdWRpdG9yaXVtKSB7CiAgICAgICAgYXVkaXRvcml1bXMuYWRkKGF1ZGl0b3JpdW0pOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJlbW92ZShBdWRpdG9yaXVtIGF1ZGl0b3JpdW0pIHsKICAgICAgICBhdWRpdG9yaXVtcy5yZW1vdmUoYXVkaXRvcml1bSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNhdmUoQXVkaXRvcml1bSBhdWRpdG9yaXVtKSB7CiAgICAgICAgYXVkaXRvcml1bXMuYWRkKGF1ZGl0b3JpdW0pOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJlbW92ZShBdWRpdG9yaXVtIGF1ZGl0b3JpdW0pIHsKICAgICAgICBhdWRpdG9yaXVtcy5yZW1vdmUoYXVkaXRvcml1bSk7CiAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBdWRpdG9yaXVtIGdldEJ5SWQobG9uZyBpZCkgewogICAgICAgIEF1ZGl0b3JpdW0gcmVzdWx0ID0gbnVsbDsKICAgICAgICBmb3IgKEF1ZGl0b3JpdW0gYXVkaXRvcml1bSA6IGF1ZGl0b3JpdW1zKSB7CiAgICAgICAgICAgIGlmIChhdWRpdG9yaXVtLmdldElkKCkgPT0gaWQpIHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IGF1ZGl0b3JpdW07CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBdWRpdG9yaXVtIGdldEJ5SWQobG9uZyBpZCkgewogICAgICAgIEF1ZGl0b3JpdW0gcmVzdWx0ID0gbnVsbDsKICAgICAgICBmb3IgKEF1ZGl0b3JpdW0gYXVkaXRvcml1bSA6IGF1ZGl0b3JpdW1zKSB7CiAgICAgICAgICAgIGlmIChhdWRpdG9yaXVtLmdldElkKCkgPT0gaWQpIHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IGF1ZGl0b3JpdW07CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF1ZGl0b3JpdW0uZ2V0SWQoKSA9PSBpZCkgewo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
