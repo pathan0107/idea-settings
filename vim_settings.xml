@@ -1053,12 +1053,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/discount/BirthDayStrategy.java" timestamp="1499154775876">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/discount/BirthDayStrategy.java" timestamp="1499154872774">
         <mark key="'" line="23" column="14" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/CacheStrategy.java" timestamp="1492936856360">
         <mark key="[" line="33" column="5" />
@@ -1541,12 +1541,11 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/discount/BirthDayStrategyTest.java" timestamp="1499154530070">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/discount/BirthDayStrategyTest.java" timestamp="1499154938552">
         <mark key="'" line="15" column="14" />
-        <mark key="[" line="22" column="89" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/DropTempCollectionProcessor.java" timestamp="1486020218895">
         <mark key="[" line="12" column="64" />
@@ -1933,11 +1932,11 @@
       <jump line="15" column="14" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/discount/BirthDayStrategyTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCaXJ0aERheVN0cmF0ZWd5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">e0BzZWUg</text>
       </register>
       <register name="/" type="4">
         <text>sho</text>
@@ -1946,7 +1945,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsY3VsYXRlIGRhdGUgZnJvbSB3aGljaCBkaXNjb3VudCBhcHBlYXJzCiAgICAgKgogICAgICogQHBhcmFtIGJpcnRoRGF5IHVzZXIgYmlydGggZGF5CiAgICAgKiBAcGFyYW0gYWlyRGF0ZSAgZXZlbnQgYWlyIGRhdGUKICAgICAqIEByZXR1cm4gZGF0ZSBmcm9tIHdoaWNoIGRpc2NvdW50IGFwcGVhcnMKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaXJ0aERheVN0cmF0ZWd5Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1979,28 +1978,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsY3VsYXRlIGRhdGUgZnJvbSB3aGljaCBkaXNjb3VudCBhcHBlYXJzCiAgICAgKgogICAgICogQHBhcmFtIGJpcnRoRGF5IHVzZXIgYmlydGggZGF5CiAgICAgKiBAcGFyYW0gYWlyRGF0ZSAgZXZlbnQgYWlyIGRhdGUKICAgICAqIEByZXR1cm4gZGF0ZSBmcm9tIHdoaWNoIGRpc2NvdW50IGFwcGVhcnMKICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsY3VsYXRlIGRhdGUgZnJvbSB3aGljaCBkaXNjb3VudCBhcHBlYXJzCiAgICAgKgogICAgICogQHBhcmFtIGJpcnRoRGF5IHVzZXIgYmlydGggZGF5CiAgICAgKiBAcGFyYW0gYWlyRGF0ZSAgZXZlbnQgYWlyIGRhdGUKICAgICAqIEByZXR1cm4gZGF0ZSBmcm9tIHdoaWNoIGRpc2NvdW50IGFwcGVhcnMKICAgICAqLwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbURhdGUueWUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbURhdGUueWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
