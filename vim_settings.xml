@@ -437,12 +437,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/shell.xml" timestamp="1499177222442">
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/shell.xml" timestamp="1499178858600">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="82" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/TryFinally.java" timestamp="1496744348424">
         <mark key="[" line="23" column="75" />
@@ -721,11 +721,11 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/shell/AuthShell.java" timestamp="1499178264720">
-        <mark key="[" line="46" column="71" />
-        <mark key="]" line="46" column="71" />
-        <mark key="." line="46" column="71" />
-        <mark key="^" line="46" column="54" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/shell/AuthShell.java" timestamp="1499178771344">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/pso/src/main/webapp/widget/service-categories.html" timestamp="1486571783787">
         <mark key="[" line="835" column="364" />
@@ -1349,6 +1349,12 @@
         <mark key="." line="39" column="128" />
         <mark key="^" line="33" column="128" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/service.xml" timestamp="1499179709964">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Ticket.java" timestamp="1499152187364">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="15" />
@@ -1669,11 +1675,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499087388835">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="35" column="16" />
-        <mark key="." line="35" column="16" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/UserService.java" timestamp="1499178530422">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/EventService.java" timestamp="1499084781028">
         <mark key="[" line="13" column="0" />
@@ -1880,9 +1886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="51" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/entitymanager/EntityService.java" />
-      <jump line="124" column="22" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
-      <jump line="198" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="208" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="209" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="213" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
@@ -1980,22 +1983,25 @@
       <jump line="15" column="14" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/discount/BirthDayStrategyTest.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/services.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/shell.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/shell/AuthShell.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/shell/AuthShell.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/shell/AuthShell.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, name</text>
+        <text encoding="base64">IGFic3RyYWN0PSIi</text>
       </register>
       <register name="-" type="4">
-        <text>, name</text>
+        <text encoding="base64">IGFic3RyYWN0PSIi</text>
       </register>
       <register name="/" type="4">
         <text>sho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uZXhhbXBsZS5zcHJpbmcudGhlYXRlci5zZXJ2aWNlLkJvb2tpbmdTZXJ2aWNlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNCbGFuayhsb2dpbikgfHwgaXNCbGFuayhwYXNzd29yZCkgfHwgaXNCbGFuayhuYW1lKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnPgogICAgICAgICAgICA8YmVhbj48L2JlYW4+CiAgICAgICAgPC9jb25zdHJ1Y3Rvci1hcmc+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2028,28 +2034,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">PCEtLSAgICA8YmVhbiBhYnN0cmFjdD0idHJ1ZSIgY2xhc3M9ImNvbS5leGFtcGxlLnNwcmluZy50aGVhdGVyLnNlcnZpY2UuSWRHZW5lcmF0b3IiLz4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNCbGFuayhsb2dpbikgfHwgaXNCbGFuayhwYXNzd29yZCkgfHwgaXNCbGFuayhuYW1lKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDbGlDCg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQENsaU9wdGlvbihrZXkgPSAiZW1haWwiKSBmaW5hbCBTdHJpbmcgZW1haWwsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9AQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICAgIEBDbGlDCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
