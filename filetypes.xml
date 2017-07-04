@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="DockerFile" type="Docker file" />
       <mapping pattern="phantomjs" type="PLAIN_TEXT" />
+      <mapping pattern="shell" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
