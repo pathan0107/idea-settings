@@ -939,7 +939,7 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1499256660502">
+      <file name="/fragment.java" timestamp="1499428628749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1005,11 +1005,11 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1499177889689">
-        <mark key="[" line="21" column="94" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/build.gradle" timestamp="1499264376118">
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/model/Group.java" timestamp="1498818000307">
         <mark key="[" line="9" column="18" />
@@ -1363,6 +1363,12 @@
         <mark key="]" line="47" column="79" />
         <mark key="^" line="47" column="79" />
         <mark key="." line="47" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/SomeComponentTest.java" timestamp="1499428664955">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/SettingsProvider.java" timestamp="1492952435087">
         <mark key="[" line="8" column="9" />
@@ -1754,11 +1760,10 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/SomeComponent.java" timestamp="1499264304926">
-        <mark key="[" line="8" column="72" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/SomeComponent.java" timestamp="1499428624853">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/spring-test/src/main/java/ru/atc/training/spring/springioc/SuperHero.java" timestamp="1491147975321">
         <mark key="[" line="6" column="22" />
@@ -1801,6 +1806,9 @@
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" timestamp="1499411030006">
+        <mark key="'" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/config/WebConfigurer.java" timestamp="1490975180079">
         <mark key="[" line="2" column="0" />
@@ -1894,7 +1902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="230" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="231" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="235" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
@@ -1994,22 +2001,23 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/shell.xml" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springContext.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springContext.xml" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGF6eS1pbml0PSJ0cnVlIiA=</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF6eS1pbml0PSJ0cnVlIiA=</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
-        <text>sho</text>
+        <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhtbG5zOmNvbnRleHQ9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dCIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAogICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2NvbnRleHQKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC0zLjEueHNkIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIG5hbWU9InNvbWVTZXJ2aWNlIiBjbGFzcz0iY29tLmV4YW1wbGUuc3ByaW5nLnRoZWF0ZXIuU29tZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCIgZGVzdHJveS1tZXRob2Q9ImNsb3NlIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0ic29tZUNvbXBvbmVudCIvPgogICAgPC9iZWFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2042,37 +2050,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVTZXJ2aWNlIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQuY2xhc3MgPT0gSW50ZWdlci5jbGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lU2VydmljZSBpbXBsZW1lbnRzIEluaXRpYWxpemluZ0JlYW4sIERpc3Bvc2FibGVCZWFuIHsKCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTb21lQ29tcG9uZW50IGNvbXBvbmVudDsKCiAgICAgICAgcHVibGljIFNvbWVTZXJ2aWNlKFNvbWVDb21wb25lbnQgY29tcG9uZW50KSB7CiAgICAgICAgICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgaW5pdCgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiYSIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImIiKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJjIik7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBkZXN0cm95KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImQiKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoKSB7CiAgICAgICAgICAgIGNvbXBvbmVudC5wcmludCgpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVDb21wb25lbnQgewp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lQ29tcG9uZW50IGltcGxlbWVudHMgSW5pdGlhbGl6aW5nQmVhbiwgRGlzcG9zYWJsZUJlYW4gewoKICAgICAgICBwdWJsaWMgdm9pZCBpbml0KCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJlIik7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBjbG9zZSgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZiIpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJQcm9wZXJ0aWVzU2V0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImciKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGRlc3Ryb3koKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiaCIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgcHJpbnQoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImkiKTsKICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU29tZUNvbXBvbmVudCgpe30K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIG5hbWU9InNvbWVTZXJ2aWNlIiBjbGFzcz0iY29tLmV4YW1wbGUuc3ByaW5nLnRoZWF0ZXIuU29tZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCIgZGVzdHJveS1tZXRob2Q9ImNsb3NlIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0ic29tZUNvbXBvbmVudCIvPgogICAgPC9iZWFuPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVTZXJ2aWNlIHsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lU2VydmljZSBpbXBsZW1lbnRzIEluaXRpYWxpemluZ0JlYW4sIERpc3Bvc2FibGVCZWFuIHsKCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTb21lQ29tcG9uZW50IGNvbXBvbmVudDsKCiAgICAgICAgcHVibGljIFNvbWVTZXJ2aWNlKFNvbWVDb21wb25lbnQgY29tcG9uZW50KSB7CiAgICAgICAgICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgaW5pdCgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiYSIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImIiKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJjIik7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBkZXN0cm95KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImQiKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoKSB7CiAgICAgICAgICAgIGNvbXBvbmVudC5wcmludCgpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVDb21wb25lbnQgewp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lQ29tcG9uZW50IGltcGxlbWVudHMgSW5pdGlhbGl6aW5nQmVhbiwgRGlzcG9zYWJsZUJlYW4gewoKICAgICAgICBwdWJsaWMgdm9pZCBpbml0KCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJlIik7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBjbG9zZSgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZiIpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJQcm9wZXJ0aWVzU2V0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImciKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGRlc3Ryb3koKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiaCIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgcHJpbnQoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImkiKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>sho</last-search>
+      <last-search encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>sho</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
@@ -2080,7 +2088,6 @@
     </search>
     <history>
       <history-search>
-        <entry>graph</entry>
         <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
         <entry>entity</entry>
         <entry>boot</entry>
@@ -2100,6 +2107,7 @@
         <entry encoding="base64">XDxpcHJcPg==</entry>
         <entry encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</entry>
         <entry>sho</entry>
+        <entry encoding="base64">XDxzdGF0ZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
