@@ -57,6 +57,12 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/IOSystem.java" timestamp="1500024046068">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/templates/esia-auth.html" timestamp="1493279826023">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="5" column="35" />
@@ -851,11 +857,11 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" timestamp="1500022486840">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" timestamp="1500024096179">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1500020106412">
         <mark key="[" line="0" column="0" />
@@ -961,7 +967,7 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1500020922513">
+      <file name="/fragment.java" timestamp="1500023953184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -2048,11 +2054,11 @@
       <jump line="22" column="29" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>);(</text>
       </register>
       <register name="-" type="4">
-        <text>String message</text>
+        <text>);(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
