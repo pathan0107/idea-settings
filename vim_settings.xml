@@ -63,9 +63,6 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1499067415808">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="61" />
@@ -293,9 +290,9 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/build.gradle" timestamp="1498738179329">
-        <mark key="[" line="38" column="76" />
-        <mark key="]" line="38" column="77" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/build.gradle" timestamp="1500019712886">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="68" />
         <mark key="." line="38" column="77" />
         <mark key="^" line="38" column="14" />
       </file>
@@ -840,9 +837,6 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499175212849">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="19" />
@@ -1269,6 +1263,11 @@
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/build.gradle" timestamp="1500019714844">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="64" />
@@ -1417,9 +1416,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DicountService.java" timestamp="1498817765271">
-        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" timestamp="1495364091823">
         <mark key="[" line="10" column="27" />
@@ -2004,8 +2000,8 @@
       <jump line="22" column="29" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PT0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PT0g</text>
@@ -2014,7 +2010,7 @@
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhtbG5zOmNvbnRleHQ9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dCIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAogICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2NvbnRleHQKICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC0zLjEueHNkIj4K</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
