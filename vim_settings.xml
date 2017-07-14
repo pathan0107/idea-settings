@@ -63,6 +63,9 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1499067415808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="61" />
@@ -206,6 +209,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/Quoter.java" timestamp="1500020865876">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/settings.gradle" timestamp="1490866517563">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="13" />
@@ -253,6 +262,12 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500022150626">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -440,18 +455,17 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springConfig/shell.xml" timestamp="1499256228994">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="76" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/experiments/TryFinally.java" timestamp="1496744348424">
         <mark key="[" line="23" column="75" />
         <mark key="]" line="23" column="81" />
         <mark key="^" line="23" column="81" />
         <mark key="." line="23" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/Terminator.java" timestamp="1500020879390">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/java/com/example/spring/theater/ServiceContextTest.java" timestamp="1499175180439">
         <mark key="[" line="16" column="86" />
@@ -765,9 +779,9 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-core/build.gradle" timestamp="1497533238510">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="23" column="3" />
+      <file name="$USER_HOME$/Documents/myGitLab/spring-core/build.gradle" timestamp="1500019755638">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="97" />
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
@@ -836,6 +850,15 @@
         <mark key="]" line="12" column="71" />
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" timestamp="1500022486840">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500020106412">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
         <mark key="[" line="13" column="0" />
@@ -933,7 +956,12 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1499428628749">
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/gradle.properties" timestamp="1500020650769">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="/fragment.java" timestamp="1500020922513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -986,6 +1014,12 @@
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Config.java" timestamp="1500022238319">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Theater.java" timestamp="1498820171215">
         <mark key="[" line="10" column="22" />
@@ -1064,6 +1098,11 @@
         <mark key="]" line="13" column="7" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/settings.gradle" timestamp="1500020136903">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/CacheStrategy.java" timestamp="1492936856360">
         <mark key="[" line="33" column="5" />
@@ -1263,10 +1302,11 @@
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/build.gradle" timestamp="1500019714844">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/build.gradle" timestamp="1500021095419">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="82" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/widget-html.html" timestamp="1490194115286">
         <mark key="[" line="24" column="28" />
@@ -1416,6 +1456,9 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DicountService.java" timestamp="1498817765271">
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" timestamp="1495364091823">
         <mark key="[" line="10" column="27" />
@@ -1878,6 +1921,11 @@
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Quoter.java" timestamp="1500021375305">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/web.xml" timestamp="1495452013028">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="12" column="21" />
@@ -2001,19 +2049,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>String message</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
+      <register name="0" type="4">
+        <text>${spring.version}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2046,28 +2094,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQuY2xhc3MgPT0gSW50ZWdlci5jbGFzcwo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0QXBwbGljYXRpb25Db250ZXh0KEFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQpIHRocm93cyBCZWFuc0V4Y2VwdGlvbiB7CiAgICAgICAgY29udGV4dCA9IGFwcGxpY2F0aW9uQ29udGV4dDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEFubgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIG5hbWU9InNvbWVTZXJ2aWNlIiBjbGFzcz0iY29tLmV4YW1wbGUuc3ByaW5nLnRoZWF0ZXIuU29tZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCIgZGVzdHJveS1tZXRob2Q9ImNsb3NlIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0ic29tZUNvbXBvbmVudCIvPgogICAgPC9iZWFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVTZXJ2aWNlIHsKfQo=</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lU2VydmljZSBpbXBsZW1lbnRzIEluaXRpYWxpemluZ0JlYW4sIERpc3Bvc2FibGVCZWFuIHsKCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTb21lQ29tcG9uZW50IGNvbXBvbmVudDsKCiAgICAgICAgcHVibGljIFNvbWVTZXJ2aWNlKFNvbWVDb21wb25lbnQgY29tcG9uZW50KSB7CiAgICAgICAgICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgaW5pdCgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiYSIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImIiKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJjIik7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBkZXN0cm95KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImQiKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoKSB7CiAgICAgICAgICAgIGNvbXBvbmVudC5wcmludCgpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29sczoke3NwcmluZ192ZXJzaW9ufSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNvbWVDb21wb25lbnQgewp9Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTb21lQ29tcG9uZW50IGltcGxlbWVudHMgSW5pdGlhbGl6aW5nQmVhbiwgRGlzcG9zYWJsZUJlYW4gewoKICAgICAgICBwdWJsaWMgdm9pZCBpbml0KCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJlIik7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBjbG9zZSgpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiZiIpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJQcm9wZXJ0aWVzU2V0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImciKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGRlc3Ryb3koKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiaCIpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgcHJpbnQoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoImkiKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
