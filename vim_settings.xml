@@ -665,11 +665,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/InjectQuoteAnnotationBeanPostProcessor.java" timestamp="1500027654867">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/InjectQuoteAnnotationBeanPostProcessor.java" timestamp="1500031085902">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="17" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Auditorium.java" timestamp="1499082431070">
         <mark key="[" line="18" column="37" />
@@ -857,11 +857,12 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" timestamp="1500027126644">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="40" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" timestamp="1500031738391">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1500020106412">
         <mark key="[" line="0" column="0" />
@@ -913,6 +914,12 @@
         <mark key="]" line="33" column="27" />
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/ProfilingControllerMBean.java" timestamp="1500032939335">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignitestreamsearch/src/main/java/ru/vtb/dbo/poc/ignitestreamsearch/Launcher.java" timestamp="1498595528633">
         <mark key="[" line="9" column="44" />
@@ -967,7 +974,7 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1500026580491">
+      <file name="/fragment.java" timestamp="1500032866636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1145,6 +1152,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/ProfilingController.java" timestamp="1500033001911">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/trickycodetraining/experiments/TryResource.java" timestamp="1496743321774">
         <mark key="[" line="7" column="36" />
@@ -1433,10 +1446,10 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/InjectQuoteCount.java" timestamp="1500027118858">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/InjectQuoteCount.java" timestamp="1500031215708">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/Settings.java" timestamp="1492953590374">
         <mark key="[" line="62" column="71" />
@@ -1476,6 +1489,12 @@
         <mark key="]" line="20" column="50" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/ProfilingBeanPostProcessor.java" timestamp="1500033284670">
+        <mark key="[" line="35" column="67" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/ru/vcherkesske/apteka/entity/Coordinates.java" timestamp="1492096729644">
         <mark key="[" line="9" column="4" />
@@ -1774,6 +1793,11 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Profiling.java" timestamp="1500031733334">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1490200422132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1838,9 +1862,6 @@
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" timestamp="1499411030006">
-        <mark key="'" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/ssp_widget/src/main/java/ru/atc/ssp/widget/config/WebConfigurer.java" timestamp="1490975180079">
         <mark key="[" line="2" column="0" />
@@ -1939,7 +1960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="231" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="235" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="236" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
@@ -2039,13 +2059,14 @@
       <jump line="7" column="6" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springContext.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/resources/springContext.xml" />
       <jump line="22" column="29" filename="$USER_HOME$/Documents/myGitLab/dbExperiments/jdbc/src/main/java/com/example/db/jdbc/JdbcApp.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Terminator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>profilingController</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2054,7 +2075,7 @@
         <text>${spring.version}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2087,28 +2108,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5qZWN0UXVvdGVDb3VudCAhPSBudWxsKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBtaW4gPSAxOwogICAgaW50IG1heCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9maWxpbmcgYW5ub3RhdGlvbiA9IGJlYW5DbGFzcy5nZXRBbm5vdGF0aW9uKFByb2ZpbGluZy5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gcXVvdGVDb3VudFtpXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyCg==</text>
+        <text encoding="base64">QFRhcmdldChFbGVtZW50VHlwZS5UWVBFKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBvIDogKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
