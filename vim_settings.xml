@@ -69,8 +69,11 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1499067415808">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/T1000.java" timestamp="1500371529248">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-stats/src/main/java/com/atc/web/db/aggregation/functionproviders/FinalTransformationProcessor.java" timestamp="1486037450208">
         <mark key="[" line="19" column="61" />
@@ -269,11 +272,11 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500035734119">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500371988524">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -877,9 +880,6 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500020106412">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="19" />
@@ -987,11 +987,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1500034596384">
+      <file name="/fragment.java" timestamp="1500372231490">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/src/main/java/ru/vtb/dbo/exchangecontrol/config/IgniteConfig.java" timestamp="1498631496511">
         <mark key="[" line="39" column="0" />
@@ -1352,6 +1352,12 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/QuoterBeanDefinitionPostProcessor.java" timestamp="1500372288753">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="14" column="93" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/InMemoryCache.java" timestamp="1493018830497">
         <mark key="[" line="17" column="81" />
         <mark key="]" line="19" column="21" />
@@ -1487,9 +1493,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DicountService.java" timestamp="1498817765271">
-        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" timestamp="1495364091823">
         <mark key="[" line="10" column="27" />
@@ -2077,10 +2080,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gdHJ1ZQ==</text>
+        <text>containsBean(&quot;Terminator&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gdHJ1ZQ==</text>
+        <text>containsBean(&quot;Terminator&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
