@@ -272,11 +272,11 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500371988524">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="25" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500470014637">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="47" column="41" />
+        <mark key="." line="47" column="41" />
+        <mark key="^" line="47" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -2080,16 +2080,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>containsBean(&quot;Terminator&quot;);</text>
+        <text>milk</text>
       </register>
       <register name="-" type="4">
-        <text>containsBean(&quot;Terminator&quot;);</text>
+        <text>milk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgcmV0VmFsID0gbWV0aG9kLmludm9rZShiZWFuLCBhcmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICBncm9jZXJ5LmFkZCgibWlsayIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
