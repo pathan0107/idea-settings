@@ -272,11 +272,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500470014637">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-        <mark key="^" line="47" column="41" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500536194699">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -2079,8 +2078,8 @@
       <jump line="29" column="90" filename="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/ProfilingBeanPostProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>milk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnRzID0gezEsMiwzfTsKICAgICAgICBpbnRzLmxlbmd0aAo=</text>
       </register>
       <register name="-" type="4">
         <text>milk</text>
@@ -2092,7 +2091,7 @@
         <text encoding="base64">ICAgICAgICBncm9jZXJ5LmFkZCgibWlsayIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnRzID0gezEsMiwzfTsKICAgICAgICBpbnRzLmxlbmd0aAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2124,29 +2123,29 @@
           <key char="112" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBpZiAob24pIHsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9maWxpbmcgYW5ub3RhdGlvbiA9IGJlYW5DbGFzcy5nZXRBbm5vdGF0aW9uKFByb2ZpbGluZy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
