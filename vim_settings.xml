@@ -903,6 +903,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/model/PhoneNumber.java" timestamp="1500555304354">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/test/resources/springConfig/daomocks.xml" timestamp="1499089703517">
         <mark key="[" line="19" column="97" />
         <mark key="]" line="19" column="98" />
@@ -2079,7 +2084,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHR5cGU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -2091,7 +2096,7 @@
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlc3VsdFswXSwgMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHR5cGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2124,28 +2129,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbnVsbENvbXBhcmlzb24oKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKXt7YWRkQWxsKEFycmF5cy5hc0xpc3QoMSwzLDUsMywyNSkpO319KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBudWxsQ29tcGFyaXNvbigpIHsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbnVsbENvbXBhcmlzb24oKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKXt7YWRkQWxsKEFycmF5cy5hc0xpc3QoMSwzLDUsMywyNSkpO319KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVsbCA8PSAwKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBudWxsQ29tcGFyaXNvbigpIHsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIExpc3Q8SW50ZWdlcj4+IGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZm9yIChNYXAuRW50cnk8SW50ZWdlciwgTGlzdDxJbnRlZ2VyPj4gZW50cnkgOiBhLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgZW50cnkuZ2V0VmFsdWUoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVsbCA8PSAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QgYTsK</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIExpc3Q8SW50ZWdlcj4+IGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZm9yIChNYXAuRW50cnk8SW50ZWdlciwgTGlzdDxJbnRlZ2VyPj4gZW50cnkgOiBhLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgZW50cnkuZ2V0VmFsdWUoKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkQQo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QgYTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhLmVudHJ5U2V0KCkuZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBhLmFkQQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBMaXN0PEludGVnZXI+PiBpbnRlZ2VyTGlzdEVudHJ5IDogYS5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhLmVudHJ5U2V0KCkuZm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
