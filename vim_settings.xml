@@ -272,10 +272,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500551019283">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500553498956">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/DateFactory.java" timestamp="1497538381779">
         <mark key="[" line="16" column="5" />
@@ -2079,10 +2079,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCl7e2FkZCgxKTt9fTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2091,7 +2091,7 @@
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlc3VsdFswXSwgMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCl7e2FkZCgxKTt9fTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2124,28 +2124,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuCg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbnVsbENvbXBhcmlzb24oKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKXt7YWRkQWxsKEFycmF5cy5hc0xpc3QoMSwzLDUsMywyNSkpO319KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwIGE7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBudWxsQ29tcGFyaXNvbigpIHsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dElmQWJzZW50KCkgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVsbCA8PSAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpIDogcmVzdWx0KSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIExpc3Q8SW50ZWdlcj4+IGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZm9yIChNYXAuRW50cnk8SW50ZWdlciwgTGlzdDxJbnRlZ2VyPj4gZW50cnkgOiBhLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgZW50cnkuZ2V0VmFsdWUoKQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QgYTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBhLmFkQQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuY29udGFpbnNLZXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhLmVudHJ5U2V0KCkuZm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLTEyIC0gLTQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBMaXN0PEludGVnZXI+PiBpbnRlZ2VyTGlzdEVudHJ5IDogYS5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
