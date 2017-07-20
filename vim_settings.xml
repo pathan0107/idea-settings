@@ -272,7 +272,7 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500541637555">
+      <file name="$USER_HOME$/Documents/myGitLab/terminator/src/test/java/example/terminator/TerminatorTest.java" timestamp="1500551019283">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -2079,10 +2079,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCl7e2FkZCgxKTt9fTsK</text>
       </register>
       <register name="-" type="4">
-        <text>containsKey()</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2091,7 +2091,7 @@
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlc3VsdFswXSwgMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCl7e2FkZCgxKTt9fTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2124,28 +2124,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuY29udGFpbnNLZXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLTEyIC0gLTQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwIGE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLTEyIC0gNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dElmQWJzZW50KCkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyW10gaW50cyA9IG5ldyBJbnRlZ2VyW117MSwgMiwgMywgbnVsbCwgMjJ9Owo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpIDogcmVzdWx0KSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRzLmxlbmd0aAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuZ2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgU29sdXRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFzaE1hcDw+KCkuY29udGFpbnNLZXkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGludFtdIHR3b1N1bShpbnRbXSBudW1zLCBpbnQgdGFyZ2V0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLTEyIC0gLTQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
