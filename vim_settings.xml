@@ -1273,11 +1273,10 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/PharmacyOstatki.java" timestamp="1500643222897">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/PharmacyOstatki.java" timestamp="1500645865447">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -1487,6 +1486,12 @@
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepository.java" timestamp="1500645342313">
+        <mark key="[" line="11" column="89" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="59" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/SettingsFactory.java" timestamp="1492888301276">
         <mark key="[" line="5" column="0" />
@@ -2204,11 +2209,11 @@
       <jump line="20" column="26" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/resources/PharmacyResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>11</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPcmRlckNvbHVtbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>IndexColumn()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2217,34 +2222,34 @@
         <text encoding="base64">ICogRW50aXR5IGZvciBpbnRlZ3JhdGlvbiB3aXRoIElucHJvIChLb2dhbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNYXgoKQo=</text>
+        <text encoding="base64">ICAgIEBPcmRlckNvbHVtbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBDb2xsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCBwaGFybWFjeSBpZAogICAgICogQHJldHVybiBwaGFybWFjeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBNYXgoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCBwaGFybWFjeSBpZAogICAgICogQHJldHVybiBwaGFybWFjeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGhhcm1hY3k+IGZpbmRCeU5hbWVJZ25vcmVDYXNlKFN0cmluZyBuYW1lKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
