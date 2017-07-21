@@ -1031,8 +1031,8 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1500631077413">
-        <mark key="[" line="0" column="11" />
+      <file name="/fragment.java" timestamp="1500636730374">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="89" />
         <mark key="." line="0" column="11" />
@@ -1157,6 +1157,7 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/Address.java" timestamp="1500636685593" />
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1180,11 +1181,11 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/resources/PharmacyResource.java" timestamp="1500633141085">
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/resources/PharmacyResource.java" timestamp="1500636841817">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+        <mark key="." line="29" column="38" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/CacheStrategy.java" timestamp="1492936856360">
         <mark key="[" line="33" column="5" />
@@ -2169,11 +2170,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/MedicalStaffIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
