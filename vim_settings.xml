@@ -69,6 +69,9 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="7" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1500558139863">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/T1000.java" timestamp="1500371529248">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="35" />
@@ -199,11 +202,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/repository/OstatkiRepositoryTest.java" timestamp="1500631247414">
-        <mark key="[" line="64" column="78" />
-        <mark key="]" line="64" column="79" />
-        <mark key="." line="64" column="79" />
-        <mark key="^" line="64" column="79" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/repository/OstatkiRepositoryTest.java" timestamp="1500650813033">
+        <mark key="[" line="39" column="94" />
+        <mark key="]" line="39" column="94" />
+        <mark key="." line="39" column="94" />
+        <mark key="^" line="39" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/domain/Event.java" timestamp="1498829950792">
         <mark key="[" line="18" column="24" />
@@ -559,9 +562,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/Ostatki.java" timestamp="1500643164753">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="44" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/Ostatki.java" timestamp="1500650758770">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
       </file>
       <file name="$USER_HOME$/gitLab/apteka/src/main/java/Application.java" timestamp="1492082632433">
         <mark key="[" line="13" column="1" />
@@ -611,11 +616,11 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/Pharmacy.java" timestamp="1500642433135">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="13" column="87" />
-        <mark key="." line="13" column="87" />
-        <mark key="^" line="13" column="87" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/Pharmacy.java" timestamp="1500650719003">
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="57" />
+        <mark key="." line="33" column="57" />
+        <mark key="^" line="33" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/dao/AuditoriumPropFilesDao.java" timestamp="1499086863520">
         <mark key="[" line="12" column="42" />
@@ -934,6 +939,9 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
+      <file name="/Dummy.txt" timestamp="1500650650449">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/build.gradle" timestamp="1495788690777">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="19" />
@@ -1046,7 +1054,7 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1500641054029">
+      <file name="/fragment.java" timestamp="1500649489604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="89" />
@@ -1273,10 +1281,11 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/PharmacyOstatki.java" timestamp="1500645865447">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/inpro/PharmacyOstatki.java" timestamp="1500650749636">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/gitLab/AIS_MFC/mfc-main/mfc-gui/src/main/java/com/atc/mfc/gui/controllers/statistic/standartReport/TemporaryCollectionsManager.java" timestamp="1489074468444">
         <mark key="[" line="40" column="31" />
@@ -1487,11 +1496,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepository.java" timestamp="1500645342313">
-        <mark key="[" line="11" column="89" />
-        <mark key="]" line="12" column="59" />
-        <mark key="^" line="12" column="59" />
-        <mark key="." line="12" column="59" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepository.java" timestamp="1500649462433">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/SettingsFactory.java" timestamp="1492888301276">
         <mark key="[" line="5" column="0" />
@@ -1604,6 +1613,9 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/DicountService.java" timestamp="1498817765271">
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sfg/src/main/java/sfg/TestClass.java" timestamp="1495364091823">
         <mark key="[" line="10" column="27" />
@@ -1928,6 +1940,13 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepositoryTest.java" timestamp="1500650642911">
+        <mark key="'" line="47" column="61" />
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="47" column="61" />
+        <mark key="^" line="47" column="61" />
+        <mark key="." line="47" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/Profiling.java" timestamp="1500031733334">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1956,8 +1975,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/PharmacyIntegrationTest.java" timestamp="1500561190604">
-        <mark key="[" line="27" column="18" />
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/PharmacyIntegrationTest.java" timestamp="1500649578842">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="33" />
         <mark key="^" line="27" column="33" />
@@ -2107,7 +2126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="241" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="245" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="246" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
@@ -2207,49 +2225,50 @@
       <jump line="29" column="90" filename="$USER_HOME$/Documents/myGitLab/terminator/src/main/java/example/terminator/ProfilingBeanPostProcessor.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/MedicalStaffIntegrationTest.java" />
       <jump line="20" column="26" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/resources/PharmacyResource.java" />
+      <jump line="47" column="61" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepositoryTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPcmRlckNvbHVtbgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>IndexColumn()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogRW50aXR5IGZvciBpbnRlZ3JhdGlvbiB3aXRoIElucHJvIChLb2dhbikK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG92YXJSZXBvc2l0b3J5IHRvdmFyUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPcmRlckNvbHVtbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb2xsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPc3RhdGtpIG9zdGF0a2kgPSBuZXcgT3N0YXRraSgpOwogICAgICAgIG9zdGF0a2kuc2V0QXB0ZWthQWRkcmVzcygi0YPQuy4g0JfQtdC70LXQvdCw0Y8g0YHRgtGA0L7QtdC90LjQtSAzMiIpOwogICAgICAgIG9zdGF0a2kuc2V0QXB0ZWthTmFtZSgi0JDQv9GC0LXQutCwINCg0LAiKTsKICAgICAgICBvc3RhdGtpLnNldERhdGUoTG9jYWxEYXRlLm5vdygpKTsKICAgICAgICBvc3RhdGtpUmVwb3NpdG9yeS5zYXZlKG9zdGF0a2kpOwoKICAgICAgICBvc3RhdGtpID0gbmV3IE9zdGF0a2koKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYUFkZHJlc3MoItC/0LXRgC4g0JLQvtC70L7QstC+0LkgMTQiKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYU5hbWUoItCg0L7QvNCw0YjQutCwIik7CiAgICAgICAgb3N0YXRraS5zZXREYXRlKExvY2FsRGF0ZS5ub3coKS5taW51c01vbnRocygxNCkubWludXNEYXlzKDMyKSk7CiAgICAgICAgb3N0YXRraVJlcG9zaXRvcnkuc2F2ZShvc3RhdGtpKTsKICAgICAgICBvc3RhdGtpID0gbmV3IE9zdGF0a2koKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYUFkZHJlc3MoItCy0LDRgNC60LAiKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYU5hbWUoItCw0L/RgtC10LrQsCIpOwogICAgICAgIG9zdGF0a2kuc2V0RGF0ZShMb2NhbERhdGUubm93KCkubWludXNNb250aHMoMTApKTsKICAgICAgICBvc3RhdGtpUmVwb3NpdG9yeS5zYXZlKG9zdGF0a2kpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNYXgoKQo=</text>
+        <text encoding="base64">ICAgIEBPcmRlckNvbHVtbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBDb2xsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCBwaGFybWFjeSBpZAogICAgICogQHJldHVybiBwaGFybWFjeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBNYXgoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCBwaGFybWFjeSBpZAogICAgICogQHJldHVybiBwaGFybWFjeQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
