@@ -1180,6 +1180,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/resources/PharmacyResource.java" timestamp="1500633141085">
+        <mark key="[" line="28" column="58" />
+        <mark key="]" line="29" column="43" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+      </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/CacheStrategy.java" timestamp="1492936856360">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="36" column="20" />
@@ -2163,11 +2169,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/MedicalStaffIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2176,34 +2182,34 @@
         <text encoding="base64">ICAgICAgICBvc3RhdGtpID0gbmV3IE9zdGF0a2koKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYUFkZHJlc3MoItC/0LXRgC4g0JLQvtC70L7QstC+0LkgMTQiKTsKICAgICAgICBvc3RhdGtpLnNldEFwdGVrYU5hbWUoItCg0L7QvNCw0YjQutCwIik7CiAgICAgICAgb3N0YXRraS5zZXREYXRlKExvY2FsRGF0ZS5ub3coKS5taW51c01vbnRocygxNCkubWludXNEYXlzKDMyKSk7CiAgICAgICAgcmVwb3NpdG9yeS5zYXZlKG9zdGF0a2kpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSAqPSAyOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDI7CiAgICAgICAgZm9yIChPc3RhdGtpIG9zdGF0a2lJdGVtIDogb3N0YXRraSkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAxOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaSAqPSAyOwogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDI7CiAgICAgICAgZm9yIChPc3RhdGtpIG9zdGF0a2lJdGVtIDogb3N0YXRraSkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvc3RhdGtpLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
