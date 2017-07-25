@@ -1184,6 +1184,9 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/XmlParser.java" timestamp="1500971188695">
+        <mark key="[" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/gitLab/mfc-stats/mfc-stats/config_en.properties" timestamp="1487347713218">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1482,6 +1485,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/DeadLock.java" timestamp="1500970719085">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/vtb/microservice-exchange-control/exchange-control-api/src/main/java/ru/vtb/dbo/exchangecontrol/dictionary/dealpassportsection/dto/DealPassportSection.java" timestamp="1498145095922">
         <mark key="[" line="10" column="32" />
