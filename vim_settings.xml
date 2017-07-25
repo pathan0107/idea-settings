@@ -1933,11 +1933,11 @@
         <mark key="." line="23" column="126" />
         <mark key="^" line="23" column="126" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/XpathXmlParser.java" timestamp="1500977757055">
-        <mark key="[" line="20" column="79" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/XpathXmlParser.java" timestamp="1500977919714">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/gitLab/rostov/meta-soap/soap/src/main/resources/application.properties" timestamp="1486387022613">
         <mark key="[" line="9" column="14" />
@@ -2248,11 +2248,11 @@
       <jump line="28" column="59" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/XmlParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGVMaXN0Lml0ZW0oaSkuZ2V0QXR0cmlidXRlcygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>element</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
