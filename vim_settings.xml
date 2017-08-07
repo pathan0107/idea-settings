@@ -483,11 +483,11 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Test.java" timestamp="1502089222024">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="30" />
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Test.java" timestamp="1502108114237">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/NoSuchCacheStrategyException.java" timestamp="1492889386652">
         <mark key="[" line="7" column="0" />
@@ -2250,10 +2250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>File</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
@@ -2262,34 +2262,34 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG92YXJSZXBvc2l0b3J5IHRvdmFyUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGVMaXN0Lml0ZW0oaSkuZ2V0QXR0cmlidXRlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmUgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSBici5yZWFkTGluZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBkZWZzID0geFBhdGguZXZhbHVhdGUoIi9kZWZpbml0aW9ucyIsIG5ldyBJbnB1dFNvdXJjZShpcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGVMaXN0Lml0ZW0oaSkuZ2V0QXR0cmlidXRlcygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlTGlzdCBub2RlTGlzdCA9IChOb2RlTGlzdCkgZXhwcmVzc2lvbi5ldmFsdWF0ZShkb2N1bWVudCwgWFBhdGhDb25zdGFudHMuTk9ERVNFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlbWVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5pdGVtKDApLmdldAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBkZWZzID0geFBhdGguZXZhbHVhdGUoIi9kZWZpbml0aW9ucyIsIG5ldyBJbnB1dFNvdXJjZShpcykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmEK</text>
+        <text encoding="base64">ICAgICAgICBOb2RlTGlzdCBub2RlTGlzdCA9IChOb2RlTGlzdCkgZXhwcmVzc2lvbi5ldmFsdWF0ZShkb2N1bWVudCwgWFBhdGhDb25zdGFudHMuTk9ERVNFVCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5pdGVtKDApLmdldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBpcyA9IFhtbFBhcnNlci5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCIvd3NkbC54bWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBldmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC4K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
