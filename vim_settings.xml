@@ -144,11 +144,6 @@
         <mark key="^" line="13" column="61" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/myGitLab/aptekaBack/src/main/java/ru/vcherkesske/pharmacy/backend/domain/PharmacyOstatki.java" timestamp="1500642979044">
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-xml-config/src/main/java/com/example/spring/theater/service/BookingService.java" timestamp="1499082441451">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="44" />
@@ -487,6 +482,12 @@
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/io/Test.java" timestamp="1502089222024">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/gitLab/test-space/cache/src/main/java/com/wiley/testjob/cache/settings/NoSuchCacheStrategyException.java" timestamp="1492889386652">
         <mark key="[" line="7" column="0" />
@@ -2249,10 +2250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>File</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>File</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
