@@ -1161,6 +1161,10 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/gitHub/checkstyle/pom.xml" timestamp="1507064518783">
+        <mark key="[" line="170" column="15" />
+        <mark key="]" line="170" column="64" />
+      </file>
       <file name="$USER_HOME$/gitLab/self-service-portal/src/main/webapp/app/entities/draft/draft.state.js" timestamp="1490185679464">
         <mark key="[" line="35" column="71" />
         <mark key="]" line="35" column="79" />
@@ -2250,7 +2254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>https://groups.google.com/forum/#!forum/checkstyle</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
@@ -2258,8 +2262,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG92YXJSZXBvc2l0b3J5IHRvdmFyUmVwb3NpdG9yeTsK</text>
+      <register name="0" type="4">
+        <text>https://groups.google.com/forum/#!forum/checkstyle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmUgIT0gbnVsbCkgewo=</text>
