@@ -1842,6 +1842,12 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/gitHub/checkstyle/src/main/java/com/puppycrawl/tools/checkstyle/Main.java" timestamp="1507282434352">
+        <mark key="'" line="384" column="23" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/myGitLab/spring-core/src/main/java/com/example/spring/core/App.java" timestamp="1497619750124">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
@@ -2151,7 +2157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="251" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="288" column="25" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
       <jump line="289" column="24" filename="$USER_HOME$/Documents/vtb/ignite-stream-search/ignite-stream-search/pom.xml" />
@@ -2251,66 +2256,66 @@
       <jump line="47" column="61" filename="$USER_HOME$/Documents/myGitLab/aptekaBack/src/test/java/ru/vcherkesske/pharmacy/backend/repository/inpro/PharmacyOstatkiRepositoryTest.java" />
       <jump line="63" column="14" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/resources/wsdl.xml" />
       <jump line="28" column="59" filename="$USER_HOME$/Documents/myGitLab/trickyCodeTraining/src/main/java/com/example/concurrency/XmlParser.java" />
+      <jump line="384" column="23" filename="$USER_HOME$/Documents/gitHub/checkstyle/src/main/java/com/puppycrawl/tools/checkstyle/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://groups.google.com/forum/#!forum/checkstyle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21tYW5kTGluZSA9bmV3IGZsb2F0W107Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0ZW1lbnRcPg==</text>
+        <text encoding="base64">XDxydW5DbGlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>https://groups.google.com/forum/#!forum/checkstyle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmUgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kTGluZSA9bmV3IGZsb2F0W107Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSBici5yZWFkTGluZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmUgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGVMaXN0Lml0ZW0oaSkuZ2V0QXR0cmlidXRlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSBici5yZWFkTGluZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGVMaXN0Lml0ZW0oaSkuZ2V0QXR0cmlidXRlcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBkZWZzID0geFBhdGguZXZhbHVhdGUoIi9kZWZpbml0aW9ucyIsIG5ldyBJbnB1dFNvdXJjZShpcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlbWVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlTGlzdCBub2RlTGlzdCA9IChOb2RlTGlzdCkgZXhwcmVzc2lvbi5ldmFsdWF0ZShkb2N1bWVudCwgWFBhdGhDb25zdGFudHMuTk9ERVNFVCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBkZWZzID0geFBhdGguZXZhbHVhdGUoIi9kZWZpbml0aW9ucyIsIG5ldyBJbnB1dFNvdXJjZShpcykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5pdGVtKDApLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBOb2RlTGlzdCBub2RlTGlzdCA9IChOb2RlTGlzdCkgZXhwcmVzc2lvbi5ldmFsdWF0ZShkb2N1bWVudCwgWFBhdGhDb25zdGFudHMuTk9ERVNFVCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBldmEK</text>
+        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5pdGVtKDApLmdldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBldmEK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-search>
+      <last-search encoding="base64">XDxydW5DbGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0ZW1lbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxydW5DbGlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sprin</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
         <entry>entity</entry>
         <entry>boot</entry>
         <entry encoding="base64">XDxvZ21cPg==</entry>
@@ -2330,6 +2335,7 @@
         <entry encoding="base64">XDxzcHJpbmdWZXJzaW9uXD4=</entry>
         <entry>sho</entry>
         <entry encoding="base64">XDxzdGF0ZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxydW5DbGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
